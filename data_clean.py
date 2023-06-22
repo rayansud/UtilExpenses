@@ -74,26 +74,17 @@ transmission_statistics_ferc1 = transmission_statistics_ferc1.groupby(
 
 # utility-nerc crosswalk
 
-
-utilities_ferc1 = pd.read_sql_table('utilities_ferc1','sqlite:///pudl.sqlite')
-utilities_eia = pd.read_sql_table('utilities_eia','sqlite:///pudl.sqlite')
+ferc1_eia_crosswalk = pd.read_csv('utility_id_pudl.csv')
 utility_data_nerc_eia861 = pd.read_sql_table('utility_data_nerc_eia861','sqlite:///pudl.sqlite')
 
+nerc_data_onferc1 = pd.merge(ferc1_eia_crosswalk,
+                             utility_data_nerc_eia861,
+                             how='outer',
+                             on='utility_id_eia')
+nerc_data_onferc1['report_year'] = nerc_data_onferc1['report_date'].dt.year  
 
-eia_pudl_ferc_ids = pd.merge(utilities_ferc1,utilities_eia,how='inner',on='utility_id_pudl')
-eia_nerc_ids = pd.merge(eia_pudl_ferc_ids,
-                        utility_data_nerc_eia861,
-                        how='inner',
-                        on='utility_id_eia')
-eia_nerc_ids['report_year'] = eia_nerc_ids['report_date'].dt.year  
-eia_nerc_ids.drop(labels=['data_maturity','utility_id_pudl','utility_id_eia','report_date'],axis='columns',inplace=True)
-
-eia_nerc_ids = eia_nerc_ids.groupby(['utility_id_ferc1','utility_name_ferc1','report_year']).agg({'nerc_region': lambda x: list(set(x)),
-                                                                                          'nerc_regions_of_operation':lambda x: list(set(x)),
-                                                                                          'state':lambda x: list(set(x)),
-                                                                                          'utility_name_eia':lambda x: list(set(x)),
-                                                                                          }).reset_index()
-
+nerc_data_onferc1.drop(labels=['data_maturity','utility_id_pudl','report_date'],axis='columns',inplace=True)
+nerc_data_onferc1.to_csv('NERC_merge.csv')
 
 
 # Merging
@@ -107,16 +98,19 @@ dispositions_and_opex_and_transmission = pd.merge(dispositions_and_opex,
                                            transmission_statistics_ferc1,
                                            on=['utility_id_ferc1','report_year'],
                                   how='outer')
+
 dispositions_and_opex_and_transmission_nerc = pd.merge(
     dispositions_and_opex_and_transmission,
-    eia_nerc_ids,
+    nerc_data_onferc1,
     how='left',
     on=['utility_id_ferc1','report_year']
 )
 
-dispositions_and_opex_and_transmission_nerc.to_csv('out.csv')
-'''
+dispositions_and_opex_and_transmission.to_csv('dispositions_and_opex_and_transmission.csv')
 
+
+
+'''
 ## electricity_sales_by_rate_schedule_ferc1
 ## Doesn't work - data is far too messy. Not possible to get subtotals by res/ind/com
 ## https://data.catalyst.coop/pudl/electricity_sales_by_rate_schedule_ferc1
@@ -139,4 +133,23 @@ electricity_sales_by_rate_schedule_ferc1= electricity_sales_by_rate_schedule_fer
          'avg_customers_per_month':'mean'
     }
 ).reset_index()
+
+
+#utilities_ferc1 = pd.read_sql_table('utilities_ferc1','sqlite:///pudl.sqlite')
+#utilities_eia = pd.read_sql_table('utilities_eia','sqlite:///pudl.sqlite')
+#eia_pudl_ferc_ids = pd.merge(utilities_ferc1,utilities_eia,how='inner',on='utility_id_pudl')
+#eia_nerc_ids = pd.merge(eia_pudl_ferc_ids,
+#                        utility_data_nerc_eia861,
+#                        how='inner',
+#                        on='utility_id_eia')
+#eia_nerc_ids['report_year'] = eia_nerc_ids['report_date'].dt.year  
+#eia_nerc_ids.drop(labels=['data_maturity','utility_id_pudl','utility_id_eia','report_date'],axis='columns',inplace=True)
+
+#eia_nerc_ids = eia_nerc_ids.groupby(['utility_id_ferc1','utility_name_ferc1','report_year']).agg({'nerc_region': lambda x: list(set(x)),
+#                                                                                          'nerc_regions_of_operation':lambda x: list(set(x)),
+#                                                                                          'state':lambda x: list(set(x)),
+#                                                                                          'utility_name_eia':lambda x: list(set(x)),
+#                                                                                          }).reset_index()
+
+
 '''
