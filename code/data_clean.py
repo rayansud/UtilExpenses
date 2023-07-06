@@ -2,6 +2,8 @@ import pandas as pd
 import sqlalchemy as sa
 from functools import reduce
 
+
+
 # NOTE: all data read here is drawn from a 5.5 GB pudl.sqlite file, which I am not uploading to GitHub for space reasons.
 # It is available at https://s3.us-west-2.amazonaws.com/intake.catalyst.coop/dev/pudl.sqlite
 
@@ -34,12 +36,22 @@ electric_operating_expenses_ferc1_wide.columns = electric_operating_expenses_fer
 electric_operating_expenses_ferc1_wide.reset_index(inplace=True)
 electric_operating_expenses_ferc1_wide.columns = electric_operating_expenses_ferc1_wide.columns.str.replace('dollar_value_', '')
 
+electric_operating_expenses_ferc1_wide.to_csv('cols.csv')
+
 electric_operating_expenses_ferc1_wide = electric_operating_expenses_ferc1_wide[['load_dispatching',
                                                                                  'administrative_and_general_expenses',
                                                                                  'administrative_and_general_operation_expense',
                                                                                  'administrative_and_general_salaries',
                                                                                  'distribution_expenses',
                                                                                  'distribution_maintenance_expense_electric',
+                                                                                 'maintenance_of_line_transformers',
+                                                                                'maintenance_of_meters',
+                                                                                'maintenance_of_miscellaneous_distribution_plant',
+                                                                                'maintenance_of_overhead_lines',
+                                                                                'maintenance_of_station_equipment',
+                                                                                'maintenance_of_structures_distribution_expense',
+                                                                                'maintenance_of_underground_lines',
+                                                                                'maintenance_supervision_and_engineering',
                                                                                  'distribution_operation_expenses_electric',
                                                                                  'transmission_expenses',
                                                                                  'transmission_maintenance_expense_electric',
@@ -86,7 +98,7 @@ transmission_statistics_ferc1 = transmission_statistics_ferc1.groupby(
 
 # utility-nerc crosswalk
 
-ferc1_eia_crosswalk = pd.read_csv('utility_id_pudl.csv')
+ferc1_eia_crosswalk = pd.read_csv('../datafiles/utility_id_pudl.csv')
 utility_data_nerc_eia861 = pd.read_sql_table('utility_data_nerc_eia861','sqlite:///pudl.sqlite')
 
 nerc_data_onferc1 = pd.merge(ferc1_eia_crosswalk,
@@ -96,7 +108,7 @@ nerc_data_onferc1 = pd.merge(ferc1_eia_crosswalk,
 nerc_data_onferc1['report_year'] = nerc_data_onferc1['report_date'].dt.year  
 
 nerc_data_onferc1.drop(labels=['data_maturity','utility_id_pudl','report_date'],axis='columns',inplace=True)
-nerc_data_onferc1.to_csv('NERC_merge.csv')
+nerc_data_onferc1.to_csv('../datafiles/NERC_merge.csv')
 
 
 # Merging
@@ -127,7 +139,7 @@ dispositions_and_opex_and_transmission_nerc = pd.merge(
 
 
 #dispositions_and_opex_and_transmission.to_csv('dispositions_and_opex_and_transmission.csv')
-dispositions_and_opex_and_transmission_and_sales.to_csv('dispositions_and_opex_and_transmission_and_sales.csv')
+dispositions_and_opex_and_transmission_and_sales.to_csv('../datafiles/dispositions_and_opex_and_transmission_and_sales.csv')
 
 
 '''
