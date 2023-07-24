@@ -3,7 +3,6 @@ import sqlalchemy as sa
 from functools import reduce
 
 
-
 # NOTE: all data read here is drawn from a 5.5 GB pudl.sqlite file, which I am not uploading to GitHub for space reasons.
 # It is available at https://s3.us-west-2.amazonaws.com/intake.catalyst.coop/dev/pudl.sqlite
 
@@ -36,9 +35,11 @@ electric_operating_expenses_ferc1_wide.columns = electric_operating_expenses_fer
 electric_operating_expenses_ferc1_wide.reset_index(inplace=True)
 electric_operating_expenses_ferc1_wide.columns = electric_operating_expenses_ferc1_wide.columns.str.replace('dollar_value_', '')
 
-electric_operating_expenses_ferc1_wide.to_csv('cols.csv')
-
 electric_operating_expenses_ferc1_wide = electric_operating_expenses_ferc1_wide[['load_dispatching',
+                                                                                 'power_production_expenses_hydraulic_power',
+                                                                                 'power_production_expenses_nuclear_power',
+                                                                                 'power_production_expenses_other_power',
+                                                                                 'power_production_expenses_steam_power',
                                                                                  'administrative_and_general_expenses',
                                                                                  'administrative_and_general_operation_expense',
                                                                                  'administrative_and_general_salaries',
@@ -54,14 +55,55 @@ electric_operating_expenses_ferc1_wide = electric_operating_expenses_ferc1_wide[
                                                                                 'maintenance_supervision_and_engineering',
                                                                                  'distribution_operation_expenses_electric',
                                                                                  'transmission_expenses',
+                                                                                 'regional_market_expenses',
+                                                                                 'sales_expenses',
+                                                                                 'administrative_and_general_expenses',
+                                                                                 'customer_account_expenses',
+                                                                                 'customer_service_and_information_expenses',
                                                                                  'transmission_maintenance_expense_electric',
                                                                                  'transmission_operation_expense',
                                                                                  'underground_line_expenses',
                                                                                  'overhead_line_expenses',
                                                                                  'overhead_line_expense',
+                                                                                 'purchased_power',
+                                                                                 'power_production_expenses',
                                                                                  'utility_id_ferc1',
                                                                                  'report_year']]
 
+
+# electric_operating_revenues_ferc1
+
+electric_operating_revenues_ferc1 = pd.read_sql('electric_operating_revenues_ferc1','sqlite:///pudl.sqlite')
+electric_operating_revenues_ferc1.drop(labels=['record_id',
+                                           'ferc_account',
+                                           'row_type_xbrl'
+                                           ],axis='columns',inplace=True)
+electric_operating_revenues_ferc1_wide = pd.pivot(electric_operating_revenues_ferc1,
+                                                  index=['utility_id_ferc1','report_year'],
+                                                  columns='revenue_type',
+                                                  values=['dollar_value'])
+electric_operating_revenues_ferc1_wide.columns = electric_operating_revenues_ferc1_wide.columns.to_series().str.join('_')
+electric_operating_revenues_ferc1_wide.reset_index(inplace=True)
+electric_operating_revenues_ferc1_wide.columns = electric_operating_revenues_ferc1_wide.columns.str.replace('dollar_value_', '')
+
+electric_operating_revenues_ferc1_wide = electric_operating_revenues_ferc1_wide[[
+                                                                                 'sales_for_resale',
+                                                                                 'residential_sales',
+                                                                                 'sales_to_ultimate_consumers',
+                                                                                 'sales_to_railroads_and_railways',
+                                                                                 'public_street_and_highway_lighting',
+                                                                                 'other_sales_to_public_authorities',
+                                                                                 'miscellaneous_service_revenues',
+                                                                                 'small_or_commercial',
+                                                                                 'electric_operating_revenues',
+                                                                                 'other_electric_revenue',
+                                                                                 'other_operating_revenues',
+                                                                                 'large_or_industrial',
+                                                                                 'forfeited_discounts',
+                                                                                 'sales_of_electricity',
+                                                                                 'utility_id_ferc1',
+                                                                                 'revenues_from_transmission_of_electricity_of_others',
+                                                                                 'report_year']]
 
 
 
@@ -77,6 +119,7 @@ electricity_sales_by_rate_schedule_ferc1 = electricity_sales_by_rate_schedule_fe
 electricity_sales_by_rate_schedule_ferc1_agg = electricity_sales_by_rate_schedule_ferc1.groupby(['utility_id_ferc1',
                                                   'report_year']).sum()
 
+                                                
 
 # transmission_statistics_ferc1
 
@@ -95,6 +138,8 @@ transmission_statistics_ferc1.drop(labels=['record_id',
 transmission_statistics_ferc1 = transmission_statistics_ferc1.groupby(
    ['utility_id_ferc1', 'report_year']
 ).agg('sum').reset_index()
+
+
 
 # utility-nerc crosswalk
 
@@ -129,6 +174,12 @@ dispositions_and_opex_and_transmission_and_sales = pd.merge(dispositions_and_ope
                                                             on=['utility_id_ferc1','report_year'],
                                   how='outer')
 
+
+dispositions_and_opex_and_transmission_and_sales_and_rev = pd.merge(dispositions_and_opex_and_transmission_and_sales,
+                                                            electric_operating_revenues_ferc1_wide,
+                                                            on=['utility_id_ferc1','report_year'],
+                                  how='outer')
+
 dispositions_and_opex_and_transmission_nerc = pd.merge(
     dispositions_and_opex_and_transmission,
     nerc_data_onferc1,
@@ -139,12 +190,11 @@ dispositions_and_opex_and_transmission_nerc = pd.merge(
 
 
 #dispositions_and_opex_and_transmission.to_csv('dispositions_and_opex_and_transmission.csv')
-dispositions_and_opex_and_transmission_and_sales.to_csv('../datafiles/dispositions_and_opex_and_transmission_and_sales.csv')
-
+dispositions_and_opex_and_transmission_and_sales_and_rev.to_csv('../datafiles/dispositions_and_opex_and_transmission_and_sales_and_rev.csv')
 
 '''
 
-
+#NOT useful
 electricity_sales_by_rate_schedule_ferc1 = electricity_sales_by_rate_schedule_ferc1[electricity_sales_by_rate_schedule_ferc1['rate_schedule_type'].isin(['residential','commercial','industrial'])]
 electricity_sales_by_rate_schedule_ferc1= electricity_sales_by_rate_schedule_ferc1.groupby(
    ['utility_id_ferc1', 'report_year','rate_schedule_type']
