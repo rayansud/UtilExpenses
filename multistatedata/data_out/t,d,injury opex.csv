@@ -1,0 +1,1424 @@
+,report_year,utility_id_ferc1,utility_name_ferc1,dollar_value,expense_type
+648,1994.0,3,Boston Edison Company,77016493.0,distribution_expenses
+665,1994.0,3,Boston Edison Company,5420532.0,injuries_and_damages
+764,1994.0,3,Boston Edison Company,27491813.0,transmission_expenses
+785,1995.0,3,Boston Edison Company,78546963.0,distribution_expenses
+802,1995.0,3,Boston Edison Company,12409279.0,injuries_and_damages
+901,1995.0,3,Boston Edison Company,23312288.0,transmission_expenses
+922,1996.0,3,Boston Edison Company,74191044.0,distribution_expenses
+936,1996.0,3,Boston Edison Company,7396423.0,injuries_and_damages
+1032,1996.0,3,Boston Edison Company,19946329.0,transmission_expenses
+1052,1997.0,3,Boston Edison Company,78232991.0,distribution_expenses
+1065,1997.0,3,Boston Edison Company,5733060.0,injuries_and_damages
+1155,1997.0,3,Boston Edison Company,27006099.0,transmission_expenses
+1172,1998.0,3,Boston Edison Company,79370513.0,distribution_expenses
+1183,1998.0,3,Boston Edison Company,7877751.0,injuries_and_damages
+1264,1998.0,3,Boston Edison Company,30860109.0,transmission_expenses
+1284,1999.0,3,Boston Edison Company,71214727.0,distribution_expenses
+1299,1999.0,3,Boston Edison Company,8439962.0,injuries_and_damages
+1397,1999.0,3,Boston Edison Company,47375093.0,transmission_expenses
+1418,2000.0,3,Boston Edison Company,81209736.0,distribution_expenses
+1433,2000.0,3,Boston Edison Company,5675568.0,injuries_and_damages
+1527,2000.0,3,Boston Edison Company,73039849.0,transmission_expenses
+1548,2001.0,3,Boston Edison Company,80066475.0,distribution_expenses
+1563,2001.0,3,Boston Edison Company,7335521.0,injuries_and_damages
+1655,2001.0,3,Boston Edison Company,74105877.0,transmission_expenses
+1676,2002.0,3,Boston Edison Company,83035151.0,distribution_expenses
+1691,2002.0,3,Boston Edison Company,8476934.0,injuries_and_damages
+1782,2002.0,3,Boston Edison Company,90150692.0,transmission_expenses
+1803,2003.0,3,Boston Edison Company,73698039.0,distribution_expenses
+1818,2003.0,3,Boston Edison Company,4820868.0,injuries_and_damages
+1907,2003.0,3,Boston Edison Company,87742193.0,transmission_expenses
+1925,2004.0,3,Boston Edison Company,73661534.0,distribution_expenses
+1931,2004.0,3,Boston Edison Company,5787155.0,injuries_and_damages
+1977,2004.0,3,Boston Edison Company,94602430.0,transmission_expenses
+1994,2005.0,3,Boston Edison Company,81751959.0,distribution_expenses
+2000,2005.0,3,Boston Edison Company,12242457.0,injuries_and_damages
+2046,2005.0,3,Boston Edison Company,110238373.0,transmission_expenses
+2063,2006.0,3,Boston Edison Company,86707718.0,distribution_expenses
+2069,2006.0,3,Boston Edison Company,1209262.0,injuries_and_damages
+2125,2006.0,3,Boston Edison Company,191950916.0,transmission_expenses
+2146,1994.0,4,Cambridge Electric Light Company,2737037.0,distribution_expenses
+2163,1994.0,4,Cambridge Electric Light Company,575886.0,injuries_and_damages
+2262,1994.0,4,Cambridge Electric Light Company,7495219.0,transmission_expenses
+2283,1995.0,4,Cambridge Electric Light Company,2850491.0,distribution_expenses
+2300,1995.0,4,Cambridge Electric Light Company,-374754.0,injuries_and_damages
+2399,1995.0,4,Cambridge Electric Light Company,7139927.0,transmission_expenses
+2420,1996.0,4,Cambridge Electric Light Company,2981073.0,distribution_expenses
+2437,1996.0,4,Cambridge Electric Light Company,419326.0,injuries_and_damages
+2536,1996.0,4,Cambridge Electric Light Company,6487831.0,transmission_expenses
+2553,1997.0,4,Cambridge Electric Light Company,4085006.0,distribution_expenses
+2563,1997.0,4,Cambridge Electric Light Company,1012341.0,injuries_and_damages
+2623,1997.0,4,Cambridge Electric Light Company,5611845.0,transmission_expenses
+2638,1998.0,4,Cambridge Electric Light Company,4620717.0,distribution_expenses
+2648,1998.0,4,Cambridge Electric Light Company,972906.0,injuries_and_damages
+2710,1998.0,4,Cambridge Electric Light Company,6656303.0,transmission_expenses
+2729,1999.0,4,Cambridge Electric Light Company,5194649.0,distribution_expenses
+2744,1999.0,4,Cambridge Electric Light Company,-341418.0,injuries_and_damages
+2839,1999.0,4,Cambridge Electric Light Company,8196491.0,transmission_expenses
+2860,2000.0,4,Cambridge Electric Light Company,6073273.0,distribution_expenses
+2875,2000.0,4,Cambridge Electric Light Company,336629.0,injuries_and_damages
+2970,2000.0,4,Cambridge Electric Light Company,11421556.0,transmission_expenses
+2991,2001.0,4,Cambridge Electric Light Company,5308578.0,distribution_expenses
+3006,2001.0,4,Cambridge Electric Light Company,139655.0,injuries_and_damages
+3098,2001.0,4,Cambridge Electric Light Company,11282735.0,transmission_expenses
+3119,2002.0,4,Cambridge Electric Light Company,3315172.0,distribution_expenses
+3134,2002.0,4,Cambridge Electric Light Company,-92200.0,injuries_and_damages
+3226,2002.0,4,Cambridge Electric Light Company,13101702.0,transmission_expenses
+3247,2003.0,4,Cambridge Electric Light Company,4151433.0,distribution_expenses
+3262,2003.0,4,Cambridge Electric Light Company,303606.0,injuries_and_damages
+3351,2003.0,4,Cambridge Electric Light Company,15258181.0,transmission_expenses
+3369,2004.0,4,Cambridge Electric Light Company,3817192.0,distribution_expenses
+3375,2004.0,4,Cambridge Electric Light Company,413844.0,injuries_and_damages
+3420,2004.0,4,Cambridge Electric Light Company,21598035.0,transmission_expenses
+3437,2005.0,4,Cambridge Electric Light Company,4699891.0,distribution_expenses
+3443,2005.0,4,Cambridge Electric Light Company,368101.0,injuries_and_damages
+3487,2005.0,4,Cambridge Electric Light Company,27621655.0,transmission_expenses
+3504,2006.0,4,Cambridge Electric Light Company,4526294.0,distribution_expenses
+3510,2006.0,4,Cambridge Electric Light Company,1175728.0,injuries_and_damages
+3565,2006.0,4,Cambridge Electric Light Company,35020876.0,transmission_expenses
+3587,1994.0,5,CANAL ELECTRIC COMPANY,982415.0,injuries_and_damages
+3630,1994.0,5,CANAL ELECTRIC COMPANY,5418534.0,transmission_expenses
+3654,1995.0,5,CANAL ELECTRIC COMPANY,-201156.0,injuries_and_damages
+3703,1995.0,5,CANAL ELECTRIC COMPANY,4841638.0,transmission_expenses
+3722,1996.0,5,CANAL ELECTRIC COMPANY,582434.0,injuries_and_damages
+3769,1996.0,5,CANAL ELECTRIC COMPANY,4140416.0,transmission_expenses
+3785,1997.0,5,CANAL ELECTRIC COMPANY,677203.0,injuries_and_damages
+3825,1997.0,5,CANAL ELECTRIC COMPANY,4055485.0,transmission_expenses
+3841,1998.0,5,CANAL ELECTRIC COMPANY,805800.0,injuries_and_damages
+3881,1998.0,5,CANAL ELECTRIC COMPANY,3880276.0,transmission_expenses
+3909,1999.0,5,CANAL ELECTRIC COMPANY,69492.0,injuries_and_damages
+4003,1999.0,5,CANAL ELECTRIC COMPANY,3666380.0,transmission_expenses
+4022,2000.0,5,CANAL ELECTRIC COMPANY,3507.0,distribution_expenses
+4036,2000.0,5,CANAL ELECTRIC COMPANY,320683.0,injuries_and_damages
+4130,2000.0,5,CANAL ELECTRIC COMPANY,3494979.0,transmission_expenses
+4163,2001.0,5,CANAL ELECTRIC COMPANY,-21159.0,injuries_and_damages
+4253,2001.0,5,CANAL ELECTRIC COMPANY,3350191.0,transmission_expenses
+4284,2002.0,5,CANAL ELECTRIC COMPANY,19669.0,injuries_and_damages
+4374,2002.0,5,CANAL ELECTRIC COMPANY,3188350.0,transmission_expenses
+11970,1994.0,11,Commonwealth Electric Company,17297206.0,distribution_expenses
+11981,1994.0,11,Commonwealth Electric Company,1291520.0,injuries_and_damages
+12049,1994.0,11,Commonwealth Electric Company,6324257.0,transmission_expenses
+12064,1995.0,11,Commonwealth Electric Company,18698677.0,distribution_expenses
+12075,1995.0,11,Commonwealth Electric Company,-449004.0,injuries_and_damages
+12146,1995.0,11,Commonwealth Electric Company,5389147.0,transmission_expenses
+12161,1996.0,11,Commonwealth Electric Company,21305706.0,distribution_expenses
+12172,1996.0,11,Commonwealth Electric Company,2596275.0,injuries_and_damages
+12243,1996.0,11,Commonwealth Electric Company,5230637.0,transmission_expenses
+12258,1997.0,11,Commonwealth Electric Company,25238942.0,distribution_expenses
+12269,1997.0,11,Commonwealth Electric Company,1921982.0,injuries_and_damages
+12339,1997.0,11,Commonwealth Electric Company,6666586.0,transmission_expenses
+12354,1998.0,11,Commonwealth Electric Company,20041517.0,distribution_expenses
+12365,1998.0,11,Commonwealth Electric Company,1516148.0,injuries_and_damages
+12434,1998.0,11,Commonwealth Electric Company,8584691.0,transmission_expenses
+12453,1999.0,11,Commonwealth Electric Company,26778327.0,distribution_expenses
+12468,1999.0,11,Commonwealth Electric Company,375444.0,injuries_and_damages
+12563,1999.0,11,Commonwealth Electric Company,12266087.0,transmission_expenses
+12584,2000.0,11,Commonwealth Electric Company,29849889.0,distribution_expenses
+12599,2000.0,11,Commonwealth Electric Company,1304091.0,injuries_and_damages
+12694,2000.0,11,Commonwealth Electric Company,20317662.0,transmission_expenses
+12715,2001.0,11,Commonwealth Electric Company,34506521.0,distribution_expenses
+12730,2001.0,11,Commonwealth Electric Company,-798818.0,injuries_and_damages
+12821,2001.0,11,Commonwealth Electric Company,19331776.0,transmission_expenses
+12842,2002.0,11,Commonwealth Electric Company,33785681.0,distribution_expenses
+12857,2002.0,11,Commonwealth Electric Company,1205082.0,injuries_and_damages
+12946,2002.0,11,Commonwealth Electric Company,22167296.0,transmission_expenses
+12967,2003.0,11,Commonwealth Electric Company,32621085.0,distribution_expenses
+12982,2003.0,11,Commonwealth Electric Company,1071944.0,injuries_and_damages
+13071,2003.0,11,Commonwealth Electric Company,21203578.0,transmission_expenses
+13089,2004.0,11,Commonwealth Electric Company,30667134.0,distribution_expenses
+13095,2004.0,11,Commonwealth Electric Company,1244308.0,injuries_and_damages
+13142,2004.0,11,Commonwealth Electric Company,21061094.0,transmission_expenses
+13159,2005.0,11,Commonwealth Electric Company,32627015.0,distribution_expenses
+13165,2005.0,11,Commonwealth Electric Company,961941.0,injuries_and_damages
+13212,2005.0,11,Commonwealth Electric Company,22520833.0,transmission_expenses
+13230,2006.0,11,Commonwealth Electric Company,28826123.0,distribution_expenses
+13236,2006.0,11,Commonwealth Electric Company,1600395.0,injuries_and_damages
+13291,2006.0,11,Commonwealth Electric Company,22912269.0,transmission_expenses
+14538,1994.0,13,Eastern Edison Company,13274023.0,distribution_expenses
+14545,1994.0,13,Eastern Edison Company,1205198.0,injuries_and_damages
+14590,1994.0,13,Eastern Edison Company,450720.0,transmission_expenses
+14605,1995.0,13,Eastern Edison Company,14788713.0,distribution_expenses
+14612,1995.0,13,Eastern Edison Company,1637995.0,injuries_and_damages
+14656,1995.0,13,Eastern Edison Company,376976.0,transmission_expenses
+14671,1996.0,13,Eastern Edison Company,16851368.0,distribution_expenses
+14678,1996.0,13,Eastern Edison Company,854671.0,injuries_and_damages
+14728,1996.0,13,Eastern Edison Company,398251.0,transmission_expenses
+14743,1997.0,13,Eastern Edison Company,16149216.0,distribution_expenses
+14749,1997.0,13,Eastern Edison Company,1627227.0,injuries_and_damages
+14799,1997.0,13,Eastern Edison Company,528933.0,transmission_expenses
+14814,1998.0,13,Eastern Edison Company,14329450.0,distribution_expenses
+14820,1998.0,13,Eastern Edison Company,598848.0,injuries_and_damages
+14865,1998.0,13,Eastern Edison Company,435390.0,transmission_expenses
+14883,1999.0,13,Eastern Edison Company,14337877.0,distribution_expenses
+14898,1999.0,13,Eastern Edison Company,1338165.0,injuries_and_damages
+14987,1999.0,13,Eastern Edison Company,423004.0,transmission_expenses
+15008,2000.0,13,Eastern Edison Company,5040049.0,distribution_expenses
+15023,2000.0,13,Eastern Edison Company,305041.0,injuries_and_damages
+15112,2000.0,13,Eastern Edison Company,117531.0,transmission_expenses
+27525,1994.0,29,Montaup Electric Company,2323335.0,injuries_and_damages
+27581,1994.0,29,Montaup Electric Company,13183667.0,transmission_expenses
+27600,1995.0,29,Montaup Electric Company,1351227.0,injuries_and_damages
+27666,1995.0,29,Montaup Electric Company,14378800.0,transmission_expenses
+27684,1996.0,29,Montaup Electric Company,1054163.0,injuries_and_damages
+27742,1996.0,29,Montaup Electric Company,13671091.0,transmission_expenses
+27761,1997.0,29,Montaup Electric Company,907650.0,injuries_and_damages
+27819,1997.0,29,Montaup Electric Company,15800055.0,transmission_expenses
+27836,1998.0,29,Montaup Electric Company,888235.0,injuries_and_damages
+27893,1998.0,29,Montaup Electric Company,12847959.0,transmission_expenses
+27921,1999.0,29,Montaup Electric Company,91328.0,injuries_and_damages
+28018,1999.0,29,Montaup Electric Company,14492729.0,transmission_expenses
+28050,2000.0,29,Montaup Electric Company,35282.0,injuries_and_damages
+28147,2000.0,29,Montaup Electric Company,4966622.0,transmission_expenses
+36851,1994.0,41,Texas-New Mexico Power Company,15856452.0,distribution_expenses
+36859,1994.0,41,Texas-New Mexico Power Company,1039550.0,injuries_and_damages
+36918,1994.0,41,Texas-New Mexico Power Company,10023999.0,transmission_expenses
+36934,1995.0,41,Texas-New Mexico Power Company,16730925.0,distribution_expenses
+36942,1995.0,41,Texas-New Mexico Power Company,1197943.0,injuries_and_damages
+37001,1995.0,41,Texas-New Mexico Power Company,10377283.0,transmission_expenses
+37018,1996.0,41,Texas-New Mexico Power Company,16832605.0,distribution_expenses
+37026,1996.0,41,Texas-New Mexico Power Company,2036034.0,injuries_and_damages
+37085,1996.0,41,Texas-New Mexico Power Company,8990221.0,transmission_expenses
+37101,1997.0,41,Texas-New Mexico Power Company,17732878.0,distribution_expenses
+37109,1997.0,41,Texas-New Mexico Power Company,910911.0,injuries_and_damages
+37168,1997.0,41,Texas-New Mexico Power Company,11811643.0,transmission_expenses
+37185,1998.0,41,Texas-New Mexico Power Company,17831110.0,distribution_expenses
+37193,1998.0,41,Texas-New Mexico Power Company,1010359.0,injuries_and_damages
+37251,1998.0,41,Texas-New Mexico Power Company,14591622.0,transmission_expenses
+37271,1999.0,41,Texas-New Mexico Power Company,19160423.0,distribution_expenses
+37286,1999.0,41,Texas-New Mexico Power Company,1384194.0,injuries_and_damages
+37378,1999.0,41,Texas-New Mexico Power Company,21635305.0,transmission_expenses
+37399,2000.0,41,Texas-New Mexico Power Company,20540417.0,distribution_expenses
+37414,2000.0,41,Texas-New Mexico Power Company,1894997.0,injuries_and_damages
+37506,2000.0,41,Texas-New Mexico Power Company,16297213.0,transmission_expenses
+37527,2001.0,41,Texas-New Mexico Power Company,19599164.0,distribution_expenses
+37542,2001.0,41,Texas-New Mexico Power Company,1792788.0,injuries_and_damages
+37634,2001.0,41,Texas-New Mexico Power Company,16993422.0,transmission_expenses
+37655,2002.0,41,Texas-New Mexico Power Company,17627766.0,distribution_expenses
+37670,2002.0,41,Texas-New Mexico Power Company,1351088.0,injuries_and_damages
+37762,2002.0,41,Texas-New Mexico Power Company,21951825.0,transmission_expenses
+37783,2003.0,41,Texas-New Mexico Power Company,17500620.0,distribution_expenses
+37798,2003.0,41,Texas-New Mexico Power Company,1412516.0,injuries_and_damages
+37890,2003.0,41,Texas-New Mexico Power Company,24646089.0,transmission_expenses
+37908,2004.0,41,Texas-New Mexico Power Company,16859631.0,distribution_expenses
+37914,2004.0,41,Texas-New Mexico Power Company,3082945.0,injuries_and_damages
+37966,2004.0,41,Texas-New Mexico Power Company,27792684.0,transmission_expenses
+37983,2005.0,41,Texas-New Mexico Power Company,18857208.0,distribution_expenses
+37989,2005.0,41,Texas-New Mexico Power Company,1052181.0,injuries_and_damages
+38034,2005.0,41,Texas-New Mexico Power Company,27933804.0,transmission_expenses
+38050,2006.0,41,Texas-New Mexico Power Company,18526875.0,distribution_expenses
+38056,2006.0,41,Texas-New Mexico Power Company,1204721.0,injuries_and_damages
+38100,2006.0,41,Texas-New Mexico Power Company,31543466.0,transmission_expenses
+49434,1999.0,61,Inland Power & Light Company,2946521.0,distribution_expenses
+49449,1999.0,61,Inland Power & Light Company,106948.0,injuries_and_damages
+49538,1999.0,61,Inland Power & Light Company,58033.0,transmission_expenses
+49559,2000.0,61,Inland Power & Light Company,2988802.0,distribution_expenses
+49574,2000.0,61,Inland Power & Light Company,103633.0,injuries_and_damages
+49663,2000.0,61,Inland Power & Light Company,58257.0,transmission_expenses
+49684,2001.0,61,Inland Power & Light Company,3643023.0,distribution_expenses
+49699,2001.0,61,Inland Power & Light Company,117205.0,injuries_and_damages
+49788,2001.0,61,Inland Power & Light Company,99288.0,transmission_expenses
+49809,2002.0,61,Inland Power & Light Company,3822274.0,distribution_expenses
+49824,2002.0,61,Inland Power & Light Company,121863.0,injuries_and_damages
+49913,2002.0,61,Inland Power & Light Company,2817129.0,transmission_expenses
+49934,2003.0,61,Inland Power & Light Company,4044503.0,distribution_expenses
+49949,2003.0,61,Inland Power & Light Company,171673.0,injuries_and_damages
+50038,2003.0,61,Inland Power & Light Company,2912614.0,transmission_expenses
+50055,2004.0,61,Inland Power & Light Company,4428428.0,distribution_expenses
+50060,2004.0,61,Inland Power & Light Company,171018.0,injuries_and_damages
+50093,2004.0,61,Inland Power & Light Company,3052610.0,transmission_expenses
+59032,2005.0,104,TransCanada Hydro NorthEast Inc.,343360.0,transmission_expenses
+59054,2006.0,104,TransCanada Hydro NorthEast Inc.,721907.0,transmission_expenses
+59076,2007.0,104,TransCanada Hydro NorthEast Inc.,392921.0,transmission_expenses
+59670,2006.0,109,"Entergy Power Ventures, LP",10443.0,transmission_expenses
+59693,2007.0,109,"Entergy Power Ventures, LP",22572.0,transmission_expenses
+59716,2008.0,109,"Entergy Power Ventures, LP",31277.0,transmission_expenses
+59740,2009.0,109,"Entergy Power Ventures, LP",31644.0,transmission_expenses
+59764,2010.0,109,"Entergy Power Ventures, LP",93593.0,transmission_expenses
+59773,2006.0,110,"Warren Power, LLC",22.0,injuries_and_damages
+63950,1994.0,155,Southern California Edison Company,200356676.0,distribution_expenses
+63967,1994.0,155,Southern California Edison Company,34332673.0,injuries_and_damages
+64066,1994.0,155,Southern California Edison Company,79949180.0,transmission_expenses
+64087,1996.0,155,Southern California Edison Company,161688477.0,distribution_expenses
+64104,1996.0,155,Southern California Edison Company,42416157.0,injuries_and_damages
+64203,1996.0,155,Southern California Edison Company,68031586.0,transmission_expenses
+64224,1997.0,155,Southern California Edison Company,177923241.0,distribution_expenses
+64241,1997.0,155,Southern California Edison Company,35323658.0,injuries_and_damages
+64340,1997.0,155,Southern California Edison Company,71952441.0,transmission_expenses
+64360,1998.0,155,Southern California Edison Company,203753593.0,distribution_expenses
+64376,1998.0,155,Southern California Edison Company,29579790.0,injuries_and_damages
+64468,1998.0,155,Southern California Edison Company,192363969.0,transmission_expenses
+64489,1999.0,155,Southern California Edison Company,179610761.0,distribution_expenses
+64506,1999.0,155,Southern California Edison Company,34338989.0,injuries_and_damages
+64605,1999.0,155,Southern California Edison Company,204709009.0,transmission_expenses
+64626,2000.0,155,Southern California Edison Company,201689254.0,distribution_expenses
+64643,2000.0,155,Southern California Edison Company,30824593.0,injuries_and_damages
+64742,2000.0,155,Southern California Edison Company,98150456.0,transmission_expenses
+64763,2001.0,155,Southern California Edison Company,200453210.0,distribution_expenses
+64780,2001.0,155,Southern California Edison Company,44957189.0,injuries_and_damages
+64879,2001.0,155,Southern California Edison Company,151231411.0,transmission_expenses
+64900,2002.0,155,Southern California Edison Company,251208251.0,distribution_expenses
+64917,2002.0,155,Southern California Edison Company,55814976.0,injuries_and_damages
+65016,2002.0,155,Southern California Edison Company,127226964.0,transmission_expenses
+65037,2003.0,155,Southern California Edison Company,272761773.0,distribution_expenses
+65054,2003.0,155,Southern California Edison Company,83384099.0,injuries_and_damages
+65153,2003.0,155,Southern California Edison Company,140744888.0,transmission_expenses
+65173,2004.0,155,Southern California Edison Company,413760015.0,distribution_expenses
+65189,2004.0,155,Southern California Edison Company,40932977.0,injuries_and_damages
+65281,2004.0,155,Southern California Edison Company,228981024.0,transmission_expenses
+65301,2005.0,155,Southern California Edison Company,328470040.0,distribution_expenses
+65317,2005.0,155,Southern California Edison Company,75306946.0,injuries_and_damages
+65409,2005.0,155,Southern California Edison Company,320350390.0,transmission_expenses
+65431,2006.0,155,Southern California Edison Company,370328037.0,distribution_expenses
+65447,2006.0,155,Southern California Edison Company,46719976.0,injuries_and_damages
+65552,2006.0,155,Southern California Edison Company,299033119.0,transmission_expenses
+65574,2007.0,155,Southern California Edison Company,380092467.0,distribution_expenses
+65590,2007.0,155,Southern California Edison Company,71238203.0,injuries_and_damages
+65695,2007.0,155,Southern California Edison Company,283847135.0,transmission_expenses
+65715,2008.0,155,Southern California Edison Company,334884006.0,distribution_expenses
+65731,2008.0,155,Southern California Edison Company,50150396.0,injuries_and_damages
+65836,2008.0,155,Southern California Edison Company,285577500.0,transmission_expenses
+65857,2009.0,155,Southern California Edison Company,416993748.0,distribution_expenses
+65873,2009.0,155,Southern California Edison Company,77611100.0,injuries_and_damages
+65978,2009.0,155,Southern California Edison Company,238531695.0,transmission_expenses
+65999,2010.0,155,Southern California Edison Company,455932038.0,distribution_expenses
+66015,2010.0,155,Southern California Edison Company,74691620.0,injuries_and_damages
+66119,2010.0,155,Southern California Edison Company,252123269.0,transmission_expenses
+66140,2011.0,155,Southern California Edison Company,485876026.0,distribution_expenses
+66156,2011.0,155,Southern California Edison Company,62577421.0,injuries_and_damages
+66259,2011.0,155,Southern California Edison Company,235054669.0,transmission_expenses
+66280,2012.0,155,Southern California Edison Company,467645059.0,distribution_expenses
+66296,2012.0,155,Southern California Edison Company,88220482.0,injuries_and_damages
+66398,2012.0,155,Southern California Edison Company,265131506.0,transmission_expenses
+66419,2013.0,155,Southern California Edison Company,461915520.0,distribution_expenses
+66435,2013.0,155,Southern California Edison Company,115243086.0,injuries_and_damages
+66537,2013.0,155,Southern California Edison Company,316012264.0,transmission_expenses
+66557,2014.0,155,Southern California Edison Company,494880697.0,distribution_expenses
+66573,2014.0,155,Southern California Edison Company,136223963.0,injuries_and_damages
+66675,2014.0,155,Southern California Edison Company,243690357.0,transmission_expenses
+66695,2015.0,155,Southern California Edison Company,497565592.0,distribution_expenses
+66711,2015.0,155,Southern California Edison Company,98359983.0,injuries_and_damages
+66813,2015.0,155,Southern California Edison Company,312493772.0,transmission_expenses
+66833,2016.0,155,Southern California Edison Company,523427463.0,distribution_expenses
+66848,2016.0,155,Southern California Edison Company,90935394.0,injuries_and_damages
+66946,2016.0,155,Southern California Edison Company,227741355.0,transmission_expenses
+66965,2017.0,155,Southern California Edison Company,523405763.0,distribution_expenses
+66980,2017.0,155,Southern California Edison Company,117581984.0,injuries_and_damages
+67079,2017.0,155,Southern California Edison Company,221093099.0,transmission_expenses
+67098,2018.0,155,Southern California Edison Company,532926739.0,distribution_expenses
+67113,2018.0,155,Southern California Edison Company,2996146771.0,injuries_and_damages
+67211,2018.0,155,Southern California Edison Company,259977841.0,transmission_expenses
+67230,2019.0,155,Southern California Edison Company,971076120.0,distribution_expenses
+67245,2019.0,155,Southern California Edison Company,902073996.0,injuries_and_damages
+67341,2019.0,155,Southern California Edison Company,458436959.0,transmission_expenses
+67360,2020.0,155,Southern California Edison Company,1194442122.0,distribution_expenses
+67375,2020.0,155,Southern California Edison Company,2255479067.0,injuries_and_damages
+67471,2020.0,155,Southern California Edison Company,535693716.0,transmission_expenses
+67495,2021.0,155,Southern California Edison Company,905314734.0,distribution_expenses
+67513,2021.0,155,Southern California Edison Company,1882001326.0,injuries_and_damages
+67640,2021.0,155,Southern California Edison Company,556028161.0,transmission_expenses
+85165,1994.0,162,"Puget Sound Energy, Inc.",36131114.0,distribution_expenses
+85181,1994.0,162,"Puget Sound Energy, Inc.",3722082.0,injuries_and_damages
+85260,1994.0,162,"Puget Sound Energy, Inc.",37328256.0,transmission_expenses
+85277,1995.0,162,"Puget Sound Energy, Inc.",40503184.0,distribution_expenses
+85293,1995.0,162,"Puget Sound Energy, Inc.",4301904.0,injuries_and_damages
+85372,1995.0,162,"Puget Sound Energy, Inc.",34230236.0,transmission_expenses
+85388,1996.0,162,"Puget Sound Energy, Inc.",45613758.0,distribution_expenses
+85404,1996.0,162,"Puget Sound Energy, Inc.",3601672.0,injuries_and_damages
+85483,1996.0,162,"Puget Sound Energy, Inc.",40519702.0,transmission_expenses
+85502,1997.0,162,"Puget Sound Energy, Inc.",46271479.0,distribution_expenses
+85518,1997.0,162,"Puget Sound Energy, Inc.",2660098.0,injuries_and_damages
+85601,1997.0,162,"Puget Sound Energy, Inc.",39925613.0,transmission_expenses
+85620,1998.0,162,"Puget Sound Energy, Inc.",45078232.0,distribution_expenses
+85636,1998.0,162,"Puget Sound Energy, Inc.",3823746.0,injuries_and_damages
+85718,1998.0,162,"Puget Sound Energy, Inc.",39724698.0,transmission_expenses
+85738,1999.0,162,"Puget Sound Energy, Inc.",51621727.0,distribution_expenses
+85755,1999.0,162,"Puget Sound Energy, Inc.",2425309.0,injuries_and_damages
+85851,1999.0,162,"Puget Sound Energy, Inc.",41730780.0,transmission_expenses
+85872,2000.0,162,"Puget Sound Energy, Inc.",47663492.0,distribution_expenses
+85889,2000.0,162,"Puget Sound Energy, Inc.",851928.0,injuries_and_damages
+85985,2000.0,162,"Puget Sound Energy, Inc.",40588344.0,transmission_expenses
+86006,2001.0,162,"Puget Sound Energy, Inc.",54298977.0,distribution_expenses
+86023,2001.0,162,"Puget Sound Energy, Inc.",2632252.0,injuries_and_damages
+86119,2001.0,162,"Puget Sound Energy, Inc.",40983190.0,transmission_expenses
+86140,2002.0,162,"Puget Sound Energy, Inc.",59968030.0,distribution_expenses
+86157,2002.0,162,"Puget Sound Energy, Inc.",3555416.0,injuries_and_damages
+86253,2002.0,162,"Puget Sound Energy, Inc.",41545182.0,transmission_expenses
+86274,2003.0,162,"Puget Sound Energy, Inc.",57740065.0,distribution_expenses
+86291,2003.0,162,"Puget Sound Energy, Inc.",4264864.0,injuries_and_damages
+86387,2003.0,162,"Puget Sound Energy, Inc.",43495781.0,transmission_expenses
+86406,2004.0,162,"Puget Sound Energy, Inc.",61075209.0,distribution_expenses
+86420,2004.0,162,"Puget Sound Energy, Inc.",4384949.0,injuries_and_damages
+86499,2004.0,162,"Puget Sound Energy, Inc.",44632927.0,transmission_expenses
+86516,2005.0,162,"Puget Sound Energy, Inc.",61087500.0,distribution_expenses
+86530,2005.0,162,"Puget Sound Energy, Inc.",3638274.0,injuries_and_damages
+86608,2005.0,162,"Puget Sound Energy, Inc.",52111661.0,transmission_expenses
+86625,2006.0,162,"Puget Sound Energy, Inc.",65438100.0,distribution_expenses
+86638,2006.0,162,"Puget Sound Energy, Inc.",4632927.0,injuries_and_damages
+86721,2006.0,162,"Puget Sound Energy, Inc.",57969332.0,transmission_expenses
+86738,2007.0,162,"Puget Sound Energy, Inc.",70227699.0,distribution_expenses
+86752,2007.0,162,"Puget Sound Energy, Inc.",4846616.0,injuries_and_damages
+86838,2007.0,162,"Puget Sound Energy, Inc.",76108942.0,transmission_expenses
+86856,2008.0,162,"Puget Sound Energy, Inc.",76776331.0,distribution_expenses
+86870,2008.0,162,"Puget Sound Energy, Inc.",6433972.0,injuries_and_damages
+86955,2008.0,162,"Puget Sound Energy, Inc.",79947468.0,transmission_expenses
+86973,2009.0,162,"Puget Sound Energy, Inc.",73935444.0,distribution_expenses
+86987,2009.0,162,"Puget Sound Energy, Inc.",3959926.0,injuries_and_damages
+87072,2009.0,162,"Puget Sound Energy, Inc.",87576612.0,transmission_expenses
+87090,2010.0,162,"Puget Sound Energy, Inc.",82924735.0,distribution_expenses
+87104,2010.0,162,"Puget Sound Energy, Inc.",3587660.0,injuries_and_damages
+87189,2010.0,162,"Puget Sound Energy, Inc.",90430114.0,transmission_expenses
+87207,2011.0,162,"Puget Sound Energy, Inc.",78245093.0,distribution_expenses
+87222,2011.0,162,"Puget Sound Energy, Inc.",2952236.0,injuries_and_damages
+87301,2011.0,162,"Puget Sound Energy, Inc.",92112839.0,transmission_expenses
+87319,2012.0,162,"Puget Sound Energy, Inc.",74862781.0,distribution_expenses
+87334,2012.0,162,"Puget Sound Energy, Inc.",2974418.0,injuries_and_damages
+87414,2012.0,162,"Puget Sound Energy, Inc.",106143930.0,transmission_expenses
+87431,2013.0,162,"Puget Sound Energy, Inc.",77321922.0,distribution_expenses
+87446,2013.0,162,"Puget Sound Energy, Inc.",3237682.0,injuries_and_damages
+87527,2013.0,162,"Puget Sound Energy, Inc.",114097689.0,transmission_expenses
+87544,2014.0,162,"Puget Sound Energy, Inc.",84585142.0,distribution_expenses
+87559,2014.0,162,"Puget Sound Energy, Inc.",3435985.0,injuries_and_damages
+87641,2014.0,162,"Puget Sound Energy, Inc.",130001844.0,transmission_expenses
+87658,2015.0,162,"Puget Sound Energy, Inc.",82427091.0,distribution_expenses
+87673,2015.0,162,"Puget Sound Energy, Inc.",3369466.0,injuries_and_damages
+87752,2015.0,162,"Puget Sound Energy, Inc.",130459659.0,transmission_expenses
+87769,2016.0,162,"Puget Sound Energy, Inc.",86297607.0,distribution_expenses
+87784,2016.0,162,"Puget Sound Energy, Inc.",3881868.0,injuries_and_damages
+87863,2016.0,162,"Puget Sound Energy, Inc.",134458083.0,transmission_expenses
+87880,2017.0,162,"Puget Sound Energy, Inc.",76281991.0,distribution_expenses
+87895,2017.0,162,"Puget Sound Energy, Inc.",6055699.0,injuries_and_damages
+87977,2017.0,162,"Puget Sound Energy, Inc.",138492712.0,transmission_expenses
+87994,2018.0,162,"Puget Sound Energy, Inc.",83251240.0,distribution_expenses
+88009,2018.0,162,"Puget Sound Energy, Inc.",4956899.0,injuries_and_damages
+88091,2018.0,162,"Puget Sound Energy, Inc.",140247280.0,transmission_expenses
+88108,2019.0,162,"Puget Sound Energy, Inc.",80879040.0,distribution_expenses
+88123,2019.0,162,"Puget Sound Energy, Inc.",6404903.0,injuries_and_damages
+88204,2019.0,162,"Puget Sound Energy, Inc.",145795509.0,transmission_expenses
+88220,2020.0,162,"Puget Sound Energy, Inc.",86597401.0,distribution_expenses
+88235,2020.0,162,"Puget Sound Energy, Inc.",3187136.0,injuries_and_damages
+88315,2020.0,162,"Puget Sound Energy, Inc.",147458346.0,transmission_expenses
+88338,2021.0,162,"Puget Sound Energy, Inc.",93529691.0,distribution_expenses
+88356,2021.0,162,"Puget Sound Energy, Inc.",6364506.0,injuries_and_damages
+88483,2021.0,162,"Puget Sound Energy, Inc.",151440012.0,transmission_expenses
+146598,1994.0,182,Avista Corporation,13587819.0,distribution_expenses
+146612,1994.0,182,Avista Corporation,1915906.0,injuries_and_damages
+146692,1994.0,182,Avista Corporation,13038212.0,transmission_expenses
+146712,1995.0,182,Avista Corporation,16805646.0,distribution_expenses
+146729,1995.0,182,Avista Corporation,1419773.0,injuries_and_damages
+146828,1995.0,182,Avista Corporation,11917911.0,transmission_expenses
+146848,1996.0,182,Avista Corporation,30799508.0,distribution_expenses
+146865,1996.0,182,Avista Corporation,1692315.0,injuries_and_damages
+146964,1996.0,182,Avista Corporation,14887938.0,transmission_expenses
+146984,1997.0,182,Avista Corporation,16295046.0,distribution_expenses
+147001,1997.0,182,Avista Corporation,2610568.0,injuries_and_damages
+147100,1997.0,182,Avista Corporation,16127103.0,transmission_expenses
+147118,1998.0,182,Avista Corporation,16139219.0,distribution_expenses
+147133,1998.0,182,Avista Corporation,1498279.0,injuries_and_damages
+147212,1998.0,182,Avista Corporation,18221194.0,transmission_expenses
+147233,1999.0,182,Avista Corporation,13434179.0,distribution_expenses
+147250,1999.0,182,Avista Corporation,1087663.0,injuries_and_damages
+147346,1999.0,182,Avista Corporation,15756622.0,transmission_expenses
+147367,2000.0,182,Avista Corporation,14032377.0,distribution_expenses
+147384,2000.0,182,Avista Corporation,1171881.0,injuries_and_damages
+147480,2000.0,182,Avista Corporation,16656425.0,transmission_expenses
+147501,2001.0,182,Avista Corporation,15849519.0,distribution_expenses
+147518,2001.0,182,Avista Corporation,1812314.0,injuries_and_damages
+147614,2001.0,182,Avista Corporation,16129214.0,transmission_expenses
+147635,2002.0,182,Avista Corporation,14320185.0,distribution_expenses
+147652,2002.0,182,Avista Corporation,1624746.0,injuries_and_damages
+147748,2002.0,182,Avista Corporation,13592302.0,transmission_expenses
+147769,2003.0,182,Avista Corporation,16539116.0,distribution_expenses
+147786,2003.0,182,Avista Corporation,2217511.0,injuries_and_damages
+147882,2003.0,182,Avista Corporation,14989464.0,transmission_expenses
+147901,2004.0,182,Avista Corporation,19108033.0,distribution_expenses
+147916,2004.0,182,Avista Corporation,3711299.0,injuries_and_damages
+147996,2004.0,182,Avista Corporation,16115328.0,transmission_expenses
+148014,2005.0,182,Avista Corporation,21239624.0,distribution_expenses
+148029,2005.0,182,Avista Corporation,2703992.0,injuries_and_damages
+148108,2005.0,182,Avista Corporation,16327683.0,transmission_expenses
+148126,2006.0,182,Avista Corporation,22569058.0,distribution_expenses
+148141,2006.0,182,Avista Corporation,3769353.0,injuries_and_damages
+148224,2006.0,182,Avista Corporation,19547280.0,transmission_expenses
+148242,2007.0,182,Avista Corporation,22486704.0,distribution_expenses
+148257,2007.0,182,Avista Corporation,3289641.0,injuries_and_damages
+148340,2007.0,182,Avista Corporation,22316212.0,transmission_expenses
+148358,2008.0,182,Avista Corporation,25900985.0,distribution_expenses
+148373,2008.0,182,Avista Corporation,2968505.0,injuries_and_damages
+148455,2008.0,182,Avista Corporation,23354983.0,transmission_expenses
+148473,2009.0,182,Avista Corporation,25831106.0,distribution_expenses
+148488,2009.0,182,Avista Corporation,3543277.0,injuries_and_damages
+148567,2009.0,182,Avista Corporation,23894960.0,transmission_expenses
+148585,2010.0,182,Avista Corporation,27101341.0,distribution_expenses
+148600,2010.0,182,Avista Corporation,5380816.0,injuries_and_damages
+148679,2010.0,182,Avista Corporation,28461431.0,transmission_expenses
+148697,2011.0,182,Avista Corporation,29764168.0,distribution_expenses
+148712,2011.0,182,Avista Corporation,4400051.0,injuries_and_damages
+148791,2011.0,182,Avista Corporation,29778012.0,transmission_expenses
+148809,2012.0,182,Avista Corporation,32205351.0,distribution_expenses
+148824,2012.0,182,Avista Corporation,2428175.0,injuries_and_damages
+148905,2012.0,182,Avista Corporation,30231930.0,transmission_expenses
+148922,2013.0,182,Avista Corporation,31871455.0,distribution_expenses
+148937,2013.0,182,Avista Corporation,3100513.0,injuries_and_damages
+149017,2013.0,182,Avista Corporation,30263426.0,transmission_expenses
+149034,2014.0,182,Avista Corporation,32653367.0,distribution_expenses
+149049,2014.0,182,Avista Corporation,3666296.0,injuries_and_damages
+149129,2014.0,182,Avista Corporation,31163931.0,transmission_expenses
+149145,2015.0,182,Avista Corporation,35899851.0,distribution_expenses
+149160,2015.0,182,Avista Corporation,3473339.0,injuries_and_damages
+149239,2015.0,182,Avista Corporation,29542068.0,transmission_expenses
+149255,2016.0,182,Avista Corporation,32192695.0,distribution_expenses
+149270,2016.0,182,Avista Corporation,3364064.0,injuries_and_damages
+149349,2016.0,182,Avista Corporation,31089878.0,transmission_expenses
+149365,2017.0,182,Avista Corporation,32836547.0,distribution_expenses
+149379,2017.0,182,Avista Corporation,3288356.0,injuries_and_damages
+149459,2017.0,182,Avista Corporation,33348680.0,transmission_expenses
+149476,2018.0,182,Avista Corporation,30452769.0,distribution_expenses
+149490,2018.0,182,Avista Corporation,4285035.0,injuries_and_damages
+149571,2018.0,182,Avista Corporation,28817882.0,transmission_expenses
+149588,2019.0,182,Avista Corporation,33321766.0,distribution_expenses
+149602,2019.0,182,Avista Corporation,4177429.0,injuries_and_damages
+149683,2019.0,182,Avista Corporation,28954445.0,transmission_expenses
+149699,2020.0,182,Avista Corporation,34154465.0,distribution_expenses
+149714,2020.0,182,Avista Corporation,4251143.0,injuries_and_damages
+149794,2020.0,182,Avista Corporation,27916170.0,transmission_expenses
+149818,2021.0,182,Avista Corporation,39390338.0,distribution_expenses
+149836,2021.0,182,Avista Corporation,7352763.0,injuries_and_damages
+149963,2021.0,182,Avista Corporation,31047467.0,transmission_expenses
+149985,1994.0,183,PACIFIC GAS AND ELECTRIC COMPANY,261100704.0,distribution_expenses
+150001,1994.0,183,PACIFIC GAS AND ELECTRIC COMPANY,68235144.0,injuries_and_damages
+150094,1994.0,183,PACIFIC GAS AND ELECTRIC COMPANY,59727861.0,transmission_expenses
+150114,1995.0,183,PACIFIC GAS AND ELECTRIC COMPANY,281930265.0,distribution_expenses
+150129,1995.0,183,PACIFIC GAS AND ELECTRIC COMPANY,59839447.0,injuries_and_damages
+150222,1995.0,183,PACIFIC GAS AND ELECTRIC COMPANY,74250956.0,transmission_expenses
+150242,1996.0,183,PACIFIC GAS AND ELECTRIC COMPANY,363790834.0,distribution_expenses
+150258,1996.0,183,PACIFIC GAS AND ELECTRIC COMPANY,94196846.0,injuries_and_damages
+150351,1996.0,183,PACIFIC GAS AND ELECTRIC COMPANY,79535685.0,transmission_expenses
+150371,1997.0,183,PACIFIC GAS AND ELECTRIC COMPANY,384806278.0,distribution_expenses
+150387,1997.0,183,PACIFIC GAS AND ELECTRIC COMPANY,80300239.0,injuries_and_damages
+150480,1997.0,183,PACIFIC GAS AND ELECTRIC COMPANY,82739984.0,transmission_expenses
+150500,1998.0,183,PACIFIC GAS AND ELECTRIC COMPANY,410748509.0,distribution_expenses
+150516,1998.0,183,PACIFIC GAS AND ELECTRIC COMPANY,45137315.0,injuries_and_damages
+150589,1998.0,183,PACIFIC GAS AND ELECTRIC COMPANY,89896618.0,transmission_expenses
+150610,1999.0,183,PACIFIC GAS AND ELECTRIC COMPANY,366350067.0,distribution_expenses
+150627,1999.0,183,PACIFIC GAS AND ELECTRIC COMPANY,70546032.0,injuries_and_damages
+150726,1999.0,183,PACIFIC GAS AND ELECTRIC COMPANY,100545416.0,transmission_expenses
+150747,2000.0,183,PACIFIC GAS AND ELECTRIC COMPANY,368936385.0,distribution_expenses
+150764,2000.0,183,PACIFIC GAS AND ELECTRIC COMPANY,274562887.0,injuries_and_damages
+150863,2000.0,183,PACIFIC GAS AND ELECTRIC COMPANY,95745021.0,transmission_expenses
+150884,2001.0,183,PACIFIC GAS AND ELECTRIC COMPANY,362471847.0,distribution_expenses
+150901,2001.0,183,PACIFIC GAS AND ELECTRIC COMPANY,45469007.0,injuries_and_damages
+151000,2001.0,183,PACIFIC GAS AND ELECTRIC COMPANY,105341288.0,transmission_expenses
+151021,2002.0,183,PACIFIC GAS AND ELECTRIC COMPANY,395691376.0,distribution_expenses
+151038,2002.0,183,PACIFIC GAS AND ELECTRIC COMPANY,51917481.0,injuries_and_damages
+151137,2002.0,183,PACIFIC GAS AND ELECTRIC COMPANY,106518205.0,transmission_expenses
+151158,2003.0,183,PACIFIC GAS AND ELECTRIC COMPANY,426735394.0,distribution_expenses
+151175,2003.0,183,PACIFIC GAS AND ELECTRIC COMPANY,71919662.0,injuries_and_damages
+151274,2003.0,183,PACIFIC GAS AND ELECTRIC COMPANY,100771490.0,transmission_expenses
+151293,2004.0,183,PACIFIC GAS AND ELECTRIC COMPANY,434234166.0,distribution_expenses
+151309,2004.0,183,PACIFIC GAS AND ELECTRIC COMPANY,69593179.0,injuries_and_damages
+151380,2004.0,183,PACIFIC GAS AND ELECTRIC COMPANY,110421880.0,transmission_expenses
+151399,2005.0,183,PACIFIC GAS AND ELECTRIC COMPANY,450099342.0,distribution_expenses
+151414,2005.0,183,PACIFIC GAS AND ELECTRIC COMPANY,61921820.0,injuries_and_damages
+151485,2005.0,183,PACIFIC GAS AND ELECTRIC COMPANY,127725019.0,transmission_expenses
+151506,2006.0,183,PACIFIC GAS AND ELECTRIC COMPANY,470509516.0,distribution_expenses
+151521,2006.0,183,PACIFIC GAS AND ELECTRIC COMPANY,47620854.0,injuries_and_damages
+151606,2006.0,183,PACIFIC GAS AND ELECTRIC COMPANY,170137295.0,transmission_expenses
+151625,2007.0,183,PACIFIC GAS AND ELECTRIC COMPANY,498388177.0,distribution_expenses
+151640,2007.0,183,PACIFIC GAS AND ELECTRIC COMPANY,68890004.0,injuries_and_damages
+151718,2007.0,183,PACIFIC GAS AND ELECTRIC COMPANY,176055957.0,transmission_expenses
+151738,2008.0,183,PACIFIC GAS AND ELECTRIC COMPANY,532969503.0,distribution_expenses
+151753,2008.0,183,PACIFIC GAS AND ELECTRIC COMPANY,59306419.0,injuries_and_damages
+151830,2008.0,183,PACIFIC GAS AND ELECTRIC COMPANY,208842255.0,transmission_expenses
+151850,2009.0,183,PACIFIC GAS AND ELECTRIC COMPANY,485303652.0,distribution_expenses
+151865,2009.0,183,PACIFIC GAS AND ELECTRIC COMPANY,57567250.0,injuries_and_damages
+151945,2009.0,183,PACIFIC GAS AND ELECTRIC COMPANY,201451121.0,transmission_expenses
+151964,2010.0,183,PACIFIC GAS AND ELECTRIC COMPANY,506219285.0,distribution_expenses
+151979,2010.0,183,PACIFIC GAS AND ELECTRIC COMPANY,66259243.0,injuries_and_damages
+152058,2010.0,183,PACIFIC GAS AND ELECTRIC COMPANY,208134999.0,transmission_expenses
+152078,2011.0,183,PACIFIC GAS AND ELECTRIC COMPANY,600835792.0,distribution_expenses
+152093,2011.0,183,PACIFIC GAS AND ELECTRIC COMPANY,81108407.0,injuries_and_damages
+152171,2011.0,183,PACIFIC GAS AND ELECTRIC COMPANY,204857909.0,transmission_expenses
+152191,2012.0,183,PACIFIC GAS AND ELECTRIC COMPANY,648493139.0,distribution_expenses
+152205,2012.0,183,PACIFIC GAS AND ELECTRIC COMPANY,76484172.0,injuries_and_damages
+152279,2012.0,183,PACIFIC GAS AND ELECTRIC COMPANY,211157970.0,transmission_expenses
+152299,2013.0,183,PACIFIC GAS AND ELECTRIC COMPANY,629019242.0,distribution_expenses
+152313,2013.0,183,PACIFIC GAS AND ELECTRIC COMPANY,75257418.0,injuries_and_damages
+152386,2013.0,183,PACIFIC GAS AND ELECTRIC COMPANY,227245113.0,transmission_expenses
+152406,2014.0,183,PACIFIC GAS AND ELECTRIC COMPANY,675093961.0,distribution_expenses
+152420,2014.0,183,PACIFIC GAS AND ELECTRIC COMPANY,96626937.0,injuries_and_damages
+152495,2014.0,183,PACIFIC GAS AND ELECTRIC COMPANY,243047577.0,transmission_expenses
+152515,2015.0,183,PACIFIC GAS AND ELECTRIC COMPANY,829694498.0,distribution_expenses
+152528,2015.0,183,PACIFIC GAS AND ELECTRIC COMPANY,84806973.0,injuries_and_damages
+152603,2015.0,183,PACIFIC GAS AND ELECTRIC COMPANY,286712492.0,transmission_expenses
+152623,2016.0,183,PACIFIC GAS AND ELECTRIC COMPANY,933330718.0,distribution_expenses
+152636,2016.0,183,PACIFIC GAS AND ELECTRIC COMPANY,223742232.0,injuries_and_damages
+152721,2016.0,183,PACIFIC GAS AND ELECTRIC COMPANY,296115199.0,transmission_expenses
+152741,2017.0,183,PACIFIC GAS AND ELECTRIC COMPANY,726323661.0,distribution_expenses
+152754,2017.0,183,PACIFIC GAS AND ELECTRIC COMPANY,190423721.0,injuries_and_damages
+152841,2017.0,183,PACIFIC GAS AND ELECTRIC COMPANY,300976272.0,transmission_expenses
+152861,2018.0,183,PACIFIC GAS AND ELECTRIC COMPANY,1156968797.0,distribution_expenses
+152874,2018.0,183,PACIFIC GAS AND ELECTRIC COMPANY,12202690726.0,injuries_and_damages
+152961,2018.0,183,PACIFIC GAS AND ELECTRIC COMPANY,349089746.0,transmission_expenses
+152981,2019.0,183,PACIFIC GAS AND ELECTRIC COMPANY,1423755418.0,distribution_expenses
+152993,2019.0,183,PACIFIC GAS AND ELECTRIC COMPANY,11371690540.0,injuries_and_damages
+153080,2019.0,183,PACIFIC GAS AND ELECTRIC COMPANY,994875874.0,transmission_expenses
+153100,2020.0,183,PACIFIC GAS AND ELECTRIC COMPANY,2947567417.0,distribution_expenses
+153112,2020.0,183,PACIFIC GAS AND ELECTRIC COMPANY,1198782625.0,injuries_and_damages
+153199,2020.0,183,PACIFIC GAS AND ELECTRIC COMPANY,698964989.0,transmission_expenses
+153223,2021.0,183,PACIFIC GAS AND ELECTRIC COMPANY,3154064207.0,distribution_expenses
+153241,2021.0,183,PACIFIC GAS AND ELECTRIC COMPANY,1781245931.0,injuries_and_damages
+153368,2021.0,183,PACIFIC GAS AND ELECTRIC COMPANY,734416802.0,transmission_expenses
+159818,1994.0,186,El Paso Electric Company,13641366.0,distribution_expenses
+159835,1994.0,186,El Paso Electric Company,5742407.0,injuries_and_damages
+159934,1994.0,186,El Paso Electric Company,6978237.0,transmission_expenses
+159955,1995.0,186,El Paso Electric Company,13038907.0,distribution_expenses
+159972,1995.0,186,El Paso Electric Company,5271108.0,injuries_and_damages
+160071,1995.0,186,El Paso Electric Company,6055878.0,transmission_expenses
+160092,1996.0,186,El Paso Electric Company,13449702.0,distribution_expenses
+160109,1996.0,186,El Paso Electric Company,5458855.0,injuries_and_damages
+160208,1996.0,186,El Paso Electric Company,4874625.0,transmission_expenses
+160229,1997.0,186,El Paso Electric Company,13022019.0,distribution_expenses
+160246,1997.0,186,El Paso Electric Company,4048446.0,injuries_and_damages
+160345,1997.0,186,El Paso Electric Company,4696161.0,transmission_expenses
+160363,1998.0,186,El Paso Electric Company,13064870.0,distribution_expenses
+160373,1998.0,186,El Paso Electric Company,2348433.0,injuries_and_damages
+160453,1998.0,186,El Paso Electric Company,3898082.0,transmission_expenses
+160472,1999.0,186,El Paso Electric Company,13674871.0,distribution_expenses
+160487,1999.0,186,El Paso Electric Company,2189322.0,injuries_and_damages
+160585,1999.0,186,El Paso Electric Company,4483641.0,transmission_expenses
+160606,2000.0,186,El Paso Electric Company,14761328.0,distribution_expenses
+160621,2000.0,186,El Paso Electric Company,2407923.0,injuries_and_damages
+160719,2000.0,186,El Paso Electric Company,5454673.0,transmission_expenses
+160740,2001.0,186,El Paso Electric Company,15611932.0,distribution_expenses
+160755,2001.0,186,El Paso Electric Company,4017058.0,injuries_and_damages
+160853,2001.0,186,El Paso Electric Company,6304350.0,transmission_expenses
+160874,2002.0,186,El Paso Electric Company,15414090.0,distribution_expenses
+160889,2002.0,186,El Paso Electric Company,3850891.0,injuries_and_damages
+160987,2002.0,186,El Paso Electric Company,22201018.0,transmission_expenses
+161008,2003.0,186,El Paso Electric Company,15104459.0,distribution_expenses
+161023,2003.0,186,El Paso Electric Company,8451070.0,injuries_and_damages
+161121,2003.0,186,El Paso Electric Company,6441655.0,transmission_expenses
+161139,2004.0,186,El Paso Electric Company,15698240.0,distribution_expenses
+161150,2004.0,186,El Paso Electric Company,7002620.0,injuries_and_damages
+161231,2004.0,186,El Paso Electric Company,6740362.0,transmission_expenses
+161247,2005.0,186,El Paso Electric Company,17803333.0,distribution_expenses
+161258,2005.0,186,El Paso Electric Company,5420508.0,injuries_and_damages
+161338,2005.0,186,El Paso Electric Company,10499330.0,transmission_expenses
+161354,2006.0,186,El Paso Electric Company,20756714.0,distribution_expenses
+161365,2006.0,186,El Paso Electric Company,6390567.0,injuries_and_damages
+161451,2006.0,186,El Paso Electric Company,15611880.0,transmission_expenses
+161466,2007.0,186,El Paso Electric Company,18861890.0,distribution_expenses
+161477,2007.0,186,El Paso Electric Company,4735707.0,injuries_and_damages
+161562,2007.0,186,El Paso Electric Company,16383426.0,transmission_expenses
+161577,2008.0,186,El Paso Electric Company,19812186.0,distribution_expenses
+161588,2008.0,186,El Paso Electric Company,4214903.0,injuries_and_damages
+161672,2008.0,186,El Paso Electric Company,17068713.0,transmission_expenses
+161689,2009.0,186,El Paso Electric Company,19066546.0,distribution_expenses
+161700,2009.0,186,El Paso Electric Company,4194840.0,injuries_and_damages
+161783,2009.0,186,El Paso Electric Company,17213919.0,transmission_expenses
+161800,2010.0,186,El Paso Electric Company,19369776.0,distribution_expenses
+161810,2010.0,186,El Paso Electric Company,4079658.0,injuries_and_damages
+161893,2010.0,186,El Paso Electric Company,15837496.0,transmission_expenses
+161909,2011.0,186,El Paso Electric Company,19842031.0,distribution_expenses
+161920,2011.0,186,El Paso Electric Company,4477454.0,injuries_and_damages
+162003,2011.0,186,El Paso Electric Company,17439197.0,transmission_expenses
+162020,2012.0,186,El Paso Electric Company,21004083.0,distribution_expenses
+162031,2012.0,186,El Paso Electric Company,4145167.0,injuries_and_damages
+162112,2012.0,186,El Paso Electric Company,15620528.0,transmission_expenses
+162129,2013.0,186,El Paso Electric Company,21739777.0,distribution_expenses
+162140,2013.0,186,El Paso Electric Company,3577666.0,injuries_and_damages
+162222,2013.0,186,El Paso Electric Company,16764874.0,transmission_expenses
+162238,2014.0,186,El Paso Electric Company,22321324.0,distribution_expenses
+162249,2014.0,186,El Paso Electric Company,5359530.0,injuries_and_damages
+162332,2014.0,186,El Paso Electric Company,17855417.0,transmission_expenses
+162347,2015.0,186,El Paso Electric Company,22881427.0,distribution_expenses
+162358,2015.0,186,El Paso Electric Company,4144948.0,injuries_and_damages
+162440,2015.0,186,El Paso Electric Company,19119619.0,transmission_expenses
+162455,2016.0,186,El Paso Electric Company,22668622.0,distribution_expenses
+162466,2016.0,186,El Paso Electric Company,4309021.0,injuries_and_damages
+162548,2016.0,186,El Paso Electric Company,20343629.0,transmission_expenses
+162563,2017.0,186,El Paso Electric Company,22224374.0,distribution_expenses
+162574,2017.0,186,El Paso Electric Company,4594331.0,injuries_and_damages
+162655,2017.0,186,El Paso Electric Company,21077539.0,transmission_expenses
+162670,2018.0,186,El Paso Electric Company,23313719.0,distribution_expenses
+162681,2018.0,186,El Paso Electric Company,4137090.0,injuries_and_damages
+162762,2018.0,186,El Paso Electric Company,22364139.0,transmission_expenses
+162778,2019.0,186,El Paso Electric Company,25695968.0,distribution_expenses
+162789,2019.0,186,El Paso Electric Company,3799548.0,injuries_and_damages
+162871,2019.0,186,El Paso Electric Company,22170008.0,transmission_expenses
+162887,2020.0,186,El Paso Electric Company,26381814.0,distribution_expenses
+162898,2020.0,186,El Paso Electric Company,3644212.0,injuries_and_damages
+162980,2020.0,186,El Paso Electric Company,23716836.0,transmission_expenses
+163002,2021.0,186,El Paso Electric Company,27677767.0,distribution_expenses
+163020,2021.0,186,El Paso Electric Company,4841811.0,injuries_and_damages
+163147,2021.0,186,El Paso Electric Company,25086361.0,transmission_expenses
+202681,1994.0,205,Public Service Company of Oklahoma,32397045.0,distribution_expenses
+202711,1994.0,205,Public Service Company of Oklahoma,4297466.0,injuries_and_damages
+202915,1994.0,205,Public Service Company of Oklahoma,6779206.0,transmission_expenses
+202957,1995.0,205,Public Service Company of Oklahoma,22735386.0,distribution_expenses
+202987,1995.0,205,Public Service Company of Oklahoma,3964746.0,injuries_and_damages
+203188,1995.0,205,Public Service Company of Oklahoma,10907499.0,transmission_expenses
+203230,1996.0,205,Public Service Company of Oklahoma,23020027.0,distribution_expenses
+203266,1996.0,205,Public Service Company of Oklahoma,4241420.0,injuries_and_damages
+203500,1996.0,205,Public Service Company of Oklahoma,9736851.0,transmission_expenses
+203545,1997.0,205,Public Service Company of Oklahoma,23583124.0,distribution_expenses
+203584,1997.0,205,Public Service Company of Oklahoma,2670085.0,injuries_and_damages
+203812,1997.0,205,Public Service Company of Oklahoma,9336886.0,transmission_expenses
+203857,1998.0,205,Public Service Company of Oklahoma,25952013.0,distribution_expenses
+203890,1998.0,205,Public Service Company of Oklahoma,1829477.0,injuries_and_damages
+204094,1998.0,205,Public Service Company of Oklahoma,1518012.0,transmission_expenses
+204148,1999.0,205,Public Service Company of Oklahoma,27506598.0,distribution_expenses
+204193,1999.0,205,Public Service Company of Oklahoma,4822529.0,injuries_and_damages
+204475,1999.0,205,Public Service Company of Oklahoma,15556355.0,transmission_expenses
+204538,2000.0,205,Public Service Company of Oklahoma,30791183.0,distribution_expenses
+204583,2000.0,205,Public Service Company of Oklahoma,4731132.0,injuries_and_damages
+204868,2000.0,205,Public Service Company of Oklahoma,11562794.0,transmission_expenses
+204931,2001.0,205,Public Service Company of Oklahoma,33101040.0,distribution_expenses
+204976,2001.0,205,Public Service Company of Oklahoma,3959484.0,injuries_and_damages
+205261,2001.0,205,Public Service Company of Oklahoma,19805309.0,transmission_expenses
+205324,2002.0,205,Public Service Company of Oklahoma,36085001.0,distribution_expenses
+205369,2002.0,205,Public Service Company of Oklahoma,3224369.0,injuries_and_damages
+205654,2002.0,205,Public Service Company of Oklahoma,17117204.0,transmission_expenses
+205717,2003.0,205,Public Service Company of Oklahoma,37444321.0,distribution_expenses
+205762,2003.0,205,Public Service Company of Oklahoma,4447222.0,injuries_and_damages
+206047,2003.0,205,Public Service Company of Oklahoma,13947261.0,transmission_expenses
+206107,2004.0,205,Public Service Company of Oklahoma,50724631.0,distribution_expenses
+206137,2004.0,205,Public Service Company of Oklahoma,4310468.0,injuries_and_damages
+206335,2004.0,205,Public Service Company of Oklahoma,25748908.0,transmission_expenses
+206392,2005.0,205,Public Service Company of Oklahoma,48639921.0,distribution_expenses
+206422,2005.0,205,Public Service Company of Oklahoma,2828478.0,injuries_and_damages
+206620,2005.0,205,Public Service Company of Oklahoma,23002392.0,transmission_expenses
+206677,2006.0,205,Public Service Company of Oklahoma,64420520.0,distribution_expenses
+206707,2006.0,205,Public Service Company of Oklahoma,2852044.0,injuries_and_damages
+206935,2006.0,205,Public Service Company of Oklahoma,20090328.0,transmission_expenses
+206989,2007.0,205,Public Service Company of Oklahoma,150733020.0,distribution_expenses
+207019,2007.0,205,Public Service Company of Oklahoma,2658479.0,injuries_and_damages
+207253,2007.0,205,Public Service Company of Oklahoma,27081834.0,transmission_expenses
+207307,2008.0,205,Public Service Company of Oklahoma,2836751.0,distribution_expenses
+207337,2008.0,205,Public Service Company of Oklahoma,3755083.0,injuries_and_damages
+207571,2008.0,205,Public Service Company of Oklahoma,37660249.0,transmission_expenses
+207622,2009.0,205,Public Service Company of Oklahoma,78524592.0,distribution_expenses
+207652,2009.0,205,Public Service Company of Oklahoma,2847067.0,injuries_and_damages
+207892,2009.0,205,Public Service Company of Oklahoma,37021457.0,transmission_expenses
+207946,2010.0,205,Public Service Company of Oklahoma,90675723.0,distribution_expenses
+207976,2010.0,205,Public Service Company of Oklahoma,3267665.0,injuries_and_damages
+208219,2010.0,205,Public Service Company of Oklahoma,40068345.0,transmission_expenses
+208273,2011.0,205,Public Service Company of Oklahoma,78703770.0,distribution_expenses
+208303,2011.0,205,Public Service Company of Oklahoma,4704751.0,injuries_and_damages
+208543,2011.0,205,Public Service Company of Oklahoma,40774072.0,transmission_expenses
+208597,2012.0,205,Public Service Company of Oklahoma,77567080.0,distribution_expenses
+208630,2012.0,205,Public Service Company of Oklahoma,3177736.0,injuries_and_damages
+208870,2012.0,205,Public Service Company of Oklahoma,56718579.0,transmission_expenses
+208924,2013.0,205,Public Service Company of Oklahoma,73807508.0,distribution_expenses
+208957,2013.0,205,Public Service Company of Oklahoma,3123334.0,injuries_and_damages
+209194,2013.0,205,Public Service Company of Oklahoma,76920782.0,transmission_expenses
+209248,2014.0,205,Public Service Company of Oklahoma,68452080.0,distribution_expenses
+209278,2014.0,205,Public Service Company of Oklahoma,3490184.0,injuries_and_damages
+209518,2014.0,205,Public Service Company of Oklahoma,95265637.0,transmission_expenses
+209575,2015.0,205,Public Service Company of Oklahoma,71354854.0,distribution_expenses
+209605,2015.0,205,Public Service Company of Oklahoma,3089953.0,injuries_and_damages
+209845,2015.0,205,Public Service Company of Oklahoma,100058261.0,transmission_expenses
+209905,2016.0,205,Public Service Company of Oklahoma,81311562.0,distribution_expenses
+209935,2016.0,205,Public Service Company of Oklahoma,3096883.0,injuries_and_damages
+210172,2016.0,205,Public Service Company of Oklahoma,114838501.0,transmission_expenses
+210232,2017.0,205,Public Service Company of Oklahoma,97536544.0,distribution_expenses
+210262,2017.0,205,Public Service Company of Oklahoma,3073638.0,injuries_and_damages
+210502,2017.0,205,Public Service Company of Oklahoma,137833518.0,transmission_expenses
+210556,2018.0,205,Public Service Company of Oklahoma,85095711.0,distribution_expenses
+210586,2018.0,205,Public Service Company of Oklahoma,2791403.0,injuries_and_damages
+210826,2018.0,205,Public Service Company of Oklahoma,166820863.0,transmission_expenses
+210880,2019.0,205,Public Service Company of Oklahoma,83336677.0,distribution_expenses
+210910,2019.0,205,Public Service Company of Oklahoma,3335893.0,injuries_and_damages
+211156,2019.0,205,Public Service Company of Oklahoma,131916333.0,transmission_expenses
+211210,2020.0,205,Public Service Company of Oklahoma,82157349.0,distribution_expenses
+211240,2020.0,205,Public Service Company of Oklahoma,-496529.0,injuries_and_damages
+211486,2020.0,205,Public Service Company of Oklahoma,154816555.0,transmission_expenses
+211555,2021.0,205,Public Service Company of Oklahoma,77602676.0,distribution_expenses
+211609,2021.0,205,Public Service Company of Oklahoma,3045818.0,injuries_and_damages
+211990,2021.0,205,Public Service Company of Oklahoma,182613401.0,transmission_expenses
+212052,1994.0,206,Southwestern Electric Power Company,28897147.0,distribution_expenses
+212082,1994.0,206,Southwestern Electric Power Company,2882074.0,injuries_and_damages
+212286,1994.0,206,Southwestern Electric Power Company,9972532.0,transmission_expenses
+212334,1995.0,206,Southwestern Electric Power Company,21717981.0,distribution_expenses
+212367,1995.0,206,Southwestern Electric Power Company,2986697.0,injuries_and_damages
+212571,1995.0,206,Southwestern Electric Power Company,13733605.0,transmission_expenses
+212619,1996.0,206,Southwestern Electric Power Company,20316052.0,distribution_expenses
+212649,1996.0,206,Southwestern Electric Power Company,3068061.0,injuries_and_damages
+212859,1996.0,206,Southwestern Electric Power Company,13136394.0,transmission_expenses
+212907,1997.0,206,Southwestern Electric Power Company,24683006.0,distribution_expenses
+212934,1997.0,206,Southwestern Electric Power Company,2794241.0,injuries_and_damages
+213117,1997.0,206,Southwestern Electric Power Company,25283429.0,transmission_expenses
+213162,1998.0,206,Southwestern Electric Power Company,24039634.0,distribution_expenses
+213189,1998.0,206,Southwestern Electric Power Company,1422746.0,injuries_and_damages
+213363,1998.0,206,Southwestern Electric Power Company,12431034.0,transmission_expenses
+213417,1999.0,206,Southwestern Electric Power Company,31470509.0,distribution_expenses
+213462,1999.0,206,Southwestern Electric Power Company,3336247.0,injuries_and_damages
+213741,1999.0,206,Southwestern Electric Power Company,21969556.0,transmission_expenses
+213804,2000.0,206,Southwestern Electric Power Company,46475028.0,distribution_expenses
+213849,2000.0,206,Southwestern Electric Power Company,3267521.0,injuries_and_damages
+214131,2000.0,206,Southwestern Electric Power Company,17419702.0,transmission_expenses
+214194,2001.0,206,Southwestern Electric Power Company,47101988.0,distribution_expenses
+214239,2001.0,206,Southwestern Electric Power Company,3202193.0,injuries_and_damages
+214521,2001.0,206,Southwestern Electric Power Company,19975055.0,transmission_expenses
+214584,2002.0,206,Southwestern Electric Power Company,40563861.0,distribution_expenses
+214629,2002.0,206,Southwestern Electric Power Company,4418843.0,injuries_and_damages
+214914,2002.0,206,Southwestern Electric Power Company,19146871.0,transmission_expenses
+214977,2003.0,206,Southwestern Electric Power Company,45939103.0,distribution_expenses
+215022,2003.0,206,Southwestern Electric Power Company,2896494.0,injuries_and_damages
+215307,2003.0,206,Southwestern Electric Power Company,16968450.0,transmission_expenses
+215367,2004.0,206,Southwestern Electric Power Company,44497508.0,distribution_expenses
+215394,2004.0,206,Southwestern Electric Power Company,2548152.0,injuries_and_damages
+215580,2004.0,206,Southwestern Electric Power Company,30784048.0,transmission_expenses
+215634,2005.0,206,Southwestern Electric Power Company,58537469.0,distribution_expenses
+215658,2005.0,206,Southwestern Electric Power Company,2296119.0,injuries_and_damages
+215832,2005.0,206,Southwestern Electric Power Company,28371967.0,transmission_expenses
+215886,2006.0,206,Southwestern Electric Power Company,53623282.0,distribution_expenses
+215910,2006.0,206,Southwestern Electric Power Company,3651104.0,injuries_and_damages
+216114,2006.0,206,Southwestern Electric Power Company,21657825.0,transmission_expenses
+216168,2007.0,206,Southwestern Electric Power Company,52226986.0,distribution_expenses
+216198,2007.0,206,Southwestern Electric Power Company,-250509.0,injuries_and_damages
+216423,2007.0,206,Southwestern Electric Power Company,31300352.0,transmission_expenses
+216471,2008.0,206,Southwestern Electric Power Company,62438388.0,distribution_expenses
+216501,2008.0,206,Southwestern Electric Power Company,2593596.0,injuries_and_damages
+216723,2008.0,206,Southwestern Electric Power Company,31136141.0,transmission_expenses
+216774,2009.0,206,Southwestern Electric Power Company,48951975.0,distribution_expenses
+216804,2009.0,206,Southwestern Electric Power Company,2623014.0,injuries_and_damages
+217035,2009.0,206,Southwestern Electric Power Company,29627119.0,transmission_expenses
+217092,2010.0,206,Southwestern Electric Power Company,67371131.0,distribution_expenses
+217122,2010.0,206,Southwestern Electric Power Company,3299431.0,injuries_and_damages
+217359,2010.0,206,Southwestern Electric Power Company,33997837.0,transmission_expenses
+217413,2011.0,206,Southwestern Electric Power Company,74273938.0,distribution_expenses
+217443,2011.0,206,Southwestern Electric Power Company,4543773.0,injuries_and_damages
+217680,2011.0,206,Southwestern Electric Power Company,33846469.0,transmission_expenses
+217734,2012.0,206,Southwestern Electric Power Company,65184937.0,distribution_expenses
+217764,2012.0,206,Southwestern Electric Power Company,3838212.0,injuries_and_damages
+217998,2012.0,206,Southwestern Electric Power Company,44970358.0,transmission_expenses
+218052,2013.0,206,Southwestern Electric Power Company,68827618.0,distribution_expenses
+218082,2013.0,206,Southwestern Electric Power Company,3949348.0,injuries_and_damages
+218316,2013.0,206,Southwestern Electric Power Company,65916731.0,transmission_expenses
+218370,2014.0,206,Southwestern Electric Power Company,73291592.0,distribution_expenses
+218400,2014.0,206,Southwestern Electric Power Company,4713246.0,injuries_and_damages
+218634,2014.0,206,Southwestern Electric Power Company,80472721.0,transmission_expenses
+218688,2015.0,206,Southwestern Electric Power Company,84126128.0,distribution_expenses
+218718,2015.0,206,Southwestern Electric Power Company,4448143.0,injuries_and_damages
+218952,2015.0,206,Southwestern Electric Power Company,96781200.0,transmission_expenses
+219012,2016.0,206,Southwestern Electric Power Company,77197828.0,distribution_expenses
+219045,2016.0,206,Southwestern Electric Power Company,5224155.0,injuries_and_damages
+219282,2016.0,206,Southwestern Electric Power Company,120300786.0,transmission_expenses
+219342,2017.0,206,Southwestern Electric Power Company,85912772.0,distribution_expenses
+219375,2017.0,206,Southwestern Electric Power Company,4352353.0,injuries_and_damages
+219612,2017.0,206,Southwestern Electric Power Company,119772286.0,transmission_expenses
+219669,2018.0,206,Southwestern Electric Power Company,83799260.0,distribution_expenses
+219699,2018.0,206,Southwestern Electric Power Company,5390984.0,injuries_and_damages
+219942,2018.0,206,Southwestern Electric Power Company,137056447.0,transmission_expenses
+219996,2019.0,206,Southwestern Electric Power Company,90316730.0,distribution_expenses
+220026,2019.0,206,Southwestern Electric Power Company,3442989.0,injuries_and_damages
+220272,2019.0,206,Southwestern Electric Power Company,118375837.0,transmission_expenses
+220329,2020.0,206,Southwestern Electric Power Company,89512900.0,distribution_expenses
+220356,2020.0,206,Southwestern Electric Power Company,-5429091.0,injuries_and_damages
+220602,2020.0,206,Southwestern Electric Power Company,134712591.0,transmission_expenses
+220671,2021.0,206,Southwestern Electric Power Company,87704314.0,distribution_expenses
+220725,2021.0,206,Southwestern Electric Power Company,4432609.0,injuries_and_damages
+221106,2021.0,206,Southwestern Electric Power Company,158427276.0,transmission_expenses
+255306,1994.0,218,San Diego Gas & Electric Company,33720922.0,distribution_expenses
+255319,1994.0,218,San Diego Gas & Electric Company,10740873.0,injuries_and_damages
+255405,1994.0,218,San Diego Gas & Electric Company,24759347.0,transmission_expenses
+255424,1995.0,218,San Diego Gas & Electric Company,35478607.0,distribution_expenses
+255437,1995.0,218,San Diego Gas & Electric Company,6421254.0,injuries_and_damages
+255523,1995.0,218,San Diego Gas & Electric Company,25031353.0,transmission_expenses
+255542,1996.0,218,San Diego Gas & Electric Company,38778940.0,distribution_expenses
+255555,1996.0,218,San Diego Gas & Electric Company,6179338.0,injuries_and_damages
+255641,1996.0,218,San Diego Gas & Electric Company,21714224.0,transmission_expenses
+255660,1997.0,218,San Diego Gas & Electric Company,48191025.0,distribution_expenses
+255673,1997.0,218,San Diego Gas & Electric Company,6216839.0,injuries_and_damages
+255758,1997.0,218,San Diego Gas & Electric Company,27285362.0,transmission_expenses
+255776,1998.0,218,San Diego Gas & Electric Company,68735847.0,distribution_expenses
+255789,1998.0,218,San Diego Gas & Electric Company,4794817.0,injuries_and_damages
+255874,1998.0,218,San Diego Gas & Electric Company,21006595.0,transmission_expenses
+255894,1999.0,218,San Diego Gas & Electric Company,66910080.0,distribution_expenses
+255909,1999.0,218,San Diego Gas & Electric Company,4716098.0,injuries_and_damages
+256007,1999.0,218,San Diego Gas & Electric Company,72181037.0,transmission_expenses
+256028,2000.0,218,San Diego Gas & Electric Company,57185667.0,distribution_expenses
+256043,2000.0,218,San Diego Gas & Electric Company,5228723.0,injuries_and_damages
+256141,2000.0,218,San Diego Gas & Electric Company,58707030.0,transmission_expenses
+256162,2001.0,218,San Diego Gas & Electric Company,61332926.0,distribution_expenses
+256177,2001.0,218,San Diego Gas & Electric Company,4833501.0,injuries_and_damages
+256275,2001.0,218,San Diego Gas & Electric Company,107316315.0,transmission_expenses
+256296,2002.0,218,San Diego Gas & Electric Company,76310456.0,distribution_expenses
+256311,2002.0,218,San Diego Gas & Electric Company,11116910.0,injuries_and_damages
+256409,2002.0,218,San Diego Gas & Electric Company,79599130.0,transmission_expenses
+256430,2003.0,218,San Diego Gas & Electric Company,103531011.0,distribution_expenses
+256445,2003.0,218,San Diego Gas & Electric Company,7601778.0,injuries_and_damages
+256543,2003.0,218,San Diego Gas & Electric Company,147488504.0,transmission_expenses
+256563,2004.0,218,San Diego Gas & Electric Company,101165429.0,distribution_expenses
+256572,2004.0,218,San Diego Gas & Electric Company,10565519.0,injuries_and_damages
+256646,2004.0,218,San Diego Gas & Electric Company,220233036.0,transmission_expenses
+256664,2005.0,218,San Diego Gas & Electric Company,105096868.0,distribution_expenses
+256675,2005.0,218,San Diego Gas & Electric Company,11578347.0,injuries_and_damages
+256752,2005.0,218,San Diego Gas & Electric Company,214715777.0,transmission_expenses
+256771,2006.0,218,San Diego Gas & Electric Company,118176680.0,distribution_expenses
+256783,2006.0,218,San Diego Gas & Electric Company,12548070.0,injuries_and_damages
+256874,2006.0,218,San Diego Gas & Electric Company,261786335.0,transmission_expenses
+256893,2007.0,218,San Diego Gas & Electric Company,119393307.0,distribution_expenses
+256906,2007.0,218,San Diego Gas & Electric Company,11980092.0,injuries_and_damages
+256999,2007.0,218,San Diego Gas & Electric Company,124209959.0,transmission_expenses
+257017,2008.0,218,San Diego Gas & Electric Company,119420861.0,distribution_expenses
+257030,2008.0,218,San Diego Gas & Electric Company,13267996.0,injuries_and_damages
+257121,2008.0,218,San Diego Gas & Electric Company,112238785.0,transmission_expenses
+257138,2009.0,218,San Diego Gas & Electric Company,145443275.0,distribution_expenses
+257151,2009.0,218,San Diego Gas & Electric Company,10774639.0,injuries_and_damages
+257240,2009.0,218,San Diego Gas & Electric Company,85844441.0,transmission_expenses
+257257,2010.0,218,San Diego Gas & Electric Company,109413498.0,distribution_expenses
+257268,2010.0,218,San Diego Gas & Electric Company,89418454.0,injuries_and_damages
+257355,2010.0,218,San Diego Gas & Electric Company,92117879.0,transmission_expenses
+257372,2011.0,218,San Diego Gas & Electric Company,127596494.0,distribution_expenses
+257384,2011.0,218,San Diego Gas & Electric Company,163950485.0,injuries_and_damages
+257477,2011.0,218,San Diego Gas & Electric Company,61402044.0,transmission_expenses
+257494,2012.0,218,San Diego Gas & Electric Company,140918044.0,distribution_expenses
+257506,2012.0,218,San Diego Gas & Electric Company,142243094.0,injuries_and_damages
+257600,2012.0,218,San Diego Gas & Electric Company,75535451.0,transmission_expenses
+257617,2013.0,218,San Diego Gas & Electric Company,128782256.0,distribution_expenses
+257628,2013.0,218,San Diego Gas & Electric Company,312716691.0,injuries_and_damages
+257719,2013.0,218,San Diego Gas & Electric Company,95858541.0,transmission_expenses
+257735,2014.0,218,San Diego Gas & Electric Company,112218557.0,distribution_expenses
+257747,2014.0,218,San Diego Gas & Electric Company,233101860.0,injuries_and_damages
+257835,2014.0,218,San Diego Gas & Electric Company,81093517.0,transmission_expenses
+257851,2015.0,218,San Diego Gas & Electric Company,141442071.0,distribution_expenses
+257863,2015.0,218,San Diego Gas & Electric Company,101140890.0,injuries_and_damages
+257955,2015.0,218,San Diego Gas & Electric Company,85341097.0,transmission_expenses
+257972,2016.0,218,San Diego Gas & Electric Company,141030967.0,distribution_expenses
+257984,2016.0,218,San Diego Gas & Electric Company,87830779.0,injuries_and_damages
+258075,2016.0,218,San Diego Gas & Electric Company,87876561.0,transmission_expenses
+258092,2017.0,218,San Diego Gas & Electric Company,144376042.0,distribution_expenses
+258105,2017.0,218,San Diego Gas & Electric Company,95755200.0,injuries_and_damages
+258194,2017.0,218,San Diego Gas & Electric Company,87095508.0,transmission_expenses
+258211,2018.0,218,San Diego Gas & Electric Company,138732924.0,distribution_expenses
+258224,2018.0,218,San Diego Gas & Electric Company,112646052.0,injuries_and_damages
+258312,2018.0,218,San Diego Gas & Electric Company,88575245.0,transmission_expenses
+258329,2019.0,218,San Diego Gas & Electric Company,180491028.0,distribution_expenses
+258342,2019.0,218,San Diego Gas & Electric Company,140446405.0,injuries_and_damages
+258430,2019.0,218,San Diego Gas & Electric Company,96429353.0,transmission_expenses
+258447,2020.0,218,San Diego Gas & Electric Company,316664773.0,distribution_expenses
+258459,2020.0,218,San Diego Gas & Electric Company,181130339.0,injuries_and_damages
+258548,2020.0,218,San Diego Gas & Electric Company,99751977.0,transmission_expenses
+258570,2021.0,218,San Diego Gas & Electric Company,289615749.0,distribution_expenses
+258588,2021.0,218,San Diego Gas & Electric Company,215579218.0,injuries_and_damages
+258715,2021.0,218,San Diego Gas & Electric Company,109756332.0,transmission_expenses
+294104,1994.0,230,Southwestern Public Service Company,16470032.0,distribution_expenses
+294124,1994.0,230,Southwestern Public Service Company,2488149.0,injuries_and_damages
+294270,1994.0,230,Southwestern Public Service Company,6210632.0,transmission_expenses
+294304,1995.0,230,Southwestern Public Service Company,16748057.0,distribution_expenses
+294324,1995.0,230,Southwestern Public Service Company,2860286.0,injuries_and_damages
+294468,1995.0,230,Southwestern Public Service Company,6286531.0,transmission_expenses
+294506,1996.0,230,Southwestern Public Service Company,17199327.0,distribution_expenses
+294530,1996.0,230,Southwestern Public Service Company,3088375.0,injuries_and_damages
+294680,1996.0,230,Southwestern Public Service Company,7776457.0,transmission_expenses
+294714,1997.0,230,Southwestern Public Service Company,17209709.0,distribution_expenses
+294734,1997.0,230,Southwestern Public Service Company,14768009.0,injuries_and_damages
+294882,1997.0,230,Southwestern Public Service Company,6228807.0,transmission_expenses
+294916,1998.0,230,Southwestern Public Service Company,18345581.0,distribution_expenses
+294936,1998.0,230,Southwestern Public Service Company,3404611.0,injuries_and_damages
+295080,1998.0,230,Southwestern Public Service Company,6666848.0,transmission_expenses
+295120,1999.0,230,Southwestern Public Service Company,22942983.0,distribution_expenses
+295150,1999.0,230,Southwestern Public Service Company,2459581.0,injuries_and_damages
+295340,1999.0,230,Southwestern Public Service Company,14178323.0,transmission_expenses
+295382,2000.0,230,Southwestern Public Service Company,21783590.0,distribution_expenses
+295412,2000.0,230,Southwestern Public Service Company,980849.0,injuries_and_damages
+295602,2000.0,230,Southwestern Public Service Company,16220453.0,transmission_expenses
+295644,2001.0,230,Southwestern Public Service Company,19925823.0,distribution_expenses
+295674,2001.0,230,Southwestern Public Service Company,925320.0,injuries_and_damages
+295864,2001.0,230,Southwestern Public Service Company,29412152.0,transmission_expenses
+295906,2002.0,230,Southwestern Public Service Company,22690895.0,distribution_expenses
+295936,2002.0,230,Southwestern Public Service Company,2710380.0,injuries_and_damages
+296126,2002.0,230,Southwestern Public Service Company,37304185.0,transmission_expenses
+296162,2003.0,230,Southwestern Public Service Company,22068786.0,distribution_expenses
+296182,2003.0,230,Southwestern Public Service Company,2729345.0,injuries_and_damages
+296316,2003.0,230,Southwestern Public Service Company,38797415.0,transmission_expenses
+296348,2004.0,230,Southwestern Public Service Company,24816157.0,distribution_expenses
+296370,2004.0,230,Southwestern Public Service Company,3052729.0,injuries_and_damages
+296504,2004.0,230,Southwestern Public Service Company,37428604.0,transmission_expenses
+296536,2005.0,230,Southwestern Public Service Company,22190580.0,distribution_expenses
+296558,2005.0,230,Southwestern Public Service Company,4684224.0,injuries_and_damages
+296690,2005.0,230,Southwestern Public Service Company,41725221.0,transmission_expenses
+296726,2006.0,230,Southwestern Public Service Company,25500227.0,distribution_expenses
+296748,2006.0,230,Southwestern Public Service Company,4102656.0,injuries_and_damages
+296906,2006.0,230,Southwestern Public Service Company,44210548.0,transmission_expenses
+296944,2007.0,230,Southwestern Public Service Company,26707880.0,distribution_expenses
+296966,2007.0,230,Southwestern Public Service Company,3743190.0,injuries_and_damages
+297124,2007.0,230,Southwestern Public Service Company,45943329.0,transmission_expenses
+297164,2008.0,230,Southwestern Public Service Company,28224086.0,distribution_expenses
+297186,2008.0,230,Southwestern Public Service Company,4208768.0,injuries_and_damages
+297342,2008.0,230,Southwestern Public Service Company,46962914.0,transmission_expenses
+297384,2009.0,230,Southwestern Public Service Company,30315802.0,distribution_expenses
+297406,2009.0,230,Southwestern Public Service Company,3905191.0,injuries_and_damages
+297560,2009.0,230,Southwestern Public Service Company,54254803.0,transmission_expenses
+297600,2010.0,230,Southwestern Public Service Company,31295953.0,distribution_expenses
+297622,2010.0,230,Southwestern Public Service Company,4329443.0,injuries_and_damages
+297776,2010.0,230,Southwestern Public Service Company,65346761.0,transmission_expenses
+297814,2011.0,230,Southwestern Public Service Company,37858822.0,distribution_expenses
+297838,2011.0,230,Southwestern Public Service Company,4081209.0,injuries_and_damages
+297992,2011.0,230,Southwestern Public Service Company,81909742.0,transmission_expenses
+298036,2012.0,230,Southwestern Public Service Company,34555641.0,distribution_expenses
+298060,2012.0,230,Southwestern Public Service Company,5106679.0,injuries_and_damages
+298216,2012.0,230,Southwestern Public Service Company,102452832.0,transmission_expenses
+298260,2013.0,230,Southwestern Public Service Company,35179199.0,distribution_expenses
+298284,2013.0,230,Southwestern Public Service Company,5977074.0,injuries_and_damages
+298436,2013.0,230,Southwestern Public Service Company,115727911.0,transmission_expenses
+298478,2014.0,230,Southwestern Public Service Company,36160329.0,distribution_expenses
+298502,2014.0,230,Southwestern Public Service Company,3439545.0,injuries_and_damages
+298654,2014.0,230,Southwestern Public Service Company,126490017.0,transmission_expenses
+298694,2015.0,230,Southwestern Public Service Company,38255641.0,distribution_expenses
+298718,2015.0,230,Southwestern Public Service Company,3937047.0,injuries_and_damages
+298872,2015.0,230,Southwestern Public Service Company,145593708.0,transmission_expenses
+298912,2016.0,230,Southwestern Public Service Company,30993798.0,distribution_expenses
+298936,2016.0,230,Southwestern Public Service Company,2785187.0,injuries_and_damages
+299090,2016.0,230,Southwestern Public Service Company,173307471.0,transmission_expenses
+299130,2017.0,230,Southwestern Public Service Company,36119849.0,distribution_expenses
+299154,2017.0,230,Southwestern Public Service Company,2422752.0,injuries_and_damages
+299306,2017.0,230,Southwestern Public Service Company,191521737.0,transmission_expenses
+299348,2018.0,230,Southwestern Public Service Company,38739555.0,distribution_expenses
+299372,2018.0,230,Southwestern Public Service Company,5364869.0,injuries_and_damages
+299526,2018.0,230,Southwestern Public Service Company,195643991.0,transmission_expenses
+299568,2019.0,230,Southwestern Public Service Company,35668484.0,distribution_expenses
+299592,2019.0,230,Southwestern Public Service Company,9010326.0,injuries_and_damages
+299746,2019.0,230,Southwestern Public Service Company,200383197.0,transmission_expenses
+299786,2020.0,230,Southwestern Public Service Company,31758680.0,distribution_expenses
+299810,2020.0,230,Southwestern Public Service Company,7676830.0,injuries_and_damages
+299960,2020.0,230,Southwestern Public Service Company,206854790.0,transmission_expenses
+300006,2021.0,230,Southwestern Public Service Company,29974749.0,distribution_expenses
+300042,2021.0,230,Southwestern Public Service Company,5491093.0,injuries_and_damages
+300296,2021.0,230,Southwestern Public Service Company,204331713.0,transmission_expenses
+306053,2008.0,234,"Entergy Texas, Inc.",29424267.0,distribution_expenses
+306069,2008.0,234,"Entergy Texas, Inc.",4417051.0,injuries_and_damages
+306203,2008.0,234,"Entergy Texas, Inc.",14277297.0,transmission_expenses
+306239,2009.0,234,"Entergy Texas, Inc.",29587416.0,distribution_expenses
+306259,2009.0,234,"Entergy Texas, Inc.",1223860.0,injuries_and_damages
+306403,2009.0,234,"Entergy Texas, Inc.",16100105.0,transmission_expenses
+306439,2010.0,234,"Entergy Texas, Inc.",29804263.0,distribution_expenses
+306459,2010.0,234,"Entergy Texas, Inc.",2051696.0,injuries_and_damages
+306603,2010.0,234,"Entergy Texas, Inc.",17597209.0,transmission_expenses
+306641,2011.0,234,"Entergy Texas, Inc.",31645143.0,distribution_expenses
+306661,2011.0,234,"Entergy Texas, Inc.",1999082.0,injuries_and_damages
+306815,2011.0,234,"Entergy Texas, Inc.",26433590.0,transmission_expenses
+306855,2012.0,234,"Entergy Texas, Inc.",32155328.0,distribution_expenses
+306875,2012.0,234,"Entergy Texas, Inc.",4806381.0,injuries_and_damages
+307027,2012.0,234,"Entergy Texas, Inc.",26556132.0,transmission_expenses
+307067,2013.0,234,"Entergy Texas, Inc.",34214957.0,distribution_expenses
+307087,2013.0,234,"Entergy Texas, Inc.",4051813.0,injuries_and_damages
+307239,2013.0,234,"Entergy Texas, Inc.",27745640.0,transmission_expenses
+307279,2014.0,234,"Entergy Texas, Inc.",33680744.0,distribution_expenses
+307299,2014.0,234,"Entergy Texas, Inc.",2227620.0,injuries_and_damages
+307451,2014.0,234,"Entergy Texas, Inc.",30688274.0,transmission_expenses
+307489,2015.0,234,"Entergy Texas, Inc.",34046329.0,distribution_expenses
+307509,2015.0,234,"Entergy Texas, Inc.",2749668.0,injuries_and_damages
+307661,2015.0,234,"Entergy Texas, Inc.",37096639.0,transmission_expenses
+307697,2016.0,234,"Entergy Texas, Inc.",32599011.0,distribution_expenses
+307717,2016.0,234,"Entergy Texas, Inc.",1667814.0,injuries_and_damages
+307871,2016.0,234,"Entergy Texas, Inc.",28775451.0,transmission_expenses
+307907,2017.0,234,"Entergy Texas, Inc.",37701899.0,distribution_expenses
+307927,2017.0,234,"Entergy Texas, Inc.",1880345.0,injuries_and_damages
+308083,2017.0,234,"Entergy Texas, Inc.",27592067.0,transmission_expenses
+308119,2018.0,234,"Entergy Texas, Inc.",43451202.0,distribution_expenses
+308139,2018.0,234,"Entergy Texas, Inc.",4694861.0,injuries_and_damages
+308293,2018.0,234,"Entergy Texas, Inc.",31807629.0,transmission_expenses
+308329,2019.0,234,"Entergy Texas, Inc.",43391144.0,distribution_expenses
+308349,2019.0,234,"Entergy Texas, Inc.",2671872.0,injuries_and_damages
+308505,2019.0,234,"Entergy Texas, Inc.",29245494.0,transmission_expenses
+308541,2020.0,234,"Entergy Texas, Inc.",46199420.0,distribution_expenses
+308563,2020.0,234,"Entergy Texas, Inc.",3290414.0,injuries_and_damages
+308725,2020.0,234,"Entergy Texas, Inc.",28842488.0,transmission_expenses
+308771,2021.0,234,"Entergy Texas, Inc.",50788223.0,distribution_expenses
+308807,2021.0,234,"Entergy Texas, Inc.",2864254.0,injuries_and_damages
+309061,2021.0,234,"Entergy Texas, Inc.",31570842.0,transmission_expenses
+330566,1994.0,245,Western Massachusetts Electric Company,15777638.0,distribution_expenses
+330583,1994.0,245,Western Massachusetts Electric Company,1733247.0,injuries_and_damages
+330682,1994.0,245,Western Massachusetts Electric Company,8130788.0,transmission_expenses
+330703,1995.0,245,Western Massachusetts Electric Company,19662731.0,distribution_expenses
+330720,1995.0,245,Western Massachusetts Electric Company,1468162.0,injuries_and_damages
+330819,1995.0,245,Western Massachusetts Electric Company,7949742.0,transmission_expenses
+330840,1996.0,245,Western Massachusetts Electric Company,18969685.0,distribution_expenses
+330857,1996.0,245,Western Massachusetts Electric Company,1270851.0,injuries_and_damages
+330956,1996.0,245,Western Massachusetts Electric Company,8360318.0,transmission_expenses
+330977,1997.0,245,Western Massachusetts Electric Company,18094304.0,distribution_expenses
+330994,1997.0,245,Western Massachusetts Electric Company,1378867.0,injuries_and_damages
+331093,1997.0,245,Western Massachusetts Electric Company,9824930.0,transmission_expenses
+331113,1998.0,245,Western Massachusetts Electric Company,18268164.0,distribution_expenses
+331128,1998.0,245,Western Massachusetts Electric Company,1049678.0,injuries_and_damages
+331222,1998.0,245,Western Massachusetts Electric Company,15209761.0,transmission_expenses
+331243,1999.0,245,Western Massachusetts Electric Company,18786929.0,distribution_expenses
+331260,1999.0,245,Western Massachusetts Electric Company,426139.0,injuries_and_damages
+331359,1999.0,245,Western Massachusetts Electric Company,19493463.0,transmission_expenses
+331380,2000.0,245,Western Massachusetts Electric Company,19930731.0,distribution_expenses
+331397,2000.0,245,Western Massachusetts Electric Company,242869.0,injuries_and_damages
+331496,2000.0,245,Western Massachusetts Electric Company,9509721.0,transmission_expenses
+331517,2001.0,245,Western Massachusetts Electric Company,18896885.0,distribution_expenses
+331534,2001.0,245,Western Massachusetts Electric Company,473209.0,injuries_and_damages
+331633,2001.0,245,Western Massachusetts Electric Company,8268709.0,transmission_expenses
+331654,2002.0,245,Western Massachusetts Electric Company,19570879.0,distribution_expenses
+331671,2002.0,245,Western Massachusetts Electric Company,1090335.0,injuries_and_damages
+331769,2002.0,245,Western Massachusetts Electric Company,6972550.0,transmission_expenses
+331790,2003.0,245,Western Massachusetts Electric Company,19137243.0,distribution_expenses
+331807,2003.0,245,Western Massachusetts Electric Company,1413722.0,injuries_and_damages
+331904,2003.0,245,Western Massachusetts Electric Company,10996270.0,transmission_expenses
+331922,2004.0,245,Western Massachusetts Electric Company,19923334.0,distribution_expenses
+331929,2004.0,245,Western Massachusetts Electric Company,760746.0,injuries_and_damages
+331990,2004.0,245,Western Massachusetts Electric Company,8562111.0,transmission_expenses
+332007,2005.0,245,Western Massachusetts Electric Company,20610906.0,distribution_expenses
+332013,2005.0,245,Western Massachusetts Electric Company,1521253.0,injuries_and_damages
+332069,2005.0,245,Western Massachusetts Electric Company,11802440.0,transmission_expenses
+332086,2006.0,245,Western Massachusetts Electric Company,20281336.0,distribution_expenses
+332093,2006.0,245,Western Massachusetts Electric Company,1254357.0,injuries_and_damages
+332159,2006.0,245,Western Massachusetts Electric Company,25304663.0,transmission_expenses
+332177,2007.0,245,Western Massachusetts Electric Company,21892236.0,distribution_expenses
+332184,2007.0,245,Western Massachusetts Electric Company,1862617.0,injuries_and_damages
+332250,2007.0,245,Western Massachusetts Electric Company,34315694.0,transmission_expenses
+332268,2008.0,245,Western Massachusetts Electric Company,21688559.0,distribution_expenses
+332275,2008.0,245,Western Massachusetts Electric Company,834559.0,injuries_and_damages
+332340,2008.0,245,Western Massachusetts Electric Company,17409038.0,transmission_expenses
+332358,2009.0,245,Western Massachusetts Electric Company,21065285.0,distribution_expenses
+332365,2009.0,245,Western Massachusetts Electric Company,171923.0,injuries_and_damages
+332431,2009.0,245,Western Massachusetts Electric Company,26095911.0,transmission_expenses
+332449,2010.0,245,Western Massachusetts Electric Company,22298399.0,distribution_expenses
+332455,2010.0,245,Western Massachusetts Electric Company,1188270.0,injuries_and_damages
+332522,2010.0,245,Western Massachusetts Electric Company,22716843.0,transmission_expenses
+332540,2011.0,245,Western Massachusetts Electric Company,20094199.0,distribution_expenses
+332547,2011.0,245,Western Massachusetts Electric Company,1496678.0,injuries_and_damages
+332614,2011.0,245,Western Massachusetts Electric Company,20648095.0,transmission_expenses
+332632,2012.0,245,Western Massachusetts Electric Company,23389548.0,distribution_expenses
+332639,2012.0,245,Western Massachusetts Electric Company,1313281.0,injuries_and_damages
+332705,2012.0,245,Western Massachusetts Electric Company,7154696.0,transmission_expenses
+332723,2013.0,245,Western Massachusetts Electric Company,22920893.0,distribution_expenses
+332731,2013.0,245,Western Massachusetts Electric Company,2173557.0,injuries_and_damages
+332799,2013.0,245,Western Massachusetts Electric Company,8383623.0,transmission_expenses
+332817,2014.0,245,Western Massachusetts Electric Company,23900174.0,distribution_expenses
+332824,2014.0,245,Western Massachusetts Electric Company,1850482.0,injuries_and_damages
+332888,2014.0,245,Western Massachusetts Electric Company,20725279.0,transmission_expenses
+332906,2015.0,245,Western Massachusetts Electric Company,21811836.0,distribution_expenses
+332913,2015.0,245,Western Massachusetts Electric Company,1708968.0,injuries_and_damages
+332977,2015.0,245,Western Massachusetts Electric Company,6962115.0,transmission_expenses
+332994,2016.0,245,Western Massachusetts Electric Company,24127995.0,distribution_expenses
+333000,2016.0,245,Western Massachusetts Electric Company,3246296.0,injuries_and_damages
+333063,2016.0,245,Western Massachusetts Electric Company,13808472.0,transmission_expenses
+333080,2017.0,245,Western Massachusetts Electric Company,23185232.0,distribution_expenses
+333086,2017.0,245,Western Massachusetts Electric Company,1673999.0,injuries_and_damages
+333148,2017.0,245,Western Massachusetts Electric Company,21955809.0,transmission_expenses
+380614,2003.0,266,Golden State Water Company,805481.0,distribution_expenses
+380629,2003.0,266,Golden State Water Company,2525.0,injuries_and_damages
+380718,2003.0,266,Golden State Water Company,33360.0,transmission_expenses
+380733,2004.0,266,Golden State Water Company,974330.0,distribution_expenses
+380737,2004.0,266,Golden State Water Company,1700.0,injuries_and_damages
+380769,2004.0,266,Golden State Water Company,17700.0,transmission_expenses
+380782,2005.0,266,Golden State Water Company,1201100.0,distribution_expenses
+380786,2005.0,266,Golden State Water Company,700.0,injuries_and_damages
+380818,2005.0,266,Golden State Water Company,84500.0,transmission_expenses
+380832,2006.0,266,Golden State Water Company,1475400.0,distribution_expenses
+380836,2006.0,266,Golden State Water Company,40700.0,injuries_and_damages
+380870,2006.0,266,Golden State Water Company,98200.0,transmission_expenses
+380883,2007.0,266,Golden State Water Company,1785600.0,distribution_expenses
+380887,2007.0,266,Golden State Water Company,899900.0,injuries_and_damages
+380921,2007.0,266,Golden State Water Company,68300.0,transmission_expenses
+380934,2008.0,266,Golden State Water Company,1910600.0,distribution_expenses
+380938,2008.0,266,Golden State Water Company,944500.0,injuries_and_damages
+380972,2008.0,266,Golden State Water Company,30600.0,transmission_expenses
+380985,2009.0,266,Golden State Water Company,1989900.0,distribution_expenses
+380989,2009.0,266,Golden State Water Company,1337600.0,injuries_and_damages
+381023,2009.0,266,Golden State Water Company,71900.0,transmission_expenses
+381036,2010.0,266,Golden State Water Company,1826600.0,distribution_expenses
+381040,2010.0,266,Golden State Water Company,1208900.0,injuries_and_damages
+381077,2010.0,266,Golden State Water Company,65900.0,transmission_expenses
+381090,2011.0,266,Golden State Water Company,1744000.0,distribution_expenses
+381094,2011.0,266,Golden State Water Company,1117100.0,injuries_and_damages
+381132,2011.0,266,Golden State Water Company,70000.0,transmission_expenses
+381145,2012.0,266,Golden State Water Company,2033200.0,distribution_expenses
+381149,2012.0,266,Golden State Water Company,1762800.0,injuries_and_damages
+381187,2012.0,266,Golden State Water Company,56500.0,transmission_expenses
+381200,2013.0,266,Golden State Water Company,1938100.0,distribution_expenses
+381204,2013.0,266,Golden State Water Company,390800.0,injuries_and_damages
+381240,2013.0,266,Golden State Water Company,31000.0,transmission_expenses
+381253,2014.0,266,Golden State Water Company,2011500.0,distribution_expenses
+381257,2014.0,266,Golden State Water Company,-110800.0,injuries_and_damages
+381294,2014.0,266,Golden State Water Company,60800.0,transmission_expenses
+381307,2015.0,266,Golden State Water Company,2084500.0,distribution_expenses
+381311,2015.0,266,Golden State Water Company,24700.0,injuries_and_damages
+381348,2015.0,266,Golden State Water Company,185500.0,transmission_expenses
+381361,2016.0,266,Golden State Water Company,2320200.0,distribution_expenses
+381365,2016.0,266,Golden State Water Company,104700.0,injuries_and_damages
+381402,2016.0,266,Golden State Water Company,186800.0,transmission_expenses
+381415,2017.0,266,Golden State Water Company,2122200.0,distribution_expenses
+381419,2017.0,266,Golden State Water Company,101000.0,injuries_and_damages
+381456,2017.0,266,Golden State Water Company,80900.0,transmission_expenses
+381469,2018.0,266,Golden State Water Company,2525600.0,distribution_expenses
+381473,2018.0,266,Golden State Water Company,198100.0,injuries_and_damages
+381511,2018.0,266,Golden State Water Company,84700.0,transmission_expenses
+381524,2019.0,266,Golden State Water Company,2419700.0,distribution_expenses
+381528,2019.0,266,Golden State Water Company,539500.0,injuries_and_damages
+381565,2019.0,266,Golden State Water Company,102600.0,transmission_expenses
+381578,2020.0,266,Golden State Water Company,1597000.0,distribution_expenses
+381582,2020.0,266,Golden State Water Company,168000.0,injuries_and_damages
+381619,2020.0,266,Golden State Water Company,30500.0,transmission_expenses
+394255,1994.0,274,New England Power Company,1678761.0,distribution_expenses
+394271,1994.0,274,New England Power Company,4273956.0,injuries_and_damages
+394362,1994.0,274,New England Power Company,51433327.0,transmission_expenses
+394379,1995.0,274,New England Power Company,1489924.0,distribution_expenses
+394395,1995.0,274,New England Power Company,2657464.0,injuries_and_damages
+394486,1995.0,274,New England Power Company,56196907.0,transmission_expenses
+394506,1996.0,274,New England Power Company,1342203.0,distribution_expenses
+394522,1996.0,274,New England Power Company,2604129.0,injuries_and_damages
+394615,1996.0,274,New England Power Company,53188499.0,transmission_expenses
+394635,1998.0,274,New England Power Company,1739279.0,distribution_expenses
+394650,1998.0,274,New England Power Company,2636583.0,injuries_and_damages
+394740,1998.0,274,New England Power Company,49288980.0,transmission_expenses
+394761,1999.0,274,New England Power Company,1751914.0,distribution_expenses
+394778,1999.0,274,New England Power Company,2038253.0,injuries_and_damages
+394877,1999.0,274,New England Power Company,33379795.0,transmission_expenses
+394898,2000.0,274,New England Power Company,1676630.0,distribution_expenses
+394914,2000.0,274,New England Power Company,1088265.0,injuries_and_damages
+395013,2000.0,274,New England Power Company,30794322.0,transmission_expenses
+395034,2001.0,274,New England Power Company,1129518.0,distribution_expenses
+395050,2001.0,274,New England Power Company,867722.0,injuries_and_damages
+395149,2001.0,274,New England Power Company,35970801.0,transmission_expenses
+395170,2002.0,274,New England Power Company,964761.0,distribution_expenses
+395185,2002.0,274,New England Power Company,1619411.0,injuries_and_damages
+395283,2002.0,274,New England Power Company,36669729.0,transmission_expenses
+395304,2003.0,274,New England Power Company,1187168.0,distribution_expenses
+395319,2003.0,274,New England Power Company,940081.0,injuries_and_damages
+395417,2003.0,274,New England Power Company,39367607.0,transmission_expenses
+395435,2004.0,274,New England Power Company,508349.0,distribution_expenses
+395445,2004.0,274,New England Power Company,838297.0,injuries_and_damages
+395513,2004.0,274,New England Power Company,45991083.0,transmission_expenses
+395529,2005.0,274,New England Power Company,27633.0,distribution_expenses
+395539,2005.0,274,New England Power Company,787818.0,injuries_and_damages
+395605,2005.0,274,New England Power Company,44651353.0,transmission_expenses
+395620,2006.0,274,New England Power Company,29806.0,distribution_expenses
+395629,2006.0,274,New England Power Company,980717.0,injuries_and_damages
+395691,2006.0,274,New England Power Company,51842915.0,transmission_expenses
+395705,2007.0,274,New England Power Company,25116.0,distribution_expenses
+395715,2007.0,274,New England Power Company,1366748.0,injuries_and_damages
+395773,2007.0,274,New England Power Company,53902494.0,transmission_expenses
+395787,2008.0,274,New England Power Company,23837.0,distribution_expenses
+395799,2008.0,274,New England Power Company,967904.0,injuries_and_damages
+395856,2008.0,274,New England Power Company,63795218.0,transmission_expenses
+395870,2009.0,274,New England Power Company,15591.0,distribution_expenses
+395882,2009.0,274,New England Power Company,691632.0,injuries_and_damages
+395932,2009.0,274,New England Power Company,62193713.0,transmission_expenses
+395946,2010.0,274,New England Power Company,28546.0,distribution_expenses
+395958,2010.0,274,New England Power Company,1057760.0,injuries_and_damages
+396004,2010.0,274,New England Power Company,60951521.0,transmission_expenses
+396019,2011.0,274,New England Power Company,27989.0,distribution_expenses
+396029,2011.0,274,New England Power Company,849877.0,injuries_and_damages
+396073,2011.0,274,New England Power Company,61270243.0,transmission_expenses
+396089,2012.0,274,New England Power Company,29961.0,distribution_expenses
+396098,2012.0,274,New England Power Company,2340144.0,injuries_and_damages
+396145,2012.0,274,New England Power Company,56023206.0,transmission_expenses
+396161,2013.0,274,New England Power Company,76740.0,distribution_expenses
+396168,2013.0,274,New England Power Company,519893.0,injuries_and_damages
+396214,2013.0,274,New England Power Company,61559182.0,transmission_expenses
+396228,2014.0,274,New England Power Company,26690.0,distribution_expenses
+396233,2014.0,274,New England Power Company,6307595.0,injuries_and_damages
+396276,2014.0,274,New England Power Company,60821037.0,transmission_expenses
+396289,2015.0,274,New England Power Company,34554.0,distribution_expenses
+396295,2015.0,274,New England Power Company,2245332.0,injuries_and_damages
+396336,2015.0,274,New England Power Company,69771293.0,transmission_expenses
+396349,2016.0,274,New England Power Company,40327.0,distribution_expenses
+396355,2016.0,274,New England Power Company,-3361785.0,injuries_and_damages
+396389,2016.0,274,New England Power Company,58485095.0,transmission_expenses
+396401,2017.0,274,New England Power Company,70911.0,distribution_expenses
+396407,2017.0,274,New England Power Company,1105683.0,injuries_and_damages
+396441,2017.0,274,New England Power Company,62364172.0,transmission_expenses
+396454,2018.0,274,New England Power Company,33501.0,distribution_expenses
+396459,2018.0,274,New England Power Company,360453.0,injuries_and_damages
+396494,2018.0,274,New England Power Company,65188107.0,transmission_expenses
+396507,2019.0,274,New England Power Company,8900.0,distribution_expenses
+396513,2019.0,274,New England Power Company,848469.0,injuries_and_damages
+396551,2019.0,274,New England Power Company,64757938.0,transmission_expenses
+396563,2020.0,274,New England Power Company,16445.0,distribution_expenses
+396570,2020.0,274,New England Power Company,1551651.0,injuries_and_damages
+396614,2020.0,274,New England Power Company,63972161.0,transmission_expenses
+396637,2021.0,274,New England Power Company,48217.0,distribution_expenses
+396655,2021.0,274,New England Power Company,1219064.0,injuries_and_damages
+396782,2021.0,274,New England Power Company,70292043.0,transmission_expenses
+440769,2002.0,293,Oncor Electric Delivery Company LLC,175139717.0,distribution_expenses
+440784,2002.0,293,Oncor Electric Delivery Company LLC,10892710.0,injuries_and_damages
+440871,2002.0,293,Oncor Electric Delivery Company LLC,304184201.0,transmission_expenses
+440892,2003.0,293,Oncor Electric Delivery Company LLC,175698246.0,distribution_expenses
+440907,2003.0,293,Oncor Electric Delivery Company LLC,14129535.0,injuries_and_damages
+440994,2003.0,293,Oncor Electric Delivery Company LLC,323489382.0,transmission_expenses
+441012,2004.0,293,Oncor Electric Delivery Company LLC,180576820.0,distribution_expenses
+441018,2004.0,293,Oncor Electric Delivery Company LLC,13925858.0,injuries_and_damages
+441062,2004.0,293,Oncor Electric Delivery Company LLC,334109479.0,transmission_expenses
+441079,2005.0,293,Oncor Electric Delivery Company LLC,200704632.0,distribution_expenses
+441085,2005.0,293,Oncor Electric Delivery Company LLC,12843464.0,injuries_and_damages
+441129,2005.0,293,Oncor Electric Delivery Company LLC,346951835.0,transmission_expenses
+441146,2006.0,293,Oncor Electric Delivery Company LLC,197960487.0,distribution_expenses
+441151,2006.0,293,Oncor Electric Delivery Company LLC,15590091.0,injuries_and_damages
+441200,2006.0,293,Oncor Electric Delivery Company LLC,357156518.0,transmission_expenses
+441216,2007.0,293,Oncor Electric Delivery Company LLC,206151085.0,distribution_expenses
+441221,2007.0,293,Oncor Electric Delivery Company LLC,13996874.0,injuries_and_damages
+441270,2007.0,293,Oncor Electric Delivery Company LLC,388264686.0,transmission_expenses
+441286,2008.0,293,Oncor Electric Delivery Company LLC,214142898.0,distribution_expenses
+441291,2008.0,293,Oncor Electric Delivery Company LLC,10350818.0,injuries_and_damages
+441338,2008.0,293,Oncor Electric Delivery Company LLC,394705291.0,transmission_expenses
+441355,2009.0,293,Oncor Electric Delivery Company LLC,219479872.0,distribution_expenses
+441360,2009.0,293,Oncor Electric Delivery Company LLC,11609375.0,injuries_and_damages
+441407,2009.0,293,Oncor Electric Delivery Company LLC,440977373.0,transmission_expenses
+441424,2010.0,293,Oncor Electric Delivery Company LLC,192936500.0,distribution_expenses
+441429,2010.0,293,Oncor Electric Delivery Company LLC,9440048.0,injuries_and_damages
+441475,2010.0,293,Oncor Electric Delivery Company LLC,444501539.0,transmission_expenses
+441490,2011.0,293,Oncor Electric Delivery Company LLC,204333773.0,distribution_expenses
+441495,2011.0,293,Oncor Electric Delivery Company LLC,11843256.0,injuries_and_damages
+441540,2011.0,293,Oncor Electric Delivery Company LLC,493720547.0,transmission_expenses
+441556,2012.0,293,Oncor Electric Delivery Company LLC,192500828.0,distribution_expenses
+441561,2012.0,293,Oncor Electric Delivery Company LLC,10536111.0,injuries_and_damages
+441607,2012.0,293,Oncor Electric Delivery Company LLC,558366693.0,transmission_expenses
+441623,2013.0,293,Oncor Electric Delivery Company LLC,191838562.0,distribution_expenses
+441628,2013.0,293,Oncor Electric Delivery Company LLC,11106575.0,injuries_and_damages
+441674,2013.0,293,Oncor Electric Delivery Company LLC,648729549.0,transmission_expenses
+441690,2014.0,293,Oncor Electric Delivery Company LLC,200557378.0,distribution_expenses
+441695,2014.0,293,Oncor Electric Delivery Company LLC,11552706.0,injuries_and_damages
+441740,2014.0,293,Oncor Electric Delivery Company LLC,815762653.0,transmission_expenses
+441756,2015.0,293,Oncor Electric Delivery Company LLC,236440419.0,distribution_expenses
+441761,2015.0,293,Oncor Electric Delivery Company LLC,12079171.0,injuries_and_damages
+441805,2015.0,293,Oncor Electric Delivery Company LLC,864378495.0,transmission_expenses
+441821,2016.0,293,Oncor Electric Delivery Company LLC,250555164.0,distribution_expenses
+441826,2016.0,293,Oncor Electric Delivery Company LLC,13898795.0,injuries_and_damages
+441872,2016.0,293,Oncor Electric Delivery Company LLC,963300891.0,transmission_expenses
+441887,2017.0,293,Oncor Electric Delivery Company LLC,252410867.0,distribution_expenses
+441892,2017.0,293,Oncor Electric Delivery Company LLC,14097686.0,injuries_and_damages
+441939,2017.0,293,Oncor Electric Delivery Company LLC,997203162.0,transmission_expenses
+441954,2018.0,293,Oncor Electric Delivery Company LLC,284905041.0,distribution_expenses
+441959,2018.0,293,Oncor Electric Delivery Company LLC,21877797.0,injuries_and_damages
+442004,2018.0,293,Oncor Electric Delivery Company LLC,1042469652.0,transmission_expenses
+442019,2019.0,293,Oncor Electric Delivery Company LLC,293505125.0,distribution_expenses
+442024,2019.0,293,Oncor Electric Delivery Company LLC,22248175.0,injuries_and_damages
+442069,2019.0,293,Oncor Electric Delivery Company LLC,1146714582.0,transmission_expenses
+442084,2020.0,293,Oncor Electric Delivery Company LLC,302722272.0,distribution_expenses
+442089,2020.0,293,Oncor Electric Delivery Company LLC,19596445.0,injuries_and_damages
+442133,2020.0,293,Oncor Electric Delivery Company LLC,1160347682.0,transmission_expenses
+442156,2021.0,293,Oncor Electric Delivery Company LLC,317347609.0,distribution_expenses
+442174,2021.0,293,Oncor Electric Delivery Company LLC,24016895.0,injuries_and_damages
+442301,2021.0,293,Oncor Electric Delivery Company LLC,1229857165.0,transmission_expenses
+453149,1994.0,297,Mississippi Power Company,19824841.0,distribution_expenses
+453169,1994.0,297,Mississippi Power Company,1121064.0,injuries_and_damages
+453311,1994.0,297,Mississippi Power Company,6005445.0,transmission_expenses
+453345,1995.0,297,Mississippi Power Company,19285915.0,distribution_expenses
+453365,1995.0,297,Mississippi Power Company,1744882.0,injuries_and_damages
+453511,1995.0,297,Mississippi Power Company,6486086.0,transmission_expenses
+453545,1996.0,297,Mississippi Power Company,23103593.0,distribution_expenses
+453573,1996.0,297,Mississippi Power Company,1396101.0,injuries_and_damages
+453729,1996.0,297,Mississippi Power Company,8559542.0,transmission_expenses
+453769,1997.0,297,Mississippi Power Company,24653948.0,distribution_expenses
+453803,1997.0,297,Mississippi Power Company,1400350.0,injuries_and_damages
+454001,1997.0,297,Mississippi Power Company,7153751.0,transmission_expenses
+454041,1998.0,297,Mississippi Power Company,29135009.0,distribution_expenses
+454061,1998.0,297,Mississippi Power Company,1179088.0,injuries_and_damages
+454203,1998.0,297,Mississippi Power Company,9085153.0,transmission_expenses
+454239,1999.0,297,Mississippi Power Company,33671460.0,distribution_expenses
+454269,1999.0,297,Mississippi Power Company,1394538.0,injuries_and_damages
+454459,1999.0,297,Mississippi Power Company,9692767.0,transmission_expenses
+454501,2000.0,297,Mississippi Power Company,33326623.0,distribution_expenses
+454531,2000.0,297,Mississippi Power Company,1325702.0,injuries_and_damages
+454721,2000.0,297,Mississippi Power Company,9507967.0,transmission_expenses
+454763,2001.0,297,Mississippi Power Company,24255591.0,distribution_expenses
+454793,2001.0,297,Mississippi Power Company,2215114.0,injuries_and_damages
+454983,2001.0,297,Mississippi Power Company,6981904.0,transmission_expenses
+455025,2002.0,297,Mississippi Power Company,30751150.0,distribution_expenses
+455055,2002.0,297,Mississippi Power Company,1783562.0,injuries_and_damages
+455245,2002.0,297,Mississippi Power Company,8715255.0,transmission_expenses
+455287,2003.0,297,Mississippi Power Company,30785652.0,distribution_expenses
+455317,2003.0,297,Mississippi Power Company,1628603.0,injuries_and_damages
+455507,2003.0,297,Mississippi Power Company,9817823.0,transmission_expenses
+455545,2004.0,297,Mississippi Power Company,34464488.0,distribution_expenses
+455565,2004.0,297,Mississippi Power Company,2799471.0,injuries_and_damages
+455705,2004.0,297,Mississippi Power Company,9275164.0,transmission_expenses
+455739,2005.0,297,Mississippi Power Company,31592766.0,distribution_expenses
+455759,2005.0,297,Mississippi Power Company,2839900.0,injuries_and_damages
+455899,2005.0,297,Mississippi Power Company,10419961.0,transmission_expenses
+455937,2006.0,297,Mississippi Power Company,30342139.0,distribution_expenses
+455959,2006.0,297,Mississippi Power Company,3120090.0,injuries_and_damages
+456115,2006.0,297,Mississippi Power Company,7375588.0,transmission_expenses
+456151,2007.0,297,Mississippi Power Company,30023123.0,distribution_expenses
+456173,2007.0,297,Mississippi Power Company,2420444.0,injuries_and_damages
+456327,2007.0,297,Mississippi Power Company,7827783.0,transmission_expenses
+456365,2008.0,297,Mississippi Power Company,34728906.0,distribution_expenses
+456387,2008.0,297,Mississippi Power Company,2073852.0,injuries_and_damages
+456541,2008.0,297,Mississippi Power Company,10038597.0,transmission_expenses
+456579,2009.0,297,Mississippi Power Company,28753476.0,distribution_expenses
+456603,2009.0,297,Mississippi Power Company,1900076.0,injuries_and_damages
+456757,2009.0,297,Mississippi Power Company,9258123.0,transmission_expenses
+456795,2010.0,297,Mississippi Power Company,32473986.0,distribution_expenses
+456819,2010.0,297,Mississippi Power Company,2287945.0,injuries_and_damages
+456973,2010.0,297,Mississippi Power Company,10941258.0,transmission_expenses
+457011,2011.0,297,Mississippi Power Company,33365823.0,distribution_expenses
+457035,2011.0,297,Mississippi Power Company,2914296.0,injuries_and_damages
+457189,2011.0,297,Mississippi Power Company,11130021.0,transmission_expenses
+457227,2012.0,297,Mississippi Power Company,32921328.0,distribution_expenses
+457251,2012.0,297,Mississippi Power Company,1483784.0,injuries_and_damages
+457405,2012.0,297,Mississippi Power Company,10194064.0,transmission_expenses
+457443,2013.0,297,Mississippi Power Company,34357511.0,distribution_expenses
+457467,2013.0,297,Mississippi Power Company,2473688.0,injuries_and_damages
+457623,2013.0,297,Mississippi Power Company,14835045.0,transmission_expenses
+457661,2014.0,297,Mississippi Power Company,36912334.0,distribution_expenses
+457683,2014.0,297,Mississippi Power Company,2801326.0,injuries_and_damages
+457839,2014.0,297,Mississippi Power Company,13196951.0,transmission_expenses
+457877,2015.0,297,Mississippi Power Company,32805478.0,distribution_expenses
+457899,2015.0,297,Mississippi Power Company,3245223.0,injuries_and_damages
+458055,2015.0,297,Mississippi Power Company,11704628.0,transmission_expenses
+458093,2016.0,297,Mississippi Power Company,36118127.0,distribution_expenses
+458115,2016.0,297,Mississippi Power Company,4662669.0,injuries_and_damages
+458269,2016.0,297,Mississippi Power Company,15572980.0,transmission_expenses
+458307,2017.0,297,Mississippi Power Company,31566384.0,distribution_expenses
+458329,2017.0,297,Mississippi Power Company,3449877.0,injuries_and_damages
+458481,2017.0,297,Mississippi Power Company,11012546.0,transmission_expenses
+458517,2018.0,297,Mississippi Power Company,37728271.0,distribution_expenses
+458539,2018.0,297,Mississippi Power Company,3086798.0,injuries_and_damages
+458695,2018.0,297,Mississippi Power Company,15206326.0,transmission_expenses
+458733,2019.0,297,Mississippi Power Company,43325803.0,distribution_expenses
+458755,2019.0,297,Mississippi Power Company,2452235.0,injuries_and_damages
+458911,2019.0,297,Mississippi Power Company,15998449.0,transmission_expenses
+458949,2020.0,297,Mississippi Power Company,43528922.0,distribution_expenses
+458971,2020.0,297,Mississippi Power Company,3218557.0,injuries_and_damages
+459127,2020.0,297,Mississippi Power Company,13742814.0,transmission_expenses
+459173,2021.0,297,Mississippi Power Company,49929092.0,distribution_expenses
+459209,2021.0,297,Mississippi Power Company,4264065.0,injuries_and_damages
+459463,2021.0,297,Mississippi Power Company,15208698.0,transmission_expenses
+488816,1994.0,311,Safe Harbor Water Power Corporation,46814.0,injuries_and_damages
+488837,1994.0,311,Safe Harbor Water Power Corporation,32306.0,transmission_expenses
+488849,1995.0,311,Safe Harbor Water Power Corporation,35617.0,injuries_and_damages
+488869,1995.0,311,Safe Harbor Water Power Corporation,25494.0,transmission_expenses
+488880,1996.0,311,Safe Harbor Water Power Corporation,27201.0,injuries_and_damages
+488901,1996.0,311,Safe Harbor Water Power Corporation,29608.0,transmission_expenses
+488912,1997.0,311,Safe Harbor Water Power Corporation,25991.0,injuries_and_damages
+488933,1997.0,311,Safe Harbor Water Power Corporation,66395.0,transmission_expenses
+488944,1998.0,311,Safe Harbor Water Power Corporation,10539.0,injuries_and_damages
+488965,1998.0,311,Safe Harbor Water Power Corporation,300437.0,transmission_expenses
+488993,1999.0,311,Safe Harbor Water Power Corporation,17060.0,injuries_and_damages
+489082,1999.0,311,Safe Harbor Water Power Corporation,54682.0,transmission_expenses
+489115,2000.0,311,Safe Harbor Water Power Corporation,21999.0,injuries_and_damages
+489204,2000.0,311,Safe Harbor Water Power Corporation,277409.0,transmission_expenses
+489237,2001.0,311,Safe Harbor Water Power Corporation,24192.0,injuries_and_damages
+489326,2001.0,311,Safe Harbor Water Power Corporation,240180.0,transmission_expenses
+489359,2002.0,311,Safe Harbor Water Power Corporation,39084.0,injuries_and_damages
+489448,2002.0,311,Safe Harbor Water Power Corporation,202689.0,transmission_expenses
+489481,2003.0,311,Safe Harbor Water Power Corporation,60744.0,injuries_and_damages
+489570,2003.0,311,Safe Harbor Water Power Corporation,212751.0,transmission_expenses
+489585,2004.0,311,Safe Harbor Water Power Corporation,71081.0,injuries_and_damages
+489605,2004.0,311,Safe Harbor Water Power Corporation,23720.0,transmission_expenses
+489615,2005.0,311,Safe Harbor Water Power Corporation,95806.0,injuries_and_damages
+489635,2005.0,311,Safe Harbor Water Power Corporation,22832.0,transmission_expenses
+489645,2006.0,311,Safe Harbor Water Power Corporation,65760.0,injuries_and_damages
+489665,2006.0,311,Safe Harbor Water Power Corporation,40525.0,transmission_expenses
+489675,2007.0,311,Safe Harbor Water Power Corporation,70841.0,injuries_and_damages
+489695,2007.0,311,Safe Harbor Water Power Corporation,15685.0,transmission_expenses
+489705,2008.0,311,Safe Harbor Water Power Corporation,100617.0,injuries_and_damages
+489725,2008.0,311,Safe Harbor Water Power Corporation,97908.0,transmission_expenses
+489735,2009.0,311,Safe Harbor Water Power Corporation,82642.0,injuries_and_damages
+489755,2009.0,311,Safe Harbor Water Power Corporation,112475.0,transmission_expenses
+489765,2010.0,311,Safe Harbor Water Power Corporation,79554.0,injuries_and_damages
+489785,2010.0,311,Safe Harbor Water Power Corporation,55032.0,transmission_expenses
+489795,2011.0,311,Safe Harbor Water Power Corporation,71539.0,injuries_and_damages
+489815,2011.0,311,Safe Harbor Water Power Corporation,46556.0,transmission_expenses
+489825,2012.0,311,Safe Harbor Water Power Corporation,75364.0,injuries_and_damages
+489845,2012.0,311,Safe Harbor Water Power Corporation,37987.0,transmission_expenses
+489855,2013.0,311,Safe Harbor Water Power Corporation,75729.0,injuries_and_damages
+489874,2013.0,311,Safe Harbor Water Power Corporation,26493.0,transmission_expenses

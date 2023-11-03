@@ -1,0 +1,955 @@
+,report_year,utility_id_ferc1,utility_name_ferc1,state,additions,ferc_account_label
+399,1994,3,Boston Edison Company,MA,66942290.0,distribution_plant
+463,1994,3,Boston Edison Company,MA,3042070.0,transmission_plant
+478,1995,3,Boston Edison Company,MA,172015648.0,distribution_plant
+542,1995,3,Boston Edison Company,MA,14524165.0,transmission_plant
+557,1996,3,Boston Edison Company,MA,109504853.0,distribution_plant
+621,1996,3,Boston Edison Company,MA,18396813.0,transmission_plant
+636,1997,3,Boston Edison Company,MA,72209704.0,distribution_plant
+700,1997,3,Boston Edison Company,MA,13670719.0,transmission_plant
+714,1998,3,Boston Edison Company,MA,70179688.0,distribution_plant
+762,1998,3,Boston Edison Company,MA,14620279.0,transmission_plant
+776,1999,3,Boston Edison Company,MA,74426714.0,distribution_plant
+837,1999,3,Boston Edison Company,MA,4154844.0,transmission_plant
+852,2000,3,Boston Edison Company,MA,54535061.0,distribution_plant
+911,2000,3,Boston Edison Company,MA,32546608.0,transmission_plant
+926,2001,3,Boston Edison Company,MA,145586681.0,distribution_plant
+985,2001,3,Boston Edison Company,MA,16932257.0,transmission_plant
+1000,2002,3,Boston Edison Company,MA,138143796.0,distribution_plant
+1059,2002,3,Boston Edison Company,MA,63501338.0,transmission_plant
+1081,2003,3,Boston Edison Company,MA,165735336.0,distribution_plant
+1140,2003,3,Boston Edison Company,MA,13246403.0,transmission_plant
+1150,2004,3,Boston Edison Company,MA,154183064.0,distribution_plant
+1181,2004,3,Boston Edison Company,MA,3688726.0,transmission_plant
+1189,2005,3,Boston Edison Company,MA,153218228.0,distribution_plant
+1220,2005,3,Boston Edison Company,MA,20968824.0,transmission_plant
+1228,2006,3,Boston Edison Company,MA,134456256.0,distribution_plant
+1258,2006,3,Boston Edison Company,MA,142191330.0,transmission_plant
+1269,1994,4,Cambridge Electric Light Company,MA,3660490.0,distribution_plant
+1333,1994,4,Cambridge Electric Light Company,MA,2634.0,transmission_plant
+1348,1995,4,Cambridge Electric Light Company,MA,4013109.0,distribution_plant
+1427,1996,4,Cambridge Electric Light Company,MA,3620023.0,distribution_plant
+1491,1996,4,Cambridge Electric Light Company,MA,103938.0,transmission_plant
+1504,1997,4,Cambridge Electric Light Company,MA,3523826.0,distribution_plant
+1543,1997,4,Cambridge Electric Light Company,MA,192662.0,transmission_plant
+1554,1998,4,Cambridge Electric Light Company,MA,5296468.0,distribution_plant
+1593,1998,4,Cambridge Electric Light Company,MA,21845.0,transmission_plant
+1606,1999,4,Cambridge Electric Light Company,MA,4267974.0,distribution_plant
+1682,2000,4,Cambridge Electric Light Company,MA,3203727.0,distribution_plant
+1758,2001,4,Cambridge Electric Light Company,MA,2009478.0,distribution_plant
+1819,2001,4,Cambridge Electric Light Company,MA,2548746.0,transmission_plant
+1834,2002,4,Cambridge Electric Light Company,MA,11294675.0,distribution_plant
+1895,2002,4,Cambridge Electric Light Company,MA,-2694606.0,transmission_plant
+1917,2003,4,Cambridge Electric Light Company,MA,10070039.0,distribution_plant
+1978,2003,4,Cambridge Electric Light Company,MA,538189.0,transmission_plant
+1988,2004,4,Cambridge Electric Light Company,MA,4633029.0,distribution_plant
+2014,2004,4,Cambridge Electric Light Company,MA,10177275.0,transmission_plant
+2020,2005,4,Cambridge Electric Light Company,MA,26308675.0,distribution_plant
+2046,2005,4,Cambridge Electric Light Company,MA,4735771.0,transmission_plant
+2052,2006,4,Cambridge Electric Light Company,MA,11786667.0,distribution_plant
+2077,2006,4,Cambridge Electric Light Company,MA,-167112.0,transmission_plant
+2119,1994,5,CANAL ELECTRIC COMPANY,MA,27455.0,transmission_plant
+2180,1995,5,CANAL ELECTRIC COMPANY,MA,18037.0,transmission_plant
+2264,1997,5,CANAL ELECTRIC COMPANY,MA,271338.0,transmission_plant
+2302,1998,5,CANAL ELECTRIC COMPANY,MA,3375.0,transmission_plant
+7173,1994,11,Commonwealth Electric Company,MA,16838897.0,distribution_plant
+7234,1994,11,Commonwealth Electric Company,MA,6957144.0,transmission_plant
+7249,1995,11,Commonwealth Electric Company,MA,22023069.0,distribution_plant
+7310,1995,11,Commonwealth Electric Company,MA,5632600.0,transmission_plant
+7325,1996,11,Commonwealth Electric Company,MA,16359004.0,distribution_plant
+7386,1996,11,Commonwealth Electric Company,MA,3195641.0,transmission_plant
+7399,1997,11,Commonwealth Electric Company,MA,18422368.0,distribution_plant
+7443,1997,11,Commonwealth Electric Company,MA,1342507.0,transmission_plant
+7455,1998,11,Commonwealth Electric Company,MA,18563087.0,distribution_plant
+7498,1998,11,Commonwealth Electric Company,MA,7228133.0,transmission_plant
+7511,1999,11,Commonwealth Electric Company,MA,18402050.0,distribution_plant
+7570,1999,11,Commonwealth Electric Company,MA,271283.0,transmission_plant
+7585,2000,11,Commonwealth Electric Company,MA,3955433.0,distribution_plant
+7644,2000,11,Commonwealth Electric Company,MA,7070440.0,transmission_plant
+7659,2001,11,Commonwealth Electric Company,MA,26612046.0,distribution_plant
+7718,2001,11,Commonwealth Electric Company,MA,8387980.0,transmission_plant
+7733,2002,11,Commonwealth Electric Company,MA,32394678.0,distribution_plant
+7792,2002,11,Commonwealth Electric Company,MA,5047953.0,transmission_plant
+7814,2003,11,Commonwealth Electric Company,MA,42363553.0,distribution_plant
+7873,2003,11,Commonwealth Electric Company,MA,6699967.0,transmission_plant
+7883,2004,11,Commonwealth Electric Company,MA,34188938.0,distribution_plant
+7914,2004,11,Commonwealth Electric Company,MA,4770246.0,transmission_plant
+7922,2005,11,Commonwealth Electric Company,MA,38565136.0,distribution_plant
+7953,2005,11,Commonwealth Electric Company,MA,6079409.0,transmission_plant
+7961,2006,11,Commonwealth Electric Company,MA,57486018.0,distribution_plant
+7992,2006,11,Commonwealth Electric Company,MA,3242612.0,transmission_plant
+8719,1994,13,Eastern Edison Company,MA,10314604.0,distribution_plant
+8755,1994,13,Eastern Edison Company,MA,226001.0,transmission_plant
+8762,1995,13,Eastern Edison Company,MA,8241972.0,distribution_plant
+8798,1995,13,Eastern Edison Company,MA,148698.0,transmission_plant
+8805,1996,13,Eastern Edison Company,MA,7250588.0,distribution_plant
+8843,1996,13,Eastern Edison Company,MA,103486.0,transmission_plant
+8848,1997,13,Eastern Edison Company,MA,9524873.0,distribution_plant
+8889,1997,13,Eastern Edison Company,MA,595676.0,transmission_plant
+8894,1998,13,Eastern Edison Company,MA,8360581.0,distribution_plant
+8923,1998,13,Eastern Edison Company,MA,783978.0,transmission_plant
+8933,1999,13,Eastern Edison Company,MA,8343400.0,distribution_plant
+8991,1999,13,Eastern Edison Company,MA,76668.0,transmission_plant
+9006,2000,13,Eastern Edison Company,MA,3661461.0,distribution_plant
+16457,1994,29,Montaup Electric Company,MA,3294307.0,transmission_plant
+16536,1995,29,Montaup Electric Company,MA,639278.0,transmission_plant
+16592,1996,29,Montaup Electric Company,MA,427693.0,transmission_plant
+16643,1997,29,Montaup Electric Company,MA,664391.0,transmission_plant
+16688,1998,29,Montaup Electric Company,MA,432861.0,transmission_plant
+16760,1999,29,Montaup Electric Company,MA,941745.0,transmission_plant
+16835,2000,29,Montaup Electric Company,MA,3219.0,transmission_plant
+21522,1994,41,Texas-New Mexico Power Company,TX,23660021.0,distribution_plant
+21553,1994,41,Texas-New Mexico Power Company,TX,3355052.0,transmission_plant
+21562,1995,41,Texas-New Mexico Power Company,TX,20260994.0,distribution_plant
+21615,1995,41,Texas-New Mexico Power Company,TX,3718645.0,transmission_plant
+21626,1996,41,Texas-New Mexico Power Company,TX,25653596.0,distribution_plant
+21668,1996,41,Texas-New Mexico Power Company,TX,462873.0,transmission_plant
+21677,1997,41,Texas-New Mexico Power Company,TX,22518674.0,distribution_plant
+21708,1997,41,Texas-New Mexico Power Company,TX,1211624.0,transmission_plant
+21715,1998,41,Texas-New Mexico Power Company,TX,28117186.0,distribution_plant
+21745,1998,41,Texas-New Mexico Power Company,TX,1509602.0,transmission_plant
+21756,1999,41,Texas-New Mexico Power Company,TX,30706695.0,distribution_plant
+21816,1999,41,Texas-New Mexico Power Company,TX,3302118.0,transmission_plant
+21831,2000,41,Texas-New Mexico Power Company,TX,33985458.0,distribution_plant
+21891,2000,41,Texas-New Mexico Power Company,TX,4193519.0,transmission_plant
+21906,2001,41,Texas-New Mexico Power Company,TX,28255387.0,distribution_plant
+21966,2001,41,Texas-New Mexico Power Company,TX,4588320.0,transmission_plant
+21981,2002,41,Texas-New Mexico Power Company,TX,25578120.0,distribution_plant
+22041,2002,41,Texas-New Mexico Power Company,TX,1808165.0,transmission_plant
+22063,2003,41,Texas-New Mexico Power Company,TX,29864975.0,distribution_plant
+22121,2003,41,Texas-New Mexico Power Company,TX,7048039.0,transmission_plant
+22131,2004,41,Texas-New Mexico Power Company,TX,31488020.0,distribution_plant
+22156,2004,41,Texas-New Mexico Power Company,TX,17555055.0,transmission_plant
+22162,2005,41,Texas-New Mexico Power Company,TX,29467103.0,distribution_plant
+22187,2005,41,Texas-New Mexico Power Company,TX,8363099.0,transmission_plant
+22194,2006,41,Texas-New Mexico Power Company,TX,30207232.0,distribution_plant
+22219,2006,41,Texas-New Mexico Power Company,TX,6614108.0,transmission_plant
+27408,1998,53,"Black Creek Hydro, Inc.",WA,2543.0,transmission_plant
+30068,1999,61,Inland Power & Light Company,WA,3091732.0,distribution_plant
+30127,1999,61,Inland Power & Light Company,WA,15299.0,transmission_plant
+30142,2000,61,Inland Power & Light Company,WA,4347747.0,distribution_plant
+30201,2000,61,Inland Power & Light Company,WA,18529.0,transmission_plant
+30216,2001,61,Inland Power & Light Company,WA,5586186.0,distribution_plant
+30275,2001,61,Inland Power & Light Company,WA,3616.0,transmission_plant
+30290,2002,61,Inland Power & Light Company,WA,5084918.0,distribution_plant
+30349,2002,61,Inland Power & Light Company,WA,41945.0,transmission_plant
+30371,2003,61,Inland Power & Light Company,WA,4733213.0,distribution_plant
+30430,2003,61,Inland Power & Light Company,WA,159060.0,transmission_plant
+30440,2004,61,Inland Power & Light Company,WA,5017642.0,distribution_plant
+30466,2004,61,Inland Power & Light Company,WA,791491.0,transmission_plant
+38482,1994,155,Southern California Edison Company,CA,311141107.0,distribution_plant
+38546,1994,155,Southern California Edison Company,CA,74247985.0,transmission_plant
+38561,1996,155,Southern California Edison Company,CA,310420537.0,distribution_plant
+38625,1996,155,Southern California Edison Company,CA,100382434.0,transmission_plant
+38640,1997,155,Southern California Edison Company,CA,318695747.0,distribution_plant
+38704,1997,155,Southern California Edison Company,CA,60053186.0,transmission_plant
+38719,1998,155,Southern California Edison Company,CA,354492154.0,distribution_plant
+38775,1998,155,Southern California Edison Company,CA,103779509.0,transmission_plant
+38790,1999,155,Southern California Edison Company,CA,452322071.0,distribution_plant
+38854,1999,155,Southern California Edison Company,CA,148669915.0,transmission_plant
+38869,2000,155,Southern California Edison Company,CA,460647610.0,distribution_plant
+38933,2000,155,Southern California Edison Company,CA,167481935.0,transmission_plant
+38948,2001,155,Southern California Edison Company,CA,353028749.0,distribution_plant
+39012,2001,155,Southern California Edison Company,CA,108153529.0,transmission_plant
+39027,2002,155,Southern California Edison Company,CA,577386987.0,distribution_plant
+39091,2002,155,Southern California Edison Company,CA,145105242.0,transmission_plant
+39113,2003,155,Southern California Edison Company,CA,604075462.0,distribution_plant
+39177,2003,155,Southern California Edison Company,CA,168002508.0,transmission_plant
+39193,2004,155,Southern California Edison Company,CA,630618999.0,distribution_plant
+39248,2004,155,Southern California Edison Company,CA,255045782.0,transmission_plant
+39269,2005,155,Southern California Edison Company,CA,794556864.0,distribution_plant
+39324,2005,155,Southern California Edison Company,CA,305953964.0,transmission_plant
+39345,2006,155,Southern California Edison Company,CA,880775420.0,distribution_plant
+39400,2006,155,Southern California Edison Company,CA,355829337.0,transmission_plant
+39421,2007,155,Southern California Edison Company,CA,925981114.0,distribution_plant
+39477,2007,155,Southern California Edison Company,CA,307343181.0,transmission_plant
+39498,2008,155,Southern California Edison Company,CA,694821548.0,distribution_plant
+39554,2008,155,Southern California Edison Company,CA,125696405.0,transmission_plant
+39575,2009,155,Southern California Edison Company,CA,1089266804.0,distribution_plant
+39631,2009,155,Southern California Edison Company,CA,835155700.0,transmission_plant
+39652,2010,155,Southern California Edison Company,CA,1388422546.0,distribution_plant
+39708,2010,155,Southern California Edison Company,CA,402079316.0,transmission_plant
+39728,2011,155,Southern California Edison Company,CA,1322852106.0,distribution_plant
+39784,2011,155,Southern California Edison Company,CA,369333239.0,transmission_plant
+39804,2012,155,Southern California Edison Company,CA,1204491375.0,distribution_plant
+39860,2012,155,Southern California Edison Company,CA,1023433338.0,transmission_plant
+39881,2013,155,Southern California Edison Company,CA,1137077960.0,distribution_plant
+39937,2013,155,Southern California Edison Company,CA,2118269358.0,transmission_plant
+39957,2014,155,Southern California Edison Company,CA,1534332870.0,distribution_plant
+40013,2014,155,Southern California Edison Company,CA,1314334297.0,transmission_plant
+40032,2015,155,Southern California Edison Company,CA,1822202964.0,distribution_plant
+40089,2015,155,Southern California Edison Company,CA,1242955246.0,transmission_plant
+40107,2016,155,Southern California Edison Company,CA,1615935657.0,distribution_plant
+40164,2016,155,Southern California Edison Company,CA,1033844125.0,transmission_plant
+40182,2017,155,Southern California Edison Company,CA,1608679807.0,distribution_plant
+40238,2017,155,Southern California Edison Company,CA,646614145.0,transmission_plant
+40256,2018,155,Southern California Edison Company,CA,1742270094.0,distribution_plant
+40314,2018,155,Southern California Edison Company,CA,737487386.0,transmission_plant
+40331,2019,155,Southern California Edison Company,CA,2265493233.0,distribution_plant
+40387,2019,155,Southern California Edison Company,CA,1015401939.0,transmission_plant
+40404,2020,155,Southern California Edison Company,CA,2016173619.0,distribution_plant
+40460,2020,155,Southern California Edison Company,CA,1033154700.0,transmission_plant
+40485,2021,155,Southern California Edison Company,CA,2462155376.0,distribution_plant
+40555,2021,155,Southern California Edison Company,CA,1420267317.0,transmission_plant
+50289,1994,162,"Puget Sound Energy, Inc.",WA,87247137.0,distribution_plant
+50353,1994,162,"Puget Sound Energy, Inc.",WA,95598223.0,transmission_plant
+50368,1995,162,"Puget Sound Energy, Inc.",WA,67134995.0,distribution_plant
+50432,1995,162,"Puget Sound Energy, Inc.",WA,20278382.0,transmission_plant
+50446,1996,162,"Puget Sound Energy, Inc.",WA,73388745.0,distribution_plant
+50502,1996,162,"Puget Sound Energy, Inc.",WA,14578341.0,transmission_plant
+50515,1997,162,"Puget Sound Energy, Inc.",WA,73860337.0,distribution_plant
+50571,1997,162,"Puget Sound Energy, Inc.",WA,34304826.0,transmission_plant
+50584,1998,162,"Puget Sound Energy, Inc.",WA,62374209.0,distribution_plant
+50636,1998,162,"Puget Sound Energy, Inc.",WA,7808567.0,transmission_plant
+50650,1999,162,"Puget Sound Energy, Inc.",WA,103827749.0,distribution_plant
+50713,1999,162,"Puget Sound Energy, Inc.",WA,24630932.0,transmission_plant
+50728,2000,162,"Puget Sound Energy, Inc.",WA,136466126.0,distribution_plant
+50791,2000,162,"Puget Sound Energy, Inc.",WA,18791552.0,transmission_plant
+50806,2001,162,"Puget Sound Energy, Inc.",WA,111335801.0,distribution_plant
+50869,2001,162,"Puget Sound Energy, Inc.",WA,13586955.0,transmission_plant
+50884,2002,162,"Puget Sound Energy, Inc.",WA,100266274.0,distribution_plant
+50947,2002,162,"Puget Sound Energy, Inc.",WA,514841.0,transmission_plant
+50969,2003,162,"Puget Sound Energy, Inc.",WA,73778561.0,distribution_plant
+51032,2003,162,"Puget Sound Energy, Inc.",WA,207342.0,transmission_plant
+51047,2004,162,"Puget Sound Energy, Inc.",WA,109298499.0,distribution_plant
+51100,2004,162,"Puget Sound Energy, Inc.",WA,2220470.0,transmission_plant
+51116,2005,162,"Puget Sound Energy, Inc.",WA,155734716.0,distribution_plant
+51168,2005,162,"Puget Sound Energy, Inc.",WA,6081924.0,transmission_plant
+51184,2006,162,"Puget Sound Energy, Inc.",WA,169229061.0,distribution_plant
+51236,2006,162,"Puget Sound Energy, Inc.",WA,37177707.0,transmission_plant
+51252,2007,162,"Puget Sound Energy, Inc.",WA,193076089.0,distribution_plant
+51304,2007,162,"Puget Sound Energy, Inc.",WA,6547703.0,transmission_plant
+51320,2008,162,"Puget Sound Energy, Inc.",WA,189467842.0,distribution_plant
+51372,2008,162,"Puget Sound Energy, Inc.",WA,18736412.0,transmission_plant
+51388,2009,162,"Puget Sound Energy, Inc.",WA,215492939.0,distribution_plant
+51440,2009,162,"Puget Sound Energy, Inc.",WA,21713568.0,transmission_plant
+51456,2010,162,"Puget Sound Energy, Inc.",WA,184001883.0,distribution_plant
+51508,2010,162,"Puget Sound Energy, Inc.",WA,56118216.0,transmission_plant
+51524,2011,162,"Puget Sound Energy, Inc.",WA,127935425.0,distribution_plant
+51575,2011,162,"Puget Sound Energy, Inc.",WA,57430095.0,transmission_plant
+51591,2012,162,"Puget Sound Energy, Inc.",WA,242446194.0,distribution_plant
+51643,2012,162,"Puget Sound Energy, Inc.",WA,76275422.0,transmission_plant
+51660,2013,162,"Puget Sound Energy, Inc.",WA,86239877.0,distribution_plant
+51711,2013,162,"Puget Sound Energy, Inc.",WA,49244791.0,transmission_plant
+51728,2014,162,"Puget Sound Energy, Inc.",WA,163237500.0,distribution_plant
+51779,2014,162,"Puget Sound Energy, Inc.",WA,98082426.0,transmission_plant
+51796,2015,162,"Puget Sound Energy, Inc.",WA,150203720.0,distribution_plant
+51846,2015,162,"Puget Sound Energy, Inc.",WA,33206062.0,transmission_plant
+51863,2016,162,"Puget Sound Energy, Inc.",WA,208701999.0,distribution_plant
+51914,2016,162,"Puget Sound Energy, Inc.",WA,64192511.0,transmission_plant
+51931,2017,162,"Puget Sound Energy, Inc.",WA,213489971.0,distribution_plant
+51982,2017,162,"Puget Sound Energy, Inc.",WA,93885276.0,transmission_plant
+51999,2018,162,"Puget Sound Energy, Inc.",WA,245808290.0,distribution_plant
+52050,2018,162,"Puget Sound Energy, Inc.",WA,43080793.0,transmission_plant
+52067,2019,162,"Puget Sound Energy, Inc.",WA,290295907.0,distribution_plant
+52119,2019,162,"Puget Sound Energy, Inc.",WA,58715193.0,transmission_plant
+52136,2020,162,"Puget Sound Energy, Inc.",WA,256567030.0,distribution_plant
+52188,2020,162,"Puget Sound Energy, Inc.",WA,22581702.0,transmission_plant
+52213,2021,162,"Puget Sound Energy, Inc.",WA,257070718.0,distribution_plant
+52283,2021,162,"Puget Sound Energy, Inc.",WA,35205289.0,transmission_plant
+85959,1994,182,Avista Corporation,WA,30920810.0,distribution_plant
+86023,1994,182,Avista Corporation,WA,11331845.0,transmission_plant
+86038,1996,182,Avista Corporation,WA,33033229.0,distribution_plant
+86102,1996,182,Avista Corporation,WA,3707719.0,transmission_plant
+86117,1997,182,Avista Corporation,WA,32787998.0,distribution_plant
+86181,1997,182,Avista Corporation,WA,11362440.0,transmission_plant
+86195,1998,182,Avista Corporation,WA,32097675.0,distribution_plant
+86246,1998,182,Avista Corporation,WA,3800796.0,transmission_plant
+86260,1999,182,Avista Corporation,WA,35110715.0,distribution_plant
+86323,1999,182,Avista Corporation,WA,7793978.0,transmission_plant
+86338,2000,182,Avista Corporation,WA,33800076.0,distribution_plant
+86401,2000,182,Avista Corporation,WA,9795432.0,transmission_plant
+86416,2001,182,Avista Corporation,WA,27178836.0,distribution_plant
+86479,2001,182,Avista Corporation,WA,9734138.0,transmission_plant
+86494,2002,182,Avista Corporation,WA,22743679.0,distribution_plant
+86557,2002,182,Avista Corporation,WA,7099960.0,transmission_plant
+86579,2003,182,Avista Corporation,WA,27381365.0,distribution_plant
+86642,2003,182,Avista Corporation,WA,10834636.0,transmission_plant
+86657,2004,182,Avista Corporation,WA,38519310.0,distribution_plant
+86708,2004,182,Avista Corporation,WA,34136899.0,transmission_plant
+86724,2005,182,Avista Corporation,WA,35475504.0,distribution_plant
+86774,2005,182,Avista Corporation,WA,33254609.0,transmission_plant
+86790,2006,182,Avista Corporation,WA,47545589.0,distribution_plant
+86840,2006,182,Avista Corporation,WA,16063241.0,transmission_plant
+86856,2007,182,Avista Corporation,WA,55368577.0,distribution_plant
+86906,2007,182,Avista Corporation,WA,62717849.0,transmission_plant
+86922,2008,182,Avista Corporation,WA,79172406.0,distribution_plant
+86972,2008,182,Avista Corporation,WA,18651739.0,transmission_plant
+86988,2009,182,Avista Corporation,WA,69480112.0,distribution_plant
+87038,2009,182,Avista Corporation,WA,13342614.0,transmission_plant
+87054,2010,182,Avista Corporation,WA,64962772.0,distribution_plant
+87104,2010,182,Avista Corporation,WA,27708901.0,transmission_plant
+87120,2011,182,Avista Corporation,WA,79932157.0,distribution_plant
+87171,2011,182,Avista Corporation,WA,27177956.0,transmission_plant
+87187,2012,182,Avista Corporation,WA,70083662.0,distribution_plant
+87238,2012,182,Avista Corporation,WA,24252225.0,transmission_plant
+87254,2013,182,Avista Corporation,WA,72181498.0,distribution_plant
+87305,2013,182,Avista Corporation,WA,25772782.0,transmission_plant
+87321,2014,182,Avista Corporation,WA,79544827.0,distribution_plant
+87372,2014,182,Avista Corporation,WA,40768295.0,transmission_plant
+87388,2015,182,Avista Corporation,WA,109014041.0,distribution_plant
+87440,2015,182,Avista Corporation,WA,38387038.0,transmission_plant
+87456,2016,182,Avista Corporation,WA,91970468.0,distribution_plant
+87509,2016,182,Avista Corporation,WA,44249607.0,transmission_plant
+87524,2017,182,Avista Corporation,WA,101978338.0,distribution_plant
+87577,2017,182,Avista Corporation,WA,49917983.0,transmission_plant
+87592,2018,182,Avista Corporation,WA,116410634.0,distribution_plant
+87646,2018,182,Avista Corporation,WA,42706048.0,transmission_plant
+87661,2019,182,Avista Corporation,WA,125907829.0,distribution_plant
+87715,2019,182,Avista Corporation,WA,54775439.0,transmission_plant
+87730,2020,182,Avista Corporation,WA,136917298.0,distribution_plant
+87783,2020,182,Avista Corporation,WA,63572706.0,transmission_plant
+87808,2021,182,Avista Corporation,WA,115385349.0,distribution_plant
+87878,2021,182,Avista Corporation,WA,90743906.0,transmission_plant
+87893,1994,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,421502469.0,distribution_plant
+87958,1994,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,60232680.0,transmission_plant
+87973,1995,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,420587950.0,distribution_plant
+88038,1995,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,65533128.0,transmission_plant
+88053,1996,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,484804908.0,distribution_plant
+88117,1996,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,70189368.0,transmission_plant
+88132,1997,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,744978775.0,distribution_plant
+88197,1997,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,82055845.0,transmission_plant
+88212,1998,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,719313555.0,distribution_plant
+88272,1998,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,219299528.0,transmission_plant
+88286,1999,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,644713428.0,distribution_plant
+88350,1999,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,158770331.0,transmission_plant
+88365,2000,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,623548656.0,distribution_plant
+88429,2000,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,116434661.0,transmission_plant
+88444,2001,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,580473453.0,distribution_plant
+88508,2001,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,140165659.0,transmission_plant
+88523,2002,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,540307048.0,distribution_plant
+88587,2002,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,186529493.0,transmission_plant
+88609,2003,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,650189382.0,distribution_plant
+88673,2003,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,493839830.0,transmission_plant
+88690,2004,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,578313498.0,distribution_plant
+88750,2004,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,304883894.0,transmission_plant
+88769,2005,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,667958243.0,distribution_plant
+88829,2005,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,267654112.0,transmission_plant
+88848,2006,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,819981541.0,distribution_plant
+88908,2006,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,530542988.0,transmission_plant
+88927,2007,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,850880976.0,distribution_plant
+88987,2007,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,316113593.0,transmission_plant
+89006,2008,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1011233649.0,distribution_plant
+89066,2008,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,318417000.0,transmission_plant
+89085,2009,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1265226553.0,distribution_plant
+89145,2009,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,664791223.0,transmission_plant
+89164,2010,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1245630038.0,distribution_plant
+89224,2010,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,679479100.0,transmission_plant
+89243,2011,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1359250025.0,distribution_plant
+89303,2011,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,428310947.0,transmission_plant
+89322,2012,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1461790747.0,distribution_plant
+89381,2012,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,677660999.0,transmission_plant
+89400,2013,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1483663096.0,distribution_plant
+89461,2013,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,818307569.0,transmission_plant
+89482,2014,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1277867094.0,distribution_plant
+89543,2014,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,727386911.0,transmission_plant
+89564,2015,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1504948166.0,distribution_plant
+89624,2015,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,898808520.0,transmission_plant
+89644,2016,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1508268817.0,distribution_plant
+89703,2016,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1056052150.0,transmission_plant
+89723,2017,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1664690134.0,distribution_plant
+89782,2017,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,696359361.0,transmission_plant
+89802,2018,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1997560718.0,distribution_plant
+89861,2018,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,976566992.0,transmission_plant
+89881,2019,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,2208831148.0,distribution_plant
+89939,2019,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1040882922.0,transmission_plant
+89960,2020,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,2962598721.0,distribution_plant
+90018,2020,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1284053595.0,transmission_plant
+90043,2021,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,3088729634.0,distribution_plant
+90113,2021,183,PACIFIC GAS AND ELECTRIC COMPANY,CA,1209997755.0,transmission_plant
+93950,1994,186,El Paso Electric Company,TX,21183461.0,distribution_plant
+94002,1994,186,El Paso Electric Company,TX,3838520.0,transmission_plant
+94013,1995,186,El Paso Electric Company,TX,24032496.0,distribution_plant
+94063,1995,186,El Paso Electric Company,TX,1854832.0,transmission_plant
+94075,1996,186,El Paso Electric Company,TX,20321299.0,distribution_plant
+94139,1996,186,El Paso Electric Company,TX,7120703.0,transmission_plant
+94153,1997,186,El Paso Electric Company,TX,25447867.0,distribution_plant
+94208,1997,186,El Paso Electric Company,TX,3972556.0,transmission_plant
+94219,1998,186,El Paso Electric Company,TX,25342799.0,distribution_plant
+94269,1998,186,El Paso Electric Company,TX,3091986.0,transmission_plant
+94281,1999,186,El Paso Electric Company,TX,25816804.0,distribution_plant
+94344,1999,186,El Paso Electric Company,TX,4894894.0,transmission_plant
+94359,2000,186,El Paso Electric Company,TX,25111089.0,distribution_plant
+94422,2000,186,El Paso Electric Company,TX,5828591.0,transmission_plant
+94437,2001,186,El Paso Electric Company,TX,26771136.0,distribution_plant
+94500,2001,186,El Paso Electric Company,TX,1107658.0,transmission_plant
+94515,2002,186,El Paso Electric Company,TX,25783979.0,distribution_plant
+94578,2002,186,El Paso Electric Company,TX,2049288.0,transmission_plant
+94600,2003,186,El Paso Electric Company,TX,35216635.0,distribution_plant
+94663,2003,186,El Paso Electric Company,TX,15805917.0,transmission_plant
+94679,2004,186,El Paso Electric Company,TX,27371280.0,distribution_plant
+94728,2004,186,El Paso Electric Company,TX,3490153.0,transmission_plant
+94742,2005,186,El Paso Electric Company,TX,28745394.0,distribution_plant
+94791,2005,186,El Paso Electric Company,TX,899192.0,transmission_plant
+94805,2006,186,El Paso Electric Company,TX,15981510.0,distribution_plant
+94854,2006,186,El Paso Electric Company,TX,984945.0,transmission_plant
+94868,2007,186,El Paso Electric Company,TX,65542736.0,distribution_plant
+94917,2007,186,El Paso Electric Company,TX,2690256.0,transmission_plant
+94931,2008,186,El Paso Electric Company,TX,63121737.0,distribution_plant
+94980,2008,186,El Paso Electric Company,TX,21541259.0,transmission_plant
+94994,2009,186,El Paso Electric Company,TX,60056039.0,distribution_plant
+95043,2009,186,El Paso Electric Company,TX,11958233.0,transmission_plant
+95057,2010,186,El Paso Electric Company,TX,49044416.0,distribution_plant
+95106,2010,186,El Paso Electric Company,TX,1397553.0,transmission_plant
+95120,2011,186,El Paso Electric Company,TX,55384070.0,distribution_plant
+95169,2011,186,El Paso Electric Company,TX,20244797.0,transmission_plant
+95183,2012,186,El Paso Electric Company,TX,54913556.0,distribution_plant
+95232,2012,186,El Paso Electric Company,TX,14596336.0,transmission_plant
+95246,2013,186,El Paso Electric Company,TX,54440904.0,distribution_plant
+95296,2013,186,El Paso Electric Company,TX,32989874.0,transmission_plant
+95310,2014,186,El Paso Electric Company,TX,69379441.0,distribution_plant
+95360,2014,186,El Paso Electric Company,TX,9078959.0,transmission_plant
+95374,2015,186,El Paso Electric Company,TX,56154542.0,distribution_plant
+95424,2015,186,El Paso Electric Company,TX,27893285.0,transmission_plant
+95438,2016,186,El Paso Electric Company,TX,65908113.0,distribution_plant
+95488,2016,186,El Paso Electric Company,TX,45813562.0,transmission_plant
+95503,2017,186,El Paso Electric Company,TX,65505562.0,distribution_plant
+95553,2017,186,El Paso Electric Company,TX,23974743.0,transmission_plant
+95568,2018,186,El Paso Electric Company,TX,79198236.0,distribution_plant
+95618,2018,186,El Paso Electric Company,TX,39215597.0,transmission_plant
+95633,2019,186,El Paso Electric Company,TX,113318389.0,distribution_plant
+95683,2019,186,El Paso Electric Company,TX,20642104.0,transmission_plant
+95698,2020,186,El Paso Electric Company,TX,83843044.0,distribution_plant
+95748,2020,186,El Paso Electric Company,TX,22368620.0,transmission_plant
+95771,2021,186,El Paso Electric Company,TX,91742757.0,distribution_plant
+95841,2021,186,El Paso Electric Company,TX,22801169.0,transmission_plant
+117872,1994,205,Public Service Company of Oklahoma,TX,47071567.0,distribution_plant
+118016,1994,205,Public Service Company of Oklahoma,TX,12484195.0,transmission_plant
+118046,1995,205,Public Service Company of Oklahoma,TX,44136705.0,distribution_plant
+118184,1995,205,Public Service Company of Oklahoma,TX,17259817.0,transmission_plant
+118217,1996,205,Public Service Company of Oklahoma,TX,62115333.0,distribution_plant
+118379,1996,205,Public Service Company of Oklahoma,TX,7356238.0,transmission_plant
+118412,1997,205,Public Service Company of Oklahoma,TX,52314892.0,distribution_plant
+118574,1997,205,Public Service Company of Oklahoma,TX,8044409.0,transmission_plant
+118607,1998,205,Public Service Company of Oklahoma,TX,49631664.0,distribution_plant
+118736,1998,205,Public Service Company of Oklahoma,TX,4849245.0,transmission_plant
+118772,1999,205,Public Service Company of Oklahoma,TX,63047618.0,distribution_plant
+118958,1999,205,Public Service Company of Oklahoma,TX,14335866.0,transmission_plant
+119003,2000,205,Public Service Company of Oklahoma,TX,48895482.0,distribution_plant
+119189,2000,205,Public Service Company of Oklahoma,TX,5325987.0,transmission_plant
+119234,2001,205,Public Service Company of Oklahoma,TX,43731854.0,distribution_plant
+119420,2001,205,Public Service Company of Oklahoma,TX,32802214.0,transmission_plant
+119465,2002,205,Public Service Company of Oklahoma,TX,32232491.0,distribution_plant
+119651,2002,205,Public Service Company of Oklahoma,TX,7827828.0,transmission_plant
+119717,2003,205,Public Service Company of Oklahoma,TX,58875585.0,distribution_plant
+119903,2003,205,Public Service Company of Oklahoma,TX,19907695.0,transmission_plant
+119942,2004,205,Public Service Company of Oklahoma,TX,68060440.0,distribution_plant
+120071,2004,205,Public Service Company of Oklahoma,TX,19101354.0,transmission_plant
+120110,2005,205,Public Service Company of Oklahoma,TX,68938944.0,distribution_plant
+120239,2005,205,Public Service Company of Oklahoma,TX,12663845.0,transmission_plant
+120278,2006,205,Public Service Company of Oklahoma,TX,100469907.0,distribution_plant
+120407,2006,205,Public Service Company of Oklahoma,TX,28130605.0,transmission_plant
+120446,2007,205,Public Service Company of Oklahoma,TX,137079772.0,distribution_plant
+120575,2007,205,Public Service Company of Oklahoma,TX,71260971.0,transmission_plant
+120614,2008,205,Public Service Company of Oklahoma,TX,147744698.0,distribution_plant
+120743,2008,205,Public Service Company of Oklahoma,TX,62270613.0,transmission_plant
+120782,2009,205,Public Service Company of Oklahoma,TX,118236578.0,distribution_plant
+120911,2009,205,Public Service Company of Oklahoma,TX,20529453.0,transmission_plant
+120950,2010,205,Public Service Company of Oklahoma,TX,104591455.0,distribution_plant
+121079,2010,205,Public Service Company of Oklahoma,TX,51721576.0,transmission_plant
+121118,2011,205,Public Service Company of Oklahoma,TX,91937283.0,distribution_plant
+121247,2011,205,Public Service Company of Oklahoma,TX,30307062.0,transmission_plant
+121286,2012,205,Public Service Company of Oklahoma,TX,115618105.0,distribution_plant
+121415,2012,205,Public Service Company of Oklahoma,TX,17612672.0,transmission_plant
+121454,2013,205,Public Service Company of Oklahoma,TX,143570271.0,distribution_plant
+121583,2013,205,Public Service Company of Oklahoma,TX,28079631.0,transmission_plant
+121622,2014,205,Public Service Company of Oklahoma,TX,130479922.0,distribution_plant
+121751,2014,205,Public Service Company of Oklahoma,TX,90141916.0,transmission_plant
+121790,2015,205,Public Service Company of Oklahoma,TX,175606688.0,distribution_plant
+121919,2015,205,Public Service Company of Oklahoma,TX,31677141.0,transmission_plant
+121958,2016,205,Public Service Company of Oklahoma,TX,166948306.0,distribution_plant
+122087,2016,205,Public Service Company of Oklahoma,TX,36937300.0,transmission_plant
+122126,2017,205,Public Service Company of Oklahoma,TX,155889176.0,distribution_plant
+122255,2017,205,Public Service Company of Oklahoma,TX,37674630.0,transmission_plant
+122294,2018,205,Public Service Company of Oklahoma,TX,162994963.0,distribution_plant
+122423,2018,205,Public Service Company of Oklahoma,TX,40851977.0,transmission_plant
+122462,2019,205,Public Service Company of Oklahoma,TX,138690412.0,distribution_plant
+122591,2019,205,Public Service Company of Oklahoma,TX,65397271.0,transmission_plant
+122630,2020,205,Public Service Company of Oklahoma,TX,194763448.0,distribution_plant
+122759,2020,205,Public Service Company of Oklahoma,TX,130073043.0,transmission_plant
+122828,2021,205,Public Service Company of Oklahoma,TX,189039606.0,distribution_plant
+123038,2021,205,Public Service Company of Oklahoma,TX,56060843.0,transmission_plant
+123076,1994,206,Southwestern Electric Power Company,TX,57964554.0,distribution_plant
+123238,1994,206,Southwestern Electric Power Company,TX,36660631.0,transmission_plant
+123271,1995,206,Southwestern Electric Power Company,TX,57337701.0,distribution_plant
+123400,1995,206,Southwestern Electric Power Company,TX,50218421.0,transmission_plant
+123433,1996,206,Southwestern Electric Power Company,TX,62893095.0,distribution_plant
+123625,1996,206,Southwestern Electric Power Company,TX,29095575.0,transmission_plant
+123670,1997,206,Southwestern Electric Power Company,TX,47522320.0,distribution_plant
+123862,1997,206,Southwestern Electric Power Company,TX,6036658.0,transmission_plant
+123898,1998,206,Southwestern Electric Power Company,TX,43614335.0,distribution_plant
+124015,1998,206,Southwestern Electric Power Company,TX,18552465.0,transmission_plant
+124051,1999,206,Southwestern Electric Power Company,TX,58269611.0,distribution_plant
+124234,1999,206,Southwestern Electric Power Company,TX,11810761.0,transmission_plant
+124279,2000,206,Southwestern Electric Power Company,TX,52415852.0,distribution_plant
+124462,2000,206,Southwestern Electric Power Company,TX,37219011.0,transmission_plant
+124507,2001,206,Southwestern Electric Power Company,TX,49635752.0,distribution_plant
+124690,2001,206,Southwestern Electric Power Company,TX,20547975.0,transmission_plant
+124735,2002,206,Southwestern Electric Power Company,TX,19136902.0,distribution_plant
+124918,2002,206,Southwestern Electric Power Company,TX,38304452.0,transmission_plant
+124984,2003,206,Southwestern Electric Power Company,TX,65310915.0,distribution_plant
+125167,2003,206,Southwestern Electric Power Company,TX,40973160.0,transmission_plant
+125206,2004,206,Southwestern Electric Power Company,TX,52910400.0,distribution_plant
+125320,2004,206,Southwestern Electric Power Company,TX,20758595.0,transmission_plant
+125359,2005,206,Southwestern Electric Power Company,TX,53508995.0,distribution_plant
+125473,2005,206,Southwestern Electric Power Company,TX,13420155.0,transmission_plant
+125512,2006,206,Southwestern Electric Power Company,TX,86152638.0,distribution_plant
+125626,2006,206,Southwestern Electric Power Company,TX,24397380.0,transmission_plant
+125668,2007,206,Southwestern Electric Power Company,TX,103306239.0,distribution_plant
+125803,2007,206,Southwestern Electric Power Company,TX,71948594.0,transmission_plant
+125842,2008,206,Southwestern Electric Power Company,TX,108860454.0,distribution_plant
+125980,2008,206,Southwestern Electric Power Company,TX,53689742.0,transmission_plant
+126019,2009,206,Southwestern Electric Power Company,TX,81083511.0,distribution_plant
+126154,2009,206,Southwestern Electric Power Company,TX,69051078.0,transmission_plant
+126193,2010,206,Southwestern Electric Power Company,TX,179519679.0,distribution_plant
+126325,2010,206,Southwestern Electric Power Company,TX,76483784.0,transmission_plant
+126364,2011,206,Southwestern Electric Power Company,TX,78797602.0,distribution_plant
+126496,2011,206,Southwestern Electric Power Company,TX,51299974.0,transmission_plant
+126535,2012,206,Southwestern Electric Power Company,TX,101278293.0,distribution_plant
+126667,2012,206,Southwestern Electric Power Company,TX,130842360.0,transmission_plant
+126706,2013,206,Southwestern Electric Power Company,TX,115513424.0,distribution_plant
+126838,2013,206,Southwestern Electric Power Company,TX,54115199.0,transmission_plant
+126877,2014,206,Southwestern Electric Power Company,TX,76999789.0,distribution_plant
+127009,2014,206,Southwestern Electric Power Company,TX,130887194.0,transmission_plant
+127048,2015,206,Southwestern Electric Power Company,TX,95004404.0,distribution_plant
+127180,2015,206,Southwestern Electric Power Company,TX,89956045.0,transmission_plant
+127219,2016,206,Southwestern Electric Power Company,TX,99449989.0,distribution_plant
+127351,2016,206,Southwestern Electric Power Company,TX,203397418.0,transmission_plant
+127390,2017,206,Southwestern Electric Power Company,TX,103996071.0,distribution_plant
+127522,2017,206,Southwestern Electric Power Company,TX,113429935.0,transmission_plant
+127561,2018,206,Southwestern Electric Power Company,TX,111658527.0,distribution_plant
+127696,2018,206,Southwestern Electric Power Company,TX,203250869.0,transmission_plant
+127735,2019,206,Southwestern Electric Power Company,TX,119768985.0,distribution_plant
+127870,2019,206,Southwestern Electric Power Company,TX,190591442.0,transmission_plant
+127909,2020,206,Southwestern Electric Power Company,TX,142450263.0,distribution_plant
+128044,2020,206,Southwestern Electric Power Company,TX,135847789.0,transmission_plant
+128116,2021,206,Southwestern Electric Power Company,TX,161016445.0,distribution_plant
+128326,2021,206,Southwestern Electric Power Company,TX,171480393.0,transmission_plant
+148085,1994,218,San Diego Gas & Electric Company,CA,114518820.0,distribution_plant
+148142,1994,218,San Diego Gas & Electric Company,CA,49382367.0,transmission_plant
+148155,1995,218,San Diego Gas & Electric Company,CA,90827217.0,distribution_plant
+148208,1995,218,San Diego Gas & Electric Company,CA,22805900.0,transmission_plant
+148221,1996,218,San Diego Gas & Electric Company,CA,84889188.0,distribution_plant
+148274,1996,218,San Diego Gas & Electric Company,CA,5198351.0,transmission_plant
+148287,1997,218,San Diego Gas & Electric Company,CA,93910473.0,distribution_plant
+148340,1997,218,San Diego Gas & Electric Company,CA,15303390.0,transmission_plant
+148353,1998,218,San Diego Gas & Electric Company,CA,119674329.0,distribution_plant
+148401,1998,218,San Diego Gas & Electric Company,CA,10949549.0,transmission_plant
+148415,1999,218,San Diego Gas & Electric Company,CA,154720090.0,distribution_plant
+148478,1999,218,San Diego Gas & Electric Company,CA,25444834.0,transmission_plant
+148493,2000,218,San Diego Gas & Electric Company,CA,157411091.0,distribution_plant
+148556,2000,218,San Diego Gas & Electric Company,CA,20010778.0,transmission_plant
+148571,2001,218,San Diego Gas & Electric Company,CA,186118022.0,distribution_plant
+148634,2001,218,San Diego Gas & Electric Company,CA,44416061.0,transmission_plant
+148649,2002,218,San Diego Gas & Electric Company,CA,228556953.0,distribution_plant
+148712,2002,218,San Diego Gas & Electric Company,CA,66832563.0,transmission_plant
+148734,2003,218,San Diego Gas & Electric Company,CA,199462482.0,distribution_plant
+148797,2003,218,San Diego Gas & Electric Company,CA,48040915.0,transmission_plant
+148812,2004,218,San Diego Gas & Electric Company,CA,196629686.0,distribution_plant
+148857,2004,218,San Diego Gas & Electric Company,CA,85375331.0,transmission_plant
+148874,2005,218,San Diego Gas & Electric Company,CA,214228234.0,distribution_plant
+148923,2005,218,San Diego Gas & Electric Company,CA,104653341.0,transmission_plant
+148940,2006,218,San Diego Gas & Electric Company,CA,227530812.0,distribution_plant
+148989,2006,218,San Diego Gas & Electric Company,CA,116199343.0,transmission_plant
+149006,2007,218,San Diego Gas & Electric Company,CA,286414594.0,distribution_plant
+149055,2007,218,San Diego Gas & Electric Company,CA,203686431.0,transmission_plant
+149072,2008,218,San Diego Gas & Electric Company,CA,227179659.0,distribution_plant
+149121,2008,218,San Diego Gas & Electric Company,CA,154140918.0,transmission_plant
+149138,2009,218,San Diego Gas & Electric Company,CA,266936422.0,distribution_plant
+149187,2009,218,San Diego Gas & Electric Company,CA,134513607.0,transmission_plant
+149204,2010,218,San Diego Gas & Electric Company,CA,370904289.0,distribution_plant
+149253,2010,218,San Diego Gas & Electric Company,CA,103897914.0,transmission_plant
+149270,2011,218,San Diego Gas & Electric Company,CA,263548475.0,distribution_plant
+149320,2011,218,San Diego Gas & Electric Company,CA,138087041.0,transmission_plant
+149337,2012,218,San Diego Gas & Electric Company,CA,245314731.0,distribution_plant
+149387,2012,218,San Diego Gas & Electric Company,CA,1785430216.0,transmission_plant
+149404,2013,218,San Diego Gas & Electric Company,CA,242704630.0,distribution_plant
+149454,2013,218,San Diego Gas & Electric Company,CA,236435698.0,transmission_plant
+149469,2014,218,San Diego Gas & Electric Company,CA,259549238.0,distribution_plant
+149514,2014,218,San Diego Gas & Electric Company,CA,599991676.0,transmission_plant
+149528,2015,218,San Diego Gas & Electric Company,CA,361852010.0,distribution_plant
+149573,2015,218,San Diego Gas & Electric Company,CA,360021004.0,transmission_plant
+149587,2016,218,San Diego Gas & Electric Company,CA,341597745.0,distribution_plant
+149632,2016,218,San Diego Gas & Electric Company,CA,294785914.0,transmission_plant
+149646,2017,218,San Diego Gas & Electric Company,CA,443068649.0,distribution_plant
+149691,2017,218,San Diego Gas & Electric Company,CA,477152556.0,transmission_plant
+149705,2018,218,San Diego Gas & Electric Company,CA,468121596.0,distribution_plant
+149750,2018,218,San Diego Gas & Electric Company,CA,609823456.0,transmission_plant
+149764,2019,218,San Diego Gas & Electric Company,CA,498970607.0,distribution_plant
+149809,2019,218,San Diego Gas & Electric Company,CA,390793583.0,transmission_plant
+149823,2020,218,San Diego Gas & Electric Company,CA,580716071.0,distribution_plant
+149868,2020,218,San Diego Gas & Electric Company,CA,609764859.0,transmission_plant
+149892,2021,218,San Diego Gas & Electric Company,CA,907234723.0,distribution_plant
+149962,2021,218,San Diego Gas & Electric Company,CA,443312434.0,transmission_plant
+169782,1994,230,Southwestern Public Service Company,TX,29455093.0,distribution_plant
+169880,1994,230,Southwestern Public Service Company,TX,38012132.0,transmission_plant
+169902,1995,230,Southwestern Public Service Company,TX,52462598.0,distribution_plant
+169994,1995,230,Southwestern Public Service Company,TX,26332461.0,transmission_plant
+170016,1996,230,Southwestern Public Service Company,TX,32559782.0,distribution_plant
+170116,1996,230,Southwestern Public Service Company,TX,37348876.0,transmission_plant
+170142,1997,230,Southwestern Public Service Company,TX,16467516.0,distribution_plant
+170270,1997,230,Southwestern Public Service Company,TX,26064852.0,transmission_plant
+170296,1998,230,Southwestern Public Service Company,TX,28873068.0,distribution_plant
+170384,1998,230,Southwestern Public Service Company,TX,2674370.0,transmission_plant
+170410,1999,230,Southwestern Public Service Company,TX,52363927.0,distribution_plant
+170534,1999,230,Southwestern Public Service Company,TX,24249503.0,transmission_plant
+170564,2000,230,Southwestern Public Service Company,TX,34332086.0,distribution_plant
+170688,2000,230,Southwestern Public Service Company,TX,22919059.0,transmission_plant
+170718,2001,230,Southwestern Public Service Company,TX,28834149.0,distribution_plant
+170842,2001,230,Southwestern Public Service Company,TX,90720418.0,transmission_plant
+170872,2002,230,Southwestern Public Service Company,TX,26514382.0,distribution_plant
+170996,2002,230,Southwestern Public Service Company,TX,16378031.0,transmission_plant
+171040,2003,230,Southwestern Public Service Company,TX,27258998.0,distribution_plant
+171164,2003,230,Southwestern Public Service Company,TX,13719230.0,transmission_plant
+171190,2004,230,Southwestern Public Service Company,TX,36695734.0,distribution_plant
+171278,2004,230,Southwestern Public Service Company,TX,42526177.0,transmission_plant
+171304,2005,230,Southwestern Public Service Company,TX,35653316.0,distribution_plant
+171392,2005,230,Southwestern Public Service Company,TX,18688532.0,transmission_plant
+171418,2006,230,Southwestern Public Service Company,TX,38209845.0,distribution_plant
+171508,2006,230,Southwestern Public Service Company,TX,22262463.0,transmission_plant
+171534,2007,230,Southwestern Public Service Company,TX,34742754.0,distribution_plant
+171622,2007,230,Southwestern Public Service Company,TX,17909224.0,transmission_plant
+171650,2008,230,Southwestern Public Service Company,TX,44859709.0,distribution_plant
+171738,2008,230,Southwestern Public Service Company,TX,60813893.0,transmission_plant
+171766,2009,230,Southwestern Public Service Company,TX,41924875.0,distribution_plant
+171852,2009,230,Southwestern Public Service Company,TX,105980128.0,transmission_plant
+171880,2010,230,Southwestern Public Service Company,TX,49763963.0,distribution_plant
+171966,2010,230,Southwestern Public Service Company,TX,48833831.0,transmission_plant
+171994,2011,230,Southwestern Public Service Company,TX,63866185.0,distribution_plant
+172080,2011,230,Southwestern Public Service Company,TX,141762431.0,transmission_plant
+172106,2012,230,Southwestern Public Service Company,TX,52109518.0,distribution_plant
+172192,2012,230,Southwestern Public Service Company,TX,153346481.0,transmission_plant
+172222,2013,230,Southwestern Public Service Company,TX,58438765.0,distribution_plant
+172310,2013,230,Southwestern Public Service Company,TX,170079708.0,transmission_plant
+172340,2014,230,Southwestern Public Service Company,TX,74525510.0,distribution_plant
+172428,2014,230,Southwestern Public Service Company,TX,497237227.0,transmission_plant
+172458,2015,230,Southwestern Public Service Company,TX,107627830.0,distribution_plant
+172548,2015,230,Southwestern Public Service Company,TX,333420180.0,transmission_plant
+172580,2016,230,Southwestern Public Service Company,TX,81287147.0,distribution_plant
+172666,2016,230,Southwestern Public Service Company,TX,258530230.0,transmission_plant
+172698,2017,230,Southwestern Public Service Company,TX,96061973.0,distribution_plant
+172786,2017,230,Southwestern Public Service Company,TX,195947200.0,transmission_plant
+172818,2018,230,Southwestern Public Service Company,TX,103138686.0,distribution_plant
+172906,2018,230,Southwestern Public Service Company,TX,334024310.0,transmission_plant
+172938,2019,230,Southwestern Public Service Company,TX,117643016.0,distribution_plant
+173026,2019,230,Southwestern Public Service Company,TX,299192230.0,transmission_plant
+173058,2020,230,Southwestern Public Service Company,TX,166084713.0,distribution_plant
+173146,2020,230,Southwestern Public Service Company,TX,431364150.0,transmission_plant
+173194,2021,230,Southwestern Public Service Company,TX,158611248.0,distribution_plant
+173334,2021,230,Southwestern Public Service Company,TX,211909823.0,transmission_plant
+176540,2008,234,"Entergy Texas, Inc.",TX,61760871.0,distribution_plant
+176620,2008,234,"Entergy Texas, Inc.",TX,28789957.0,transmission_plant
+176646,2009,234,"Entergy Texas, Inc.",TX,80932959.0,distribution_plant
+176728,2009,234,"Entergy Texas, Inc.",TX,26536335.0,transmission_plant
+176754,2010,234,"Entergy Texas, Inc.",TX,65611143.0,distribution_plant
+176836,2010,234,"Entergy Texas, Inc.",TX,36025024.0,transmission_plant
+176862,2011,234,"Entergy Texas, Inc.",TX,73923447.0,distribution_plant
+176944,2011,234,"Entergy Texas, Inc.",TX,61530973.0,transmission_plant
+176970,2012,234,"Entergy Texas, Inc.",TX,68736896.0,distribution_plant
+177052,2012,234,"Entergy Texas, Inc.",TX,32275052.0,transmission_plant
+177078,2013,234,"Entergy Texas, Inc.",TX,74664226.0,distribution_plant
+177160,2013,234,"Entergy Texas, Inc.",TX,55342970.0,transmission_plant
+177186,2014,234,"Entergy Texas, Inc.",TX,78550540.0,distribution_plant
+177268,2014,234,"Entergy Texas, Inc.",TX,38850451.0,transmission_plant
+177294,2015,234,"Entergy Texas, Inc.",TX,84300517.0,distribution_plant
+177376,2015,234,"Entergy Texas, Inc.",TX,46643499.0,transmission_plant
+177398,2016,234,"Entergy Texas, Inc.",TX,103503242.0,distribution_plant
+177478,2016,234,"Entergy Texas, Inc.",TX,242073249.0,transmission_plant
+177500,2017,234,"Entergy Texas, Inc.",TX,104056506.0,distribution_plant
+177580,2017,234,"Entergy Texas, Inc.",TX,102086137.0,transmission_plant
+177602,2018,234,"Entergy Texas, Inc.",TX,99692562.0,distribution_plant
+177682,2018,234,"Entergy Texas, Inc.",TX,66980829.0,transmission_plant
+177704,2019,234,"Entergy Texas, Inc.",TX,197017807.0,distribution_plant
+177784,2019,234,"Entergy Texas, Inc.",TX,162500392.0,transmission_plant
+177806,2020,234,"Entergy Texas, Inc.",TX,388018269.0,distribution_plant
+177894,2020,234,"Entergy Texas, Inc.",TX,394241198.0,transmission_plant
+177940,2021,234,"Entergy Texas, Inc.",TX,149808932.0,distribution_plant
+178080,2021,234,"Entergy Texas, Inc.",TX,208157714.0,transmission_plant
+190288,1994,245,Western Massachusetts Electric Company,MA,20667404.0,distribution_plant
+190352,1994,245,Western Massachusetts Electric Company,MA,2609710.0,transmission_plant
+190367,1995,245,Western Massachusetts Electric Company,MA,14147404.0,distribution_plant
+190431,1995,245,Western Massachusetts Electric Company,MA,335858.0,transmission_plant
+190446,1996,245,Western Massachusetts Electric Company,MA,17679388.0,distribution_plant
+190510,1996,245,Western Massachusetts Electric Company,MA,193372.0,transmission_plant
+190525,1997,245,Western Massachusetts Electric Company,MA,13070624.0,distribution_plant
+190589,1997,245,Western Massachusetts Electric Company,MA,5804691.0,transmission_plant
+190604,1998,245,Western Massachusetts Electric Company,MA,13338084.0,distribution_plant
+190661,1998,245,Western Massachusetts Electric Company,MA,95039.0,transmission_plant
+190676,1999,245,Western Massachusetts Electric Company,MA,13247581.0,distribution_plant
+190740,1999,245,Western Massachusetts Electric Company,MA,6294185.0,transmission_plant
+190755,2000,245,Western Massachusetts Electric Company,MA,14952126.0,distribution_plant
+190818,2000,245,Western Massachusetts Electric Company,MA,397454.0,transmission_plant
+190833,2001,245,Western Massachusetts Electric Company,MA,18885415.0,distribution_plant
+190896,2001,245,Western Massachusetts Electric Company,MA,2920077.0,transmission_plant
+190911,2002,245,Western Massachusetts Electric Company,MA,17996229.0,distribution_plant
+190972,2002,245,Western Massachusetts Electric Company,MA,3498614.0,transmission_plant
+190994,2003,245,Western Massachusetts Electric Company,MA,21893764.0,distribution_plant
+191055,2003,245,Western Massachusetts Electric Company,MA,4629380.0,transmission_plant
+191065,2004,245,Western Massachusetts Electric Company,MA,25987841.0,distribution_plant
+191097,2004,245,Western Massachusetts Electric Company,MA,6402314.0,transmission_plant
+191106,2005,245,Western Massachusetts Electric Company,MA,19569599.0,distribution_plant
+191138,2005,245,Western Massachusetts Electric Company,MA,10698367.0,transmission_plant
+191147,2006,245,Western Massachusetts Electric Company,MA,26827566.0,distribution_plant
+191179,2006,245,Western Massachusetts Electric Company,MA,9800164.0,transmission_plant
+191188,2007,245,Western Massachusetts Electric Company,MA,26593350.0,distribution_plant
+191220,2007,245,Western Massachusetts Electric Company,MA,8124630.0,transmission_plant
+191229,2008,245,Western Massachusetts Electric Company,MA,28064459.0,distribution_plant
+191261,2008,245,Western Massachusetts Electric Company,MA,17308252.0,transmission_plant
+191271,2009,245,Western Massachusetts Electric Company,MA,30119594.0,distribution_plant
+191303,2009,245,Western Massachusetts Electric Company,MA,26145020.0,transmission_plant
+191314,2010,245,Western Massachusetts Electric Company,MA,26894457.0,distribution_plant
+191352,2010,245,Western Massachusetts Electric Company,MA,22563847.0,transmission_plant
+191363,2011,245,Western Massachusetts Electric Company,MA,35364960.0,distribution_plant
+191401,2011,245,Western Massachusetts Electric Company,MA,50532034.0,transmission_plant
+191413,2012,245,Western Massachusetts Electric Company,MA,31513258.0,distribution_plant
+191450,2012,245,Western Massachusetts Electric Company,MA,304307402.0,transmission_plant
+191462,2013,245,Western Massachusetts Electric Company,MA,35212345.0,distribution_plant
+191499,2013,245,Western Massachusetts Electric Company,MA,246937174.0,transmission_plant
+191511,2014,245,Western Massachusetts Electric Company,MA,29656620.0,distribution_plant
+191548,2014,245,Western Massachusetts Electric Company,MA,65162690.0,transmission_plant
+191560,2015,245,Western Massachusetts Electric Company,MA,37733800.0,distribution_plant
+191597,2015,245,Western Massachusetts Electric Company,MA,78923572.0,transmission_plant
+191608,2016,245,Western Massachusetts Electric Company,MA,28225602.0,distribution_plant
+191645,2016,245,Western Massachusetts Electric Company,MA,92110028.0,transmission_plant
+191657,2017,245,Western Massachusetts Electric Company,MA,39224145.0,distribution_plant
+191694,2017,245,Western Massachusetts Electric Company,MA,135436866.0,transmission_plant
+219565,2003,266,Golden State Water Company,CA,1287817.0,distribution_plant
+219624,2003,266,Golden State Water Company,CA,82754.0,transmission_plant
+219634,2004,266,Golden State Water Company,CA,2381700.0,distribution_plant
+219666,2004,266,Golden State Water Company,CA,798600.0,transmission_plant
+219673,2005,266,Golden State Water Company,CA,1297400.0,distribution_plant
+219705,2005,266,Golden State Water Company,CA,58900.0,transmission_plant
+219712,2006,266,Golden State Water Company,CA,1743200.0,distribution_plant
+219744,2006,266,Golden State Water Company,CA,52000.0,transmission_plant
+219752,2007,266,Golden State Water Company,CA,1371500.0,distribution_plant
+219790,2007,266,Golden State Water Company,CA,483000.0,transmission_plant
+219798,2008,266,Golden State Water Company,CA,1411800.0,distribution_plant
+219836,2008,266,Golden State Water Company,CA,3400.0,transmission_plant
+219844,2009,266,Golden State Water Company,CA,934500.0,distribution_plant
+219882,2009,266,Golden State Water Company,CA,7500.0,transmission_plant
+219890,2010,266,Golden State Water Company,CA,1116000.0,distribution_plant
+219928,2010,266,Golden State Water Company,CA,284500.0,transmission_plant
+219936,2011,266,Golden State Water Company,CA,3276800.0,distribution_plant
+219974,2011,266,Golden State Water Company,CA,652100.0,transmission_plant
+219982,2012,266,Golden State Water Company,CA,2887600.0,distribution_plant
+220020,2012,266,Golden State Water Company,CA,1482200.0,transmission_plant
+220028,2013,266,Golden State Water Company,CA,1575500.0,distribution_plant
+220066,2013,266,Golden State Water Company,CA,480200.0,transmission_plant
+220074,2014,266,Golden State Water Company,CA,1653800.0,distribution_plant
+220112,2014,266,Golden State Water Company,CA,126100.0,transmission_plant
+220120,2015,266,Golden State Water Company,CA,4807600.0,distribution_plant
+220158,2015,266,Golden State Water Company,CA,1483700.0,transmission_plant
+220166,2016,266,Golden State Water Company,CA,5056900.0,distribution_plant
+220212,2017,266,Golden State Water Company,CA,5430900.0,distribution_plant
+220258,2018,266,Golden State Water Company,CA,5725300.0,distribution_plant
+220296,2018,266,Golden State Water Company,CA,452200.0,transmission_plant
+220304,2019,266,Golden State Water Company,CA,1622400.0,distribution_plant
+220342,2019,266,Golden State Water Company,CA,225200.0,transmission_plant
+220350,2020,266,Golden State Water Company,CA,584500.0,distribution_plant
+227737,1994,274,New England Power Company,MA,754330.0,distribution_plant
+227795,1994,274,New England Power Company,MA,33461741.0,transmission_plant
+227810,1995,274,New England Power Company,MA,119339.0,distribution_plant
+227869,1995,274,New England Power Company,MA,20601505.0,transmission_plant
+227884,1996,274,New England Power Company,MA,155655.0,distribution_plant
+227941,1996,274,New England Power Company,MA,22881908.0,transmission_plant
+227956,1998,274,New England Power Company,MA,332663.0,distribution_plant
+228009,1998,274,New England Power Company,MA,40945105.0,transmission_plant
+228024,1999,274,New England Power Company,MA,253122.0,distribution_plant
+228087,1999,274,New England Power Company,MA,50767600.0,transmission_plant
+228102,2000,274,New England Power Company,MA,918103.0,distribution_plant
+228165,2000,274,New England Power Company,MA,31833407.0,transmission_plant
+228180,2001,274,New England Power Company,MA,406803.0,distribution_plant
+228243,2001,274,New England Power Company,MA,65516009.0,transmission_plant
+228258,2002,274,New England Power Company,MA,2367185.0,distribution_plant
+228321,2002,274,New England Power Company,MA,23991976.0,transmission_plant
+228343,2003,274,New England Power Company,MA,57663.0,distribution_plant
+228405,2003,274,New England Power Company,MA,42406081.0,transmission_plant
+228418,2004,274,New England Power Company,MA,67166.0,distribution_plant
+228455,2004,274,New England Power Company,MA,40197088.0,transmission_plant
+228466,2005,274,New England Power Company,MA,10249.0,distribution_plant
+228503,2005,274,New England Power Company,MA,55302041.0,transmission_plant
+228514,2006,274,New England Power Company,MA,25108.0,distribution_plant
+228551,2006,274,New England Power Company,MA,108642257.0,transmission_plant
+228562,2007,274,New England Power Company,MA,91598.0,distribution_plant
+228599,2007,274,New England Power Company,MA,145551971.0,transmission_plant
+228608,2008,274,New England Power Company,MA,78209.0,distribution_plant
+228641,2008,274,New England Power Company,MA,64974859.0,transmission_plant
+228681,2009,274,New England Power Company,MA,172120526.0,transmission_plant
+228689,2010,274,New England Power Company,MA,237122.0,distribution_plant
+228721,2010,274,New England Power Company,MA,113851898.0,transmission_plant
+228729,2011,274,New England Power Company,MA,107763.0,distribution_plant
+228760,2011,274,New England Power Company,MA,113719158.0,transmission_plant
+228768,2012,274,New England Power Company,MA,869208.0,distribution_plant
+228799,2012,274,New England Power Company,MA,118757910.0,transmission_plant
+228838,2013,274,New England Power Company,MA,165060713.0,transmission_plant
+228846,2014,274,New England Power Company,MA,-869209.0,distribution_plant
+228876,2014,274,New England Power Company,MA,263633313.0,transmission_plant
+228883,2015,274,New England Power Company,MA,7940079.0,distribution_plant
+228912,2015,274,New England Power Company,MA,187218340.0,transmission_plant
+228920,2016,274,New England Power Company,MA,-7346410.0,distribution_plant
+228950,2016,274,New England Power Company,MA,255628603.0,transmission_plant
+228987,2017,274,New England Power Company,MA,177146792.0,transmission_plant
+229025,2018,274,New England Power Company,MA,98391799.0,transmission_plant
+229065,2019,274,New England Power Company,MA,225139088.0,transmission_plant
+229105,2020,274,New England Power Company,MA,139966816.0,transmission_plant
+229197,2021,274,New England Power Company,MA,103675952.0,transmission_plant
+254293,2002,293,Oncor Electric Delivery Company LLC,TX,322298551.0,distribution_plant
+254352,2002,293,Oncor Electric Delivery Company LLC,TX,222017050.0,transmission_plant
+254374,2003,293,Oncor Electric Delivery Company LLC,TX,309322933.0,distribution_plant
+254433,2003,293,Oncor Electric Delivery Company LLC,TX,177963232.0,transmission_plant
+254443,2004,293,Oncor Electric Delivery Company LLC,TX,322093087.0,distribution_plant
+254475,2004,293,Oncor Electric Delivery Company LLC,TX,228310201.0,transmission_plant
+254482,2005,293,Oncor Electric Delivery Company LLC,TX,478351119.0,distribution_plant
+254514,2005,293,Oncor Electric Delivery Company LLC,TX,276087198.0,transmission_plant
+254521,2006,293,Oncor Electric Delivery Company LLC,TX,480906271.0,distribution_plant
+254553,2006,293,Oncor Electric Delivery Company LLC,TX,345774433.0,transmission_plant
+254560,2007,293,Oncor Electric Delivery Company LLC,TX,434517837.0,distribution_plant
+254592,2007,293,Oncor Electric Delivery Company LLC,TX,263935791.0,transmission_plant
+254599,2008,293,Oncor Electric Delivery Company LLC,TX,470481842.0,distribution_plant
+254631,2008,293,Oncor Electric Delivery Company LLC,TX,261835349.0,transmission_plant
+254638,2009,293,Oncor Electric Delivery Company LLC,TX,447966377.0,distribution_plant
+254670,2009,293,Oncor Electric Delivery Company LLC,TX,313462809.0,transmission_plant
+254677,2010,293,Oncor Electric Delivery Company LLC,TX,457568000.0,distribution_plant
+254709,2010,293,Oncor Electric Delivery Company LLC,TX,492057375.0,transmission_plant
+254716,2011,293,Oncor Electric Delivery Company LLC,TX,483275273.0,distribution_plant
+254747,2011,293,Oncor Electric Delivery Company LLC,TX,562116442.0,transmission_plant
+254754,2012,293,Oncor Electric Delivery Company LLC,TX,510251750.0,distribution_plant
+254785,2012,293,Oncor Electric Delivery Company LLC,TX,582324465.0,transmission_plant
+254792,2013,293,Oncor Electric Delivery Company LLC,TX,394461619.0,distribution_plant
+254823,2013,293,Oncor Electric Delivery Company LLC,TX,663087857.0,transmission_plant
+254830,2014,293,Oncor Electric Delivery Company LLC,TX,436384298.0,distribution_plant
+254862,2014,293,Oncor Electric Delivery Company LLC,TX,749085910.0,transmission_plant
+254869,2015,293,Oncor Electric Delivery Company LLC,TX,537276989.0,distribution_plant
+254901,2015,293,Oncor Electric Delivery Company LLC,TX,379199616.0,transmission_plant
+254908,2016,293,Oncor Electric Delivery Company LLC,TX,621144405.0,distribution_plant
+254940,2016,293,Oncor Electric Delivery Company LLC,TX,580164070.0,transmission_plant
+254947,2017,293,Oncor Electric Delivery Company LLC,TX,705888799.0,distribution_plant
+254979,2017,293,Oncor Electric Delivery Company LLC,TX,610460144.0,transmission_plant
+254986,2018,293,Oncor Electric Delivery Company LLC,TX,820767523.0,distribution_plant
+255018,2018,293,Oncor Electric Delivery Company LLC,TX,762052067.0,transmission_plant
+255025,2019,293,Oncor Electric Delivery Company LLC,TX,939088712.0,distribution_plant
+255057,2019,293,Oncor Electric Delivery Company LLC,TX,848828181.0,transmission_plant
+255064,2020,293,Oncor Electric Delivery Company LLC,TX,1120656410.0,distribution_plant
+255096,2020,293,Oncor Electric Delivery Company LLC,TX,1091801291.0,transmission_plant
+255119,2021,293,Oncor Electric Delivery Company LLC,TX,1215836082.0,distribution_plant
+255189,2021,293,Oncor Electric Delivery Company LLC,TX,1002241693.0,transmission_plant
+261480,1994,297,Mississippi Power Company,MA,21552226.0,distribution_plant
+261560,1994,297,Mississippi Power Company,MA,15148451.0,transmission_plant
+261578,1995,297,Mississippi Power Company,MA,26055223.0,distribution_plant
+261678,1995,297,Mississippi Power Company,MA,18707688.0,transmission_plant
+261696,1996,297,Mississippi Power Company,MA,26567715.0,distribution_plant
+261798,1996,297,Mississippi Power Company,MA,22801927.0,transmission_plant
+261820,1997,297,Mississippi Power Company,MA,20956518.0,distribution_plant
+261948,1997,297,Mississippi Power Company,MA,6121568.0,transmission_plant
+261974,1998,297,Mississippi Power Company,MA,16630233.0,distribution_plant
+262054,1998,297,Mississippi Power Company,MA,10908946.0,transmission_plant
+262076,1999,297,Mississippi Power Company,MA,29078298.0,distribution_plant
+262198,1999,297,Mississippi Power Company,MA,8197599.0,transmission_plant
+262228,2000,297,Mississippi Power Company,MA,54166470.0,distribution_plant
+262350,2000,297,Mississippi Power Company,MA,10814796.0,transmission_plant
+262380,2001,297,Mississippi Power Company,MA,40037188.0,distribution_plant
+262504,2001,297,Mississippi Power Company,MA,21831738.0,transmission_plant
+262534,2002,297,Mississippi Power Company,MA,28937396.0,distribution_plant
+262658,2002,297,Mississippi Power Company,MA,12159689.0,transmission_plant
+262702,2003,297,Mississippi Power Company,MA,31413946.0,distribution_plant
+262826,2003,297,Mississippi Power Company,MA,17896220.0,transmission_plant
+262854,2004,297,Mississippi Power Company,MA,29424758.0,distribution_plant
+262940,2004,297,Mississippi Power Company,MA,8120541.0,transmission_plant
+262968,2005,297,Mississippi Power Company,MA,35852200.0,distribution_plant
+263054,2005,297,Mississippi Power Company,MA,8384490.0,transmission_plant
+263084,2006,297,Mississippi Power Company,MA,121583666.0,distribution_plant
+263170,2006,297,Mississippi Power Company,MA,32123346.0,transmission_plant
+263200,2007,297,Mississippi Power Company,MA,49781119.0,distribution_plant
+263286,2007,297,Mississippi Power Company,MA,6128457.0,transmission_plant
+263316,2008,297,Mississippi Power Company,MA,37213555.0,distribution_plant
+263402,2008,297,Mississippi Power Company,MA,19186066.0,transmission_plant
+263432,2009,297,Mississippi Power Company,MA,38504109.0,distribution_plant
+263518,2009,297,Mississippi Power Company,MA,13664072.0,transmission_plant
+263548,2010,297,Mississippi Power Company,MA,27791451.0,distribution_plant
+263634,2010,297,Mississippi Power Company,MA,17229541.0,transmission_plant
+263664,2011,297,Mississippi Power Company,MA,30850008.0,distribution_plant
+263750,2011,297,Mississippi Power Company,MA,34668563.0,transmission_plant
+263780,2012,297,Mississippi Power Company,MA,28573586.0,distribution_plant
+263868,2012,297,Mississippi Power Company,MA,68518440.0,transmission_plant
+263898,2013,297,Mississippi Power Company,MA,34769521.0,distribution_plant
+263986,2013,297,Mississippi Power Company,MA,73265424.0,transmission_plant
+264016,2014,297,Mississippi Power Company,MA,35685247.0,distribution_plant
+264106,2014,297,Mississippi Power Company,MA,32963791.0,transmission_plant
+264136,2015,297,Mississippi Power Company,MA,48947894.0,distribution_plant
+264226,2015,297,Mississippi Power Company,MA,22172934.0,transmission_plant
+264256,2016,297,Mississippi Power Company,MA,35586908.0,distribution_plant
+264346,2016,297,Mississippi Power Company,MA,27317211.0,transmission_plant
+264376,2017,297,Mississippi Power Company,MA,40128799.0,distribution_plant
+264464,2017,297,Mississippi Power Company,MA,28622211.0,transmission_plant
+264494,2018,297,Mississippi Power Company,MA,40523450.0,distribution_plant
+264582,2018,297,Mississippi Power Company,MA,35607472.0,transmission_plant
+264610,2019,297,Mississippi Power Company,MA,74832788.0,distribution_plant
+264696,2019,297,Mississippi Power Company,MA,41229981.0,transmission_plant
+264722,2020,297,Mississippi Power Company,MA,83033081.0,distribution_plant
+264808,2020,297,Mississippi Power Company,MA,48140178.0,transmission_plant
+264854,2021,297,Mississippi Power Company,MA,84370210.0,distribution_plant
+264994,2021,297,Mississippi Power Company,MA,48529878.0,transmission_plant
+313817,1994,382,"entergy mississippi, llc",MA,72449787.0,distribution_plant
+313940,1994,382,"entergy mississippi, llc",MA,15496855.0,transmission_plant
+313970,1995,382,"entergy mississippi, llc",MA,47910374.0,distribution_plant
+314099,1995,382,"entergy mississippi, llc",MA,17211603.0,transmission_plant
+314138,1996,382,"entergy mississippi, llc",MA,45601486.0,distribution_plant
+314330,1996,382,"entergy mississippi, llc",MA,23602954.0,transmission_plant
+314375,1997,382,"entergy mississippi, llc",MA,33952804.0,distribution_plant
+314567,1997,382,"entergy mississippi, llc",MA,24629351.0,transmission_plant
+314603,1998,382,"entergy mississippi, llc",MA,29432363.0,distribution_plant
+314711,1998,382,"entergy mississippi, llc",MA,7183671.0,transmission_plant
+314744,1999,382,"entergy mississippi, llc",MA,41461332.0,distribution_plant
+314927,1999,382,"entergy mississippi, llc",MA,6964639.0,transmission_plant
+314972,2000,382,"entergy mississippi, llc",MA,71754699.0,distribution_plant
+315155,2000,382,"entergy mississippi, llc",MA,25334866.0,transmission_plant
+315200,2001,382,"entergy mississippi, llc",MA,51410866.0,distribution_plant
+315386,2001,382,"entergy mississippi, llc",MA,12201404.0,transmission_plant
+315431,2002,382,"entergy mississippi, llc",MA,76175934.0,distribution_plant
+315617,2002,382,"entergy mississippi, llc",MA,36191961.0,transmission_plant
+315683,2003,382,"entergy mississippi, llc",MA,69614950.0,distribution_plant
+315866,2003,382,"entergy mississippi, llc",MA,57910218.0,transmission_plant
+315902,2004,382,"entergy mississippi, llc",MA,91258970.0,distribution_plant
+316013,2004,382,"entergy mississippi, llc",MA,40164878.0,transmission_plant
+316046,2005,382,"entergy mississippi, llc",MA,81356041.0,distribution_plant
+316157,2005,382,"entergy mississippi, llc",MA,33411146.0,transmission_plant
+316196,2006,382,"entergy mississippi, llc",MA,93944437.0,distribution_plant
+316331,2006,382,"entergy mississippi, llc",MA,20165360.0,transmission_plant
+316370,2007,382,"entergy mississippi, llc",MA,92467904.0,distribution_plant
+316505,2007,382,"entergy mississippi, llc",MA,38161690.0,transmission_plant
+316544,2008,382,"entergy mississippi, llc",MA,66094379.0,distribution_plant
+316676,2008,382,"entergy mississippi, llc",MA,24590213.0,transmission_plant
+316721,2009,382,"entergy mississippi, llc",MA,93038849.0,distribution_plant
+316856,2009,382,"entergy mississippi, llc",MA,11255430.0,transmission_plant
+316901,2010,382,"entergy mississippi, llc",MA,79376477.0,distribution_plant
+317036,2010,382,"entergy mississippi, llc",MA,18062028.0,transmission_plant
+317078,2011,382,"entergy mississippi, llc",MA,76479896.0,distribution_plant
+317210,2011,382,"entergy mississippi, llc",MA,57753069.0,transmission_plant
+317249,2012,382,"entergy mississippi, llc",MA,104929192.0,distribution_plant
+317381,2012,382,"entergy mississippi, llc",MA,92507268.0,transmission_plant
+317420,2013,382,"entergy mississippi, llc",MA,85912818.0,distribution_plant
+317552,2013,382,"entergy mississippi, llc",MA,72445879.0,transmission_plant
+317591,2014,382,"entergy mississippi, llc",MA,78896574.0,distribution_plant
+317723,2014,382,"entergy mississippi, llc",MA,23681380.0,transmission_plant
+317762,2015,382,"entergy mississippi, llc",MA,89474655.0,distribution_plant
+317894,2015,382,"entergy mississippi, llc",MA,34188191.0,transmission_plant
+317927,2016,382,"entergy mississippi, llc",MA,126881770.0,distribution_plant
+318050,2016,382,"entergy mississippi, llc",MA,103376419.0,transmission_plant
+318083,2017,382,"entergy mississippi, llc",MA,125919141.0,distribution_plant
+318206,2017,382,"entergy mississippi, llc",MA,190527851.0,transmission_plant
+318242,2018,382,"entergy mississippi, llc",MA,132373284.0,distribution_plant
+318365,2018,382,"entergy mississippi, llc",MA,170199847.0,transmission_plant
+318401,2019,382,"entergy mississippi, llc",MA,204869044.0,distribution_plant
+318524,2019,382,"entergy mississippi, llc",MA,115319613.0,transmission_plant
+318560,2020,382,"entergy mississippi, llc",MA,224037829.0,distribution_plant
+318683,2020,382,"entergy mississippi, llc",MA,130522062.0,transmission_plant
+318755,2021,382,"entergy mississippi, llc",MA,302333457.0,distribution_plant
+318965,2021,382,"entergy mississippi, llc",MA,175899979.0,transmission_plant
+330258,1998,402,"East Texas Electric Cooperative, Inc.",TX,31412882.0,transmission_plant
+330324,1999,402,"East Texas Electric Cooperative, Inc.",TX,10295687.0,transmission_plant
+330398,2000,402,"East Texas Electric Cooperative, Inc.",TX,772948.0,transmission_plant
+330472,2001,402,"East Texas Electric Cooperative, Inc.",TX,603178.0,transmission_plant
+330546,2002,402,"East Texas Electric Cooperative, Inc.",TX,112670.0,transmission_plant
+330627,2003,402,"East Texas Electric Cooperative, Inc.",TX,90305.0,transmission_plant
+330649,2004,402,"East Texas Electric Cooperative, Inc.",TX,210812.0,transmission_plant
+338718,2006,426,Nantucket Electric Company,MA,42250294.0,distribution_plant
