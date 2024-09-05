@@ -7,7 +7,7 @@ from functools import reduce
 # It is available at https://s3.us-west-2.amazonaws.com/intake.catalyst.coop/dev/pudl.sqlite
 
 ## electric_energy_dispositions_ferc1
-electric_energy_dispositions_ferc1 = pd.read_sql('electric_energy_dispositions_ferc1','sqlite:///pudl.sqlite')
+electric_energy_dispositions_ferc1 = pd.read_sql_table('core_ferc1__yearly_energy_dispositions_sched401','sqlite:///pudl.sqlite')
 electric_energy_dispositions_ferc1.drop(labels=['row_type_xbrl','record_id'],axis='columns',inplace=True)
 electric_energy_dispositions_ferc1_wide = pd.pivot(electric_energy_dispositions_ferc1,index=['utility_id_ferc1','report_year'],
                                                    columns='energy_disposition_type',
@@ -24,7 +24,7 @@ electric_energy_dispositions_ferc1_wide = electric_energy_dispositions_ferc1_wid
 
 ## electric_operating_expenses_ferc1
 
-electric_operating_expenses_ferc1 = pd.read_sql('electric_operating_expenses_ferc1','sqlite:///pudl.sqlite')
+electric_operating_expenses_ferc1 = pd.read_sql('out_ferc1__yearly_operating_expenses_sched320','sqlite:///pudl.sqlite')
 electric_operating_expenses_ferc1.drop(labels=['record_id','row_type_xbrl'],axis='columns',inplace=True)
 electric_operating_expenses_ferc1_wide = pd.pivot(electric_operating_expenses_ferc1,
                                                   index=['utility_id_ferc1','report_year'],
@@ -36,6 +36,8 @@ electric_operating_expenses_ferc1_wide.reset_index(inplace=True)
 electric_operating_expenses_ferc1_wide.columns = electric_operating_expenses_ferc1_wide.columns.str.replace('dollar_value_', '')
 
 electric_operating_expenses_ferc1_wide = electric_operating_expenses_ferc1_wide[['load_dispatching',
+                                                                                 'purchased_power',
+                                                                                 'power_production_expenses',
                                                                                  'power_production_expenses_hydraulic_power',
                                                                                  'power_production_expenses_nuclear_power',
                                                                                  'power_production_expenses_other_power',
@@ -53,27 +55,62 @@ electric_operating_expenses_ferc1_wide = electric_operating_expenses_ferc1_wide[
                                                                                 'maintenance_of_structures_distribution_expense',
                                                                                 'maintenance_of_underground_lines',
                                                                                 'maintenance_supervision_and_engineering',
+                                                                                'maintenance_of_street_lighting_and_signal_systems',
+                                                                                'operation_supervision_and_engineering_distribution_expense',
+                                                                                'load_dispatching',
+                                                                                'station_expenses_distribution',
+                                                                                'overhead_line_expenses',
+                                                                                'underground_line_expenses',
+                                                                                'street_lighting_and_signal_system_expenses',
+                                                                                'meter_expenses',
+                                                                                'customer_installations_expenses',
+                                                                                'miscellaneous_distribution_expenses',
+                                                                                'rents_distribution_expense',
                                                                                  'distribution_operation_expenses_electric',
                                                                                  'transmission_expenses',
                                                                                  'regional_market_expenses',
                                                                                  'sales_expenses',
                                                                                  'administrative_and_general_expenses',
+                                                                                 'injuries_and_damages',
                                                                                  'customer_account_expenses',
                                                                                  'customer_service_and_information_expenses',
                                                                                  'transmission_maintenance_expense_electric',
                                                                                  'transmission_operation_expense',
-                                                                                 'underground_line_expenses',
-                                                                                 'overhead_line_expenses',
-                                                                                 'overhead_line_expense',
                                                                                  'purchased_power',
                                                                                  'power_production_expenses',
                                                                                  'utility_id_ferc1',
+                                                                                 'generation_interconnection_studies',
+'load_dispatch_monitor_and_operate_transmission_system',
+'overhead_line_expense',
+'load_dispatch_reliability',
+'load_dispatch_transmission_service_and_scheduling',
+'maintenance_of_overhead_lines_transmission',
+'miscellaneous_transmission_expenses',
+'operation_supervision_and_engineering_electric_transmission_expenses',
+'overhead_line_expense',
+'reliability_planning_and_standards_development',
+'reliability_planning_and_standards_development_services',
+'rents_transmission_electric_expense',
+'scheduling_system_control_and_dispatch_services',
+'station_expenses_transmission_expense',
+'transmission_of_electricity_by_others',
+'transmission_service_studies',
+'underground_line_expenses_transmission_expense',
+'maintenance_of_communication_equipment_electric_transmission',
+'maintenance_of_computer_hardware_transmission',
+'maintenance_of_computer_software_transmission',
+'maintenance_of_miscellaneous_regional_transmission_plant',
+'maintenance_of_miscellaneous_transmission_plant',
+'maintenance_of_overhead_lines_transmission',
+'maintenance_of_structures_transmission_expense',
+'maintenance_of_underground_lines_transmission',
+'maintenance_supervision_and_engineering_electric_transmission_expenses',
                                                                                  'report_year']]
 
 
 # electric_operating_revenues_ferc1
 
-electric_operating_revenues_ferc1 = pd.read_sql('electric_operating_revenues_ferc1','sqlite:///pudl.sqlite')
+electric_operating_revenues_ferc1 = pd.read_sql('out_ferc1__yearly_operating_revenues_sched300','sqlite:///pudl.sqlite')
 electric_operating_revenues_ferc1.drop(labels=['record_id',
                                            'ferc_account',
                                            'row_type_xbrl'
@@ -111,7 +148,7 @@ electric_operating_revenues_ferc1_wide = electric_operating_revenues_ferc1_wide[
 ## Not possible to get subtotals by res/ind/com - data is far too messy. 
 ## https://data.catalyst.coop/pudl/electricity_sales_by_rate_schedule_ferc1
 
-electricity_sales_by_rate_schedule_ferc1 = pd.read_sql('electricity_sales_by_rate_schedule_ferc1','sqlite:///pudl.sqlite')
+electricity_sales_by_rate_schedule_ferc1 = pd.read_sql('out_ferc1__yearly_sales_by_rate_schedules_sched304','sqlite:///pudl.sqlite')
 electricity_sales_by_rate_schedule_ferc1 = electricity_sales_by_rate_schedule_ferc1[['utility_id_ferc1',
                                                                                      'avg_customers_per_month',
                                                                                      'report_year',
@@ -120,10 +157,52 @@ electricity_sales_by_rate_schedule_ferc1_agg = electricity_sales_by_rate_schedul
                                                   'report_year']).sum()
 
                                                 
+# plant in service
+
+plant_in_service =pd.read_sql('out_ferc1__yearly_plant_in_service_sched204','sqlite:///pudl.sqlite')
+plant_in_service.drop(['row_type_xbrl','record_id','ferc_account','retirements','adjustments','transfers','plant_status','utility_type'],axis='columns',inplace=True)
+
+generation_plant = plant_in_service[plant_in_service['ferc_account_label'].str.contains("production_plant")]
+
+generation_plant_wide = pd.pivot(generation_plant,
+                                                  index=['utility_id_ferc1','report_year'],
+                                                  columns='ferc_account_label',
+                                                  values=['additions','starting_balance','ending_balance'])
+generation_plant_wide.columns = generation_plant_wide.columns.to_series().str.join('_')
+generation_plant_wide.reset_index(inplace=True)
+
+
+transmission_plant = plant_in_service[plant_in_service['ferc_account_label'].str.contains("transmission_plant")]
+
+transmission_plant_wide = pd.pivot(transmission_plant,
+                                                  index=['utility_id_ferc1','report_year'],
+                                                  columns='ferc_account_label',
+                                                  values=['additions','starting_balance','ending_balance'])
+transmission_plant_wide.columns = transmission_plant_wide.columns.to_series().str.join('_')
+transmission_plant_wide.reset_index(inplace=True)
+
+distribution_plant = plant_in_service[plant_in_service['ferc_account_label'].str.contains("distribution_plant")]
+
+distribution_plant_wide = pd.pivot(distribution_plant,
+                                                  index=['utility_id_ferc1','report_year'],
+                                                  columns='ferc_account_label',
+                                                  values=['additions','starting_balance','ending_balance'])
+distribution_plant_wide.columns = distribution_plant_wide.columns.to_series().str.join('_')
+distribution_plant_wide.reset_index(inplace=True)
+
+transmission_distribution_plant_wide = pd.merge(transmission_plant_wide,
+                                                            distribution_plant_wide,
+                                                            on=['utility_id_ferc1','report_year'],
+                                  how='outer')
+
+gen_transmission_distribution_plant_wide = pd.merge(generation_plant_wide,
+                                                            transmission_distribution_plant_wide,
+                                                            on=['utility_id_ferc1','report_year'],
+                                  how='outer')
 
 # transmission_statistics_ferc1
 
-transmission_statistics_ferc1 = pd.read_sql('transmission_statistics_ferc1','sqlite:///pudl.sqlite')
+transmission_statistics_ferc1 = pd.read_sql('out_ferc1__yearly_transmission_lines_sched422','sqlite:///pudl.sqlite')
 transmission_statistics_ferc1.drop(labels=['record_id',
                                            'conductor_size_and_material',
                                            'start_point',
@@ -144,7 +223,7 @@ transmission_statistics_ferc1 = transmission_statistics_ferc1.groupby(
 # utility-nerc crosswalk
 
 ferc1_eia_crosswalk = pd.read_csv('../datafiles/utility_id_pudl.csv')
-utility_data_nerc_eia861 = pd.read_sql_table('utility_data_nerc_eia861','sqlite:///pudl.sqlite')
+utility_data_nerc_eia861 = pd.read_sql_table('core_eia861__yearly_utility_data_nerc','sqlite:///pudl.sqlite')
 
 nerc_data_onferc1 = pd.merge(ferc1_eia_crosswalk,
                              utility_data_nerc_eia861,
@@ -180,6 +259,12 @@ dispositions_and_opex_and_transmission_and_sales_and_rev = pd.merge(dispositions
                                                             on=['utility_id_ferc1','report_year'],
                                   how='outer')
 
+
+dispositions_and_opex_and_transmission_and_sales_and_rev_and_gtdplant = pd.merge(dispositions_and_opex_and_transmission_and_sales_and_rev,
+                                                            gen_transmission_distribution_plant_wide,
+                                                            on=['utility_id_ferc1','report_year'],
+                                  how='outer')
+
 dispositions_and_opex_and_transmission_nerc = pd.merge(
     dispositions_and_opex_and_transmission,
     nerc_data_onferc1,
@@ -191,6 +276,7 @@ dispositions_and_opex_and_transmission_nerc = pd.merge(
 
 #dispositions_and_opex_and_transmission.to_csv('dispositions_and_opex_and_transmission.csv')
 dispositions_and_opex_and_transmission_and_sales_and_rev.to_csv('../datafiles/dispositions_and_opex_and_transmission_and_sales_and_rev.csv')
+dispositions_and_opex_and_transmission_and_sales_and_rev_and_gtdplant.to_csv('../datafiles/dispositions_and_opex_and_transmission_and_sales_and_rev_and_gtdplant.csv')
 
 '''
 
